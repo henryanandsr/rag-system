@@ -10,6 +10,14 @@ def extract_text_from_pdf(file_path):
             text += page.extract_text()
         return text
 
+# Extract information from csv
+def chunk_per_row(df):
+    chunks = []
+    for _, row in df.iterrows():
+        chunk = ','.join([f"{col}: {row[col]}" for col in df.columns])
+        chunks.append(chunk)
+    return chunks
+
 # Chunk text
 def chunk_text(text, chunk_size=512, overlap=50):
     words = text.split()

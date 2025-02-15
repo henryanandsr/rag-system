@@ -1,0 +1,1151 @@
+Perusahaan,Produk,Kalori,Kalori dari Lemak,Total Lemak,Lemak Jenuh (g),Lemak tak Jenuh (g),Kolestrol (mg),Sodium (mg),Karbohidrat (g),Serat (g),Gula (g),Protein (g),WW Poin
+McDollops,Hamburger,250.0,80.0,9.0,3.5,0.5,25.0,520.0,31.0,2.0,6.0,12.0,247.5
+McDollops,Cheeseburger,300.0,110.0,12.0,6.0,0.5,40.0,750.0,33.0,2.0,6.0,15.0,297.0
+McDollops,Double Cheeseburger,440.0,210.0,23.0,11.0,1.5,80.0,1150.0,34.0,2.0,7.0,25.0,433.0
+McDollops,McDouble,390.0,170.0,19.0,8.0,1.0,65.0,920.0,33.0,2.0,7.0,22.0,383.0
+McDollops, Quarter Pounder® with Cheese,510.0,230.0,26.0,12.0,1.5,90.0,1190.0,40.0,3.0,9.0,29.0,502.0
+McDollops,Double Quarter Pounder® with Cheese,740.0,380.0,42.0,19.0,2.5,155.0,1380.0,40.0,3.0,9.0,48.0,720.0
+McDollops,Big Mac®,540.0,260.0,29.0,10.0,1.5,75.0,1040.0,45.0,3.0,9.0,25.0,534.0
+McDollops,Big N’ Tasty®,460.0,220.0,24.0,8.0,1.5,70.0,720.0,37.0,3.0,8.0,24.0,452.0
+McDollops,Big N’ Tasty® with Cheese,510.0,250.0,28.0,11.0,1.5,85.0,960.0,38.0,3.0,8.0,27.0,502.0
+McDollops,Angus Bacon & Cheese,790.0,350.0,39.0,17.0,2.0,145.0,2070.0,63.0,4.0,13.0,45.0,775.0
+McDollops,Angus Deluxe,750.0,350.0,39.0,16.0,2.0,135.0,1700.0,61.0,4.0,10.0,40.0,736.0
+McDollops,Angus Mushroom & Swiss,770.0,360.0,40.0,17.0,2.0,135.0,1170.0,59.0,4.0,8.0,44.0,751.0
+McDollops,Filet-O-Fish®,380.0,170.0,18.0,3.5,0.0,40.0,640.0,38.0,2.0,5.0,15.0,373.5
+McDollops,McChicken ®,360.0,150.0,16.0,3.0,0.0,35.0,830.0,40.0,2.0,5.0,14.0,354.0
+McDollops,McRib ®,500.0,240.0,26.0,10.0,0.0,70.0,980.0,44.0,3.0,11.0,22.0,499.0
+McDollops,Premium Grilled Chicken Classic Sandwich,360.0,80.0,9.0,2.0,0.0,65.0,820.0,41.0,4.0,8.0,27.0,343.0
+McDollops,Premium Crispy Chicken Classic Sandwich,510.0,200.0,22.0,3.5,0.0,45.0,990.0,56.0,3.0,10.0,24.0,499.5
+McDollops,Premium Grilled Chicken Club Sandwich,460.0,150.0,17.0,6.0,0.0,90.0,1040.0,43.0,4.0,9.0,35.0,440.0
+McDollops,Premium Crispy Chicken Club Sandwich,620.0,260.0,29.0,7.0,0.0,70.0,1200.0,57.0,3.0,11.0,31.0,607.0
+McDollops,Premium Grilled Chicken Ranch BLT Sandwich,380.0,90.0,10.0,3.0,0.0,75.0,1000.0,41.0,4.0,9.0,31.0,361.0
+McDollops,Premium Crispy Chicken Ranch BLT Sandwich,540.0,210.0,23.0,4.5,0.0,55.0,1160.0,56.0,3.0,11.0,27.0,528.5
+McDollops,Southern Style Crispy Chicken Sandwich,400.0,150.0,17.0,3.0,0.0,45.0,1030.0,39.0,1.0,6.0,24.0,385.0
+McDollops,Ranch Snack Wrap® (Crispy),340.0,150.0,17.0,4.5,0.0,30.0,810.0,33.0,1.0,2.0,14.0,332.5
+McDollops,Ranch Snack Wrap® (Grilled),270.0,90.0,10.0,4.0,0.0,45.0,830.0,26.0,1.0,2.0,18.0,258.0
+McDollops,Honey Mustard Snack Wrap® (Crispy),330.0,140.0,16.0,4.5,0.0,30.0,780.0,34.0,1.0,4.0,14.0,324.5
+McDollops,Honey Mustard Snack Wrap® (Grilled),260.0,80.0,9.0,3.5,0.0,45.0,800.0,27.0,1.0,4.0,18.0,249.5
+McDollops,Chipotle BBQ Snack Wrap® (Crispy),330.0,140.0,15.0,4.5,0.0,30.0,810.0,35.0,1.0,4.0,14.0,324.5
+McDollops,Chipotle BBQ Snack Wrap® (Grilled),260.0,80.0,9.0,3.5,0.0,45.0,830.0,28.0,1.0,5.0,18.0,250.5
+McDollops,Angus Bacon & Cheese Snack Wrap,390.0,190.0,21.0,9.0,1.0,75.0,1080.0,28.0,1.0,4.0,21.0,382.0
+McDollops,Angus Chipotle BBQ Bacon,800.0,350.0,39.0,18.0,2.0,145.0,2020.0,66.0,4.0,16.0,45.0,789.0
+McDollops,Angus Chipotle BBQ Bacon Snack Wrap,400.0,190.0,22.0,10.0,1.0,75.0,1060.0,30.0,1.0,6.0,21.0,395.0
+McDollops,Angus Deluxe Snack Wrap,410.0,220.0,25.0,10.0,1.5,75.0,990.0,27.0,2.0,3.0,20.0,403.0
+McDollops,Angus Mushroom & Swiss Snack Wrap,430.0,230.0,26.0,10.0,1.5,75.0,730.0,27.0,2.0,2.0,22.0,420.0
+McDollops,Mac Snack Wrap,330.0,170.0,19.0,7.0,1.0,45.0,690.0,26.0,1.0,3.0,15.0,325.0
+McDollops,Small French Fries,230.0,100.0,11.0,1.5,0.0,0.0,160.0,29.0,3.0,0.0,3.0,228.5
+McDollops,Medium French Fries,380.0,170.0,19.0,2.5,0.0,0.0,270.0,48.0,5.0,0.0,4.0,378.5
+McDollops,Large French Fries,500.0,220.0,25.0,3.5,0.0,0.0,350.0,63.0,6.0,0.0,6.0,497.5
+McDollops,Ketchup Packet,15.0,0.0,0.0,0.0,0.0,0.0,110.0,3.0,0.0,2.0,0.0,17.0
+McDollops,Salt Packet,0.0,0.0,0.0,0.0,0.0,0.0,270.0,0.0,0.0,0.0,0.0,0.0
+McDollops,Chicken McNuggets® (4 piece),190.0,110.0,12.0,2.0,0.0,25.0,360.0,12.0,1.0,0.0,9.0,183.0
+McDollops,Chicken McNuggets® (6 piece),280.0,160.0,18.0,3.0,0.0,40.0,540.0,18.0,1.0,0.0,13.0,270.0
+McDollops,Chicken McNuggets® (10 piece),470.0,270.0,30.0,5.0,0.0,65.0,900.0,30.0,2.0,0.0,22.0,453.0
+McDollops,Barbeque Sauce,50.0,0.0,0.0,0.0,0.0,0.0,260.0,12.0,0.0,10.0,0.0,60.0
+McDollops,Honey,50.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,11.0,0.0,61.0
+McDollops,Hot Mustard Sauce,60.0,20.0,2.5,0.0,0.0,5.0,250.0,9.0,2.0,6.0,1.0,65.0
+McDollops,Sweet ‘N Sour Sauce,50.0,0.0,0.0,0.0,0.0,0.0,150.0,12.0,0.0,10.0,0.0,60.0
+McDollops,Chicken Selects® Premium Breast Strips (3 pc),400.0,210.0,24.0,3.5,0.0,50.0,1010.0,23.0,0.0,0.0,23.0,380.5
+McDollops,Chicken Selects® Premium Breast Strips (5 pc),660.0,360.0,40.0,6.0,0.0,85.0,1680.0,39.0,0.0,0.0,38.0,628.0
+McDollops,Spicy Buffalo Sauce,60.0,50.0,6.0,1.0,0.0,0.0,800.0,1.0,1.0,0.0,0.0,61.0
+McDollops,Creamy Ranch Sauce,170.0,160.0,18.0,3.0,0.0,10.0,270.0,2.0,0.0,1.0,0.0,174.0
+McDollops,Tangy Honey Mustard Sauce,60.0,20.0,2.0,0.0,0.0,5.0,140.0,10.0,0.0,8.0,0.0,68.0
+McDollops,Southwestern Chipotle Barbeque Sauce,60.0,0.0,0.0,0.0,0.0,0.0,210.0,15.0,1.0,11.0,0.0,71.0
+McDollops,Premium Southwest Salad with Grilled Chicken,320.0,80.0,9.0,3.0,0.0,70.0,960.0,30.0,6.0,11.0,30.0,304.0
+McDollops,Premium Southwest Salad with Crispy Chicken,430.0,180.0,20.0,4.0,0.0,55.0,920.0,38.0,6.0,12.0,26.0,420.0
+McDollops,Premium Southwest Salad (without chicken),140.0,40.0,4.5,2.0,0.0,10.0,150.0,20.0,6.0,6.0,6.0,142.0
+McDollops,Premium Bacon Ranch Salad with Grilled Chicken,260.0,90.0,9.0,4.0,0.0,90.0,1010.0,12.0,3.0,5.0,33.0,236.0
+McDollops,Premium Bacon Ranch Salad with Crispy Chicken,370.0,180.0,20.0,6.0,0.0,75.0,970.0,20.0,3.0,6.0,29.0,353.0
+McDollops,Premium Bacon Ranch Salad (without chicken),140.0,70.0,7.0,3.5,0.0,25.0,300.0,10.0,3.0,4.0,9.0,138.5
+McDollops,Premium Caesar Salad with Grilled Chicken,220.0,60.0,6.0,3.0,0.0,75.0,890.0,12.0,3.0,5.0,30.0,198.0
+McDollops,Premium Caesar Salad with Crispy Chicken,330.0,150.0,17.0,4.5,0.0,60.0,840.0,20.0,3.0,6.0,26.0,314.5
+McDollops,Premium Caesar Salad (without chicken),90.0,35.0,4.0,2.5,0.0,10.0,180.0,9.0,3.0,4.0,7.0,89.5
+McDollops,Side Salad,20.0,0.0,0.0,0.0,0.0,0.0,10.0,4.0,1.0,2.0,1.0,21.0
+McDollops,Butter Garlic Croutons,60.0,15.0,1.5,0.0,0.0,0.0,140.0,10.0,1.0,0.0,2.0,58.0
+McDollops,Snack Size Fruit & Walnut Salad,210.0,70.0,8.0,1.5,0.0,5.0,60.0,31.0,2.0,25.0,4.0,232.5
+McDollops,Salad Dressings,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+McDollops,Newman’s Own® Creamy Southwest Dressing,100.0,50.0,6.0,1.0,0.0,20.0,340.0,11.0,0.0,3.0,1.0,103.0
+McDollops,Newman’s Own® Creamy Caesar Dressing,190.0,170.0,18.0,3.5,0.0,20.0,500.0,4.0,0.0,2.0,2.0,193.5
+McDollops,Newman’s Own® Low Fat Balsamic Vinaigrette,40.0,25.0,3.0,0.0,0.0,0.0,730.0,4.0,0.0,3.0,0.0,43.0
+McDollops,Newman’s Own® Low Fat Family Recipe Italian Dressing,60.0,20.0,2.5,0.0,0.0,0.0,730.0,8.0,0.0,1.0,1.0,60.0
+McDollops,Newman’s Own® Ranch Dressing,170.0,130.0,15.0,2.5,0.0,20.0,530.0,9.0,0.0,4.0,1.0,175.5
+McDollops,Egg McMuffin®,300.0,110.0,12.0,5.0,0.0,260.0,820.0,30.0,2.0,3.0,18.0,290.0
+McDollops,Sausage McMuffin®,370.0,200.0,22.0,8.0,0.0,45.0,850.0,29.0,2.0,2.0,14.0,366.0
+McDollops,Sausage McMuffin® with Egg,450.0,250.0,27.0,10.0,0.0,285.0,920.0,30.0,2.0,2.0,21.0,441.0
+McDollops,English Muffin,160.0,30.0,3.0,0.5,0.0,0.0,280.0,27.0,2.0,2.0,5.0,157.5
+McDollops,"Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)",420.0,210.0,23.0,12.0,0.0,235.0,1160.0,37.0,2.0,3.0,15.0,420.0
+McDollops,"Bacon, Egg & Cheese Biscuit (Large Size Biscuit)",480.0,240.0,27.0,12.0,0.0,235.0,1270.0,43.0,3.0,4.0,15.0,481.0
+McDollops,Sausage Biscuit with Egg (Regular Size Biscuit),510.0,290.0,33.0,14.0,0.0,250.0,1170.0,36.0,2.0,2.0,18.0,508.0
+McDollops,Sausage Biscuit with Egg (Large Size Biscuit),570.0,330.0,37.0,15.0,0.0,250.0,1280.0,42.0,3.0,3.0,18.0,570.0
+McDollops,Sausage Biscuit (Regular Size Biscuit),430.0,240.0,27.0,12.0,0.0,30.0,1080.0,34.0,2.0,2.0,11.0,433.0
+McDollops,Sausage Biscuit (Large Size Biscuit),480.0,280.0,31.0,13.0,0.0,30.0,1190.0,39.0,3.0,3.0,11.0,485.0
+McDollops,Southern Style Chicken Biscuit (Regular Size Biscuit),410.0,180.0,20.0,8.0,0.0,30.0,1180.0,41.0,2.0,3.0,17.0,404.0
+McDollops,Southern Style Chicken Biscuit (Large Size Biscuit),470.0,220.0,24.0,9.0,0.0,30.0,1290.0,46.0,3.0,4.0,17.0,466.0
+McDollops,"Steak, Egg & Cheese Bagel",660.0,300.0,33.0,12.0,1.0,300.0,1580.0,56.0,3.0,7.0,33.0,646.0
+McDollops,"Bacon, Egg & Cheese McGriddles®",420.0,160.0,18.0,8.0,0.0,240.0,1110.0,48.0,2.0,15.0,15.0,428.0
+McDollops,"Sausage, Egg & Cheese McGriddles®",560.0,290.0,32.0,12.0,0.0,265.0,1360.0,48.0,2.0,15.0,20.0,567.0
+McDollops,Sausage McGriddles®,420.0,200.0,22.0,8.0,0.0,35.0,1030.0,44.0,2.0,15.0,11.0,432.0
+McDollops,Big Breakfast® (Regular Size Biscuit),740.0,430.0,48.0,17.0,0.0,555.0,1560.0,51.0,3.0,3.0,28.0,732.0
+McDollops,Big Breakfast® (Large Size Biscuit),800.0,470.0,52.0,18.0,0.0,555.0,1680.0,56.0,4.0,3.0,28.0,793.0
+McDollops,Big Breakfast with Hotcakes (Regular Size Biscuit),1090.0,510.0,56.0,19.0,0.0,575.0,2150.0,111.0,6.0,17.0,36.0,1090.0
+McDollops,Big Breakfast with Hotcakes (Large Size Biscuit),1150.0,540.0,60.0,20.0,0.0,575.0,2260.0,116.0,7.0,17.0,36.0,1151.0
+McDollops,Sausage Burrito,300.0,140.0,16.0,7.0,0.0,115.0,830.0,26.0,1.0,2.0,12.0,297.0
+McDollops,McSkillet™ Burrito with Sausage,610.0,320.0,36.0,14.0,0.5,410.0,1390.0,44.0,3.0,4.0,27.0,601.0
+McDollops,Hotcakes,350.0,80.0,9.0,2.0,0.0,20.0,590.0,60.0,3.0,14.0,8.0,358.0
+McDollops,Hotcakes and Sausage,520.0,210.0,24.0,7.0,0.0,50.0,930.0,61.0,3.0,14.0,15.0,526.0
+McDollops,Hotcake Syrup,180.0,0.0,0.0,0.0,0.0,0.0,20.0,45.0,0.0,32.0,0.0,212.0
+McDollops,Whipped Margarine (1 pat),40.0,40.0,4.5,1.5,0.0,0.0,55.0,0.0,0.0,0.0,0.0,41.5
+McDollops,Hash Brown,150.0,80.0,9.0,1.5,0.0,0.0,310.0,15.0,2.0,0.0,1.0,150.5
+McDollops,Grape Jam,35.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,9.0,0.0,44.0
+McDollops,Strawberry Preserves,35.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,9.0,0.0,44.0
+McDollops,"Bacon, Egg & Cheese Bagel",560.0,240.0,27.0,9.0,0.5,260.0,1300.0,56.0,3.0,7.0,24.0,552.0
+McDollops,Fruit & Maple Oatmeal,290.0,40.0,4.5,2.0,0.0,10.0,160.0,57.0,5.0,32.0,5.0,319.0
+McDollops,Fruit & Maple Oatmeal without Brown Sugar,260.0,40.0,4.5,2.0,0.0,10.0,115.0,48.0,5.0,18.0,5.0,275.0
+McDollops,Hamburger Happy Meal,475.0,117.55555555555556,16.0,4.066790352504638,0.0,40.0,690.0,62.0,2.0,20.0,22.0,310.27054794520546
+McDollops,4 Piece Chicken McNuggets Happy Meal,395.0,117.55555555555556,17.0,3.5,0.0,35.0,510.0,41.0,1.0,14.0,19.0,310.27054794520546
+McDollops,6 Piece Chicken McNuggets® Happy Meal,475.0,117.55555555555556,22.0,4.5,0.0,50.0,680.0,46.0,2.0,14.0,24.0,310.27054794520546
+McDollops,Fruit ‘n Yogurt Parfait (7 oz),160.0,20.0,2.0,1.0,0.0,5.0,85.0,31.0,1.0,21.0,4.0,178.0
+McDollops,Low Fat Caramel Dip,70.0,5.0,0.5,0.0,0.0,5.0,35.0,15.0,0.0,9.0,0.0,79.0
+McDollops,Vanilla Reduced Fat Ice Cream Cone,150.0,35.0,3.5,2.0,0.0,15.0,60.0,24.0,0.0,18.0,4.0,166.0
+McDollops,Kiddie Cone,45.0,10.0,1.0,0.5,0.0,5.0,20.0,8.0,0.0,6.0,1.0,50.5
+McDollops,Strawberry Sundae,280.0,60.0,6.0,4.0,0.0,25.0,95.0,49.0,1.0,45.0,6.0,323.0
+McDollops,Hot Caramel Sundae,340.0,70.0,8.0,5.0,0.0,30.0,160.0,60.0,1.0,44.0,7.0,382.0
+McDollops,Hot Fudge Sundae,330.0,90.0,10.0,7.0,0.0,25.0,180.0,54.0,2.0,48.0,8.0,377.0
+McDollops,Peanuts (for Sundaes),45.0,30.0,3.5,0.5,0.0,0.0,0.0,2.0,1.0,0.0,2.0,43.5
+McDollops,McFlurry® with M&M’S® Candies (12 fl oz cup),710.0,230.0,25.0,16.0,1.0,60.0,220.0,105.0,4.0,97.0,15.0,808.0
+McDollops,McFlurry® with OREO® Cookies (12 fl oz cup),580.0,170.0,19.0,10.0,1.0,50.0,320.0,89.0,3.0,73.0,13.0,650.0
+McDollops,Baked Hot Apple Pie,250.0,110.0,13.0,7.0,0.0,0.0,170.0,32.0,4.0,13.0,2.0,268.0
+McDollops,Cinnamon Melts,460.0,170.0,19.0,9.0,0.0,15.0,370.0,66.0,3.0,32.0,6.0,495.0
+McDollops,McDonaldland® Cookies,260.0,70.0,8.0,2.5,0.0,0.0,300.0,43.0,1.0,13.0,4.0,271.5
+McDollops,Chocolate Chip Cookie,160.0,70.0,8.0,3.5,0.0,10.0,90.0,21.0,1.0,15.0,2.0,176.5
+McDollops,Oatmeal Raisin Cookie,150.0,50.0,6.0,2.5,0.0,10.0,135.0,22.0,1.0,13.0,2.0,163.5
+McDollops,Sugar Cookie,160.0,60.0,7.0,3.0,0.0,5.0,120.0,21.0,0.0,11.0,2.0,172.0
+McDollops,Apple Dippers with Low Fat Caramel Dip,100.0,5.0,0.5,0.0,0.0,5.0,35.0,23.0,0.0,15.0,0.0,115.0
+McDollops,Chocolate McCafé® Shake (12 fl oz cup),580.0,150.0,17.0,10.0,1.0,50.0,240.0,94.0,1.0,77.0,11.0,656.0
+McDollops,Chocolate McCafé® Shake (16 fl oz cup),720.0,180.0,20.0,12.0,1.0,60.0,300.0,119.0,1.0,98.0,15.0,815.0
+McDollops,Chocolate McCafé® Shake (22 fl oz cup),880.0,220.0,24.0,15.0,1.5,75.0,370.0,147.0,1.0,121.0,18.0,998.0
+McDollops,Chocolate Triple Thick® Shake (12 fl oz cup),440.0,90.0,10.0,6.0,0.5,40.0,190.0,76.0,1.0,63.0,10.0,499.0
+McDollops,Chocolate Triple Thick® Shake (16 fl oz cup),580.0,120.0,14.0,8.0,1.0,50.0,250.0,102.0,1.0,84.0,13.0,659.0
+McDollops,Chocolate Triple Thick® Shake (21 fl oz cup),770.0,160.0,18.0,11.0,1.0,70.0,330.0,134.0,1.0,111.0,18.0,874.0
+McDollops,Chocolate Triple Thick® Shake (32 fl oz cup),1160.0,240.0,27.0,16.0,2.0,100.0,510.0,203.0,2.0,168.0,27.0,1317.0
+McDollops,Snack Size McFlurry® with M&M’S® Candies,430.0,140.0,16.0,10.0,0.5,35.0,130.0,64.0,2.0,59.0,9.0,490.0
+McDollops,Snack Size McFlurry® with OREO® Cookies,340.0,100.0,12.0,6.0,0.0,30.0,200.0,53.0,2.0,43.0,8.0,381.0
+McDollops,Strawberry McCafé® Shake (12 fl oz cup),570.0,150.0,17.0,10.0,1.0,50.0,170.0,92.0,0.0,79.0,11.0,648.0
+McDollops,Strawberry McCafé® Shake (16 fl oz cup),710.0,180.0,20.0,12.0,1.0,65.0,210.0,116.0,0.0,100.0,14.0,808.0
+McDollops,Strawberry McCafé® Shake (22 fl oz cup),860.0,220.0,24.0,15.0,1.5,75.0,260.0,144.0,0.0,124.0,18.0,981.0
+McDollops,Strawberry Triple Thick® Shake (12 fl oz cup),420.0,90.0,10.0,6.0,0.5,40.0,130.0,73.0,0.0,63.0,10.0,479.0
+McDollops,Strawberry Triple Thick® Shake (16 fl oz cup),560.0,120.0,13.0,8.0,1.0,50.0,170.0,97.0,0.0,84.0,13.0,639.0
+McDollops,Strawberry Triple Thick® Shake (21 fl oz cup),740.0,160.0,18.0,11.0,1.0,70.0,230.0,128.0,0.0,111.0,17.0,845.0
+McDollops,Strawberry Triple Thick® Shake (32 fl oz cup),1110.0,240.0,26.0,16.0,2.0,100.0,350.0,194.0,0.0,168.0,25.0,1269.0
+McDollops,Vanilla McCafé® Shake (12 fl oz cup),540.0,150.0,16.0,10.0,1.0,45.0,170.0,88.0,0.0,64.0,10.0,604.0
+McDollops,Vanilla McCafé® Shake (16 fl oz cup),680.0,180.0,20.0,12.0,1.0,60.0,220.0,111.0,0.0,82.0,14.0,760.0
+McDollops,Vanilla McCafé® Shake (22 fl oz cup),830.0,210.0,24.0,14.0,1.5,75.0,270.0,138.0,0.0,103.0,17.0,930.0
+McDollops,Vanilla Triple Thick Shake® (32 fl oz cup),1110.0,240.0,26.0,16.0,2.0,100.0,370.0,193.0,0.0,145.0,25.0,1246.0
+McDollops,Vanilla Triple Thick® Shake (12 fl oz cup),420.0,90.0,10.0,6.0,0.5,40.0,140.0,72.0,0.0,54.0,9.0,471.0
+McDollops,Vanilla Triple Thick® Shake (16 fl oz cup),550.0,120.0,13.0,8.0,1.0,50.0,190.0,96.0,0.0,72.0,13.0,617.0
+McDollops,Vanilla Triple Thick® Shake (21 fl oz cup),740.0,160.0,18.0,11.0,1.0,70.0,250.0,128.0,0.0,96.0,17.0,830.0
+McDollops,1% Low Fat Milk Jug,100.0,20.0,2.5,1.5,0.0,10.0,125.0,12.0,0.0,12.0,8.0,105.5
+McDollops,1% Low Fat Chocolate Milk Jug,170.0,25.0,3.0,1.5,0.0,5.0,150.0,26.0,1.0,25.0,9.0,187.5
+McDollops,Minute Maid® 100% Apple Juice Box,100.0,0.0,0.0,0.0,0.0,0.0,15.0,23.0,0.0,22.0,0.0,122.0
+McDollops,Dasani® Water,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+McDollops,Minute Maid® Orange Juice (Small),150.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,30.0,2.0,178.0
+McDollops,Minute Maid® Orange Juice (Medium),190.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0,0.0,39.0,3.0,226.0
+McDollops,Minute Maid® Orange Juice (Large),280.0,0.0,0.0,0.0,0.0,0.0,5.0,58.0,0.0,58.0,4.0,334.0
+McDollops,Coca-Cola® Classic (Child),110.0,0.0,0.0,0.0,0.0,0.0,5.0,29.0,0.0,29.0,0.0,139.0
+McDollops,Coca-Cola® Classic (Small),150.0,0.0,0.0,0.0,0.0,0.0,10.0,40.0,0.0,40.0,0.0,190.0
+McDollops,Coca-Cola® Classic (Medium),210.0,0.0,0.0,0.0,0.0,0.0,15.0,58.0,0.0,58.0,0.0,268.0
+McDollops,Coca-Cola® Classic (Large),310.0,0.0,0.0,0.0,0.0,0.0,20.0,86.0,0.0,86.0,0.0,396.0
+McDollops,Diet Coke® (Child),0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0
+McDollops,Diet Coke® (Small),0.0,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0
+McDollops,Diet Coke® (Medium),0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0
+McDollops,Diet Coke® (Large),0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0
+McDollops,Sprite® (Child),110.0,0.0,0.0,0.0,0.0,0.0,30.0,28.0,0.0,28.0,0.0,138.0
+McDollops,Sprite® (Small),150.0,0.0,0.0,0.0,0.0,0.0,40.0,39.0,0.0,39.0,0.0,189.0
+McDollops,Sprite® (Medium),210.0,0.0,0.0,0.0,0.0,0.0,55.0,56.0,0.0,56.0,0.0,266.0
+McDollops,Sprite® (Large),310.0,0.0,0.0,0.0,0.0,0.0,80.0,83.0,0.0,83.0,0.0,393.0
+McDollops,Hi-C® Orange Lavaburst (Child),120.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0,0.0,32.0,0.0,152.0
+McDollops,Hi-C® Orange Lavaburst (Small),160.0,0.0,0.0,0.0,0.0,0.0,5.0,44.0,0.0,44.0,0.0,204.0
+McDollops,Hi-C® Orange Lavaburst (Medium),240.0,0.0,0.0,0.0,0.0,0.0,10.0,64.0,0.0,64.0,0.0,304.0
+McDollops,Hi-C® Orange Lavaburst (Large),350.0,0.0,0.0,0.0,0.0,0.0,10.0,94.0,0.0,94.0,0.0,444.0
+McDollops,POWERade® Mountain Blast (Child),70.0,0.0,0.0,0.0,0.0,0.0,65.0,20.0,0.0,16.0,0.0,86.0
+McDollops,POWERade® Mountain Blast (Small),100.0,0.0,0.0,0.0,0.0,0.0,85.0,27.0,0.0,21.0,0.0,121.0
+McDollops,POWERade® Mountain Blast (Medium),150.0,0.0,0.0,0.0,0.0,0.0,130.0,39.0,0.0,31.0,0.0,181.0
+McDollops,POWERade® Mountain Blast (Large),220.0,0.0,0.0,0.0,0.0,0.0,190.0,58.0,0.0,46.0,0.0,266.0
+McDollops,Iced Tea (Child),0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0
+McDollops,Iced Tea (Small),0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0
+McDollops,Iced Tea (Medium),0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0
+McDollops,Iced Tea (Large),0.0,0.0,0.0,0.0,0.0,0.0,20.0,1.0,0.0,0.0,0.0,0.0
+McDollops,Coffee (Small),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+McDollops,Coffee (Large),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+McDollops,Coffee Cream,20.0,20.0,2.0,1.5,0.0,10.0,15.0,0.0,0.0,0.0,0.0,21.5
+McDollops,Sugar Packet,15.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0,19.0
+McDollops,"EQUAL® 0
+Calorie Sweetener",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+McDollops,"SPLENDA® No
+Calorie Sweetener",0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0
+McDollops,Iced Coffee– Caramel (Small),130.0,50.0,5.0,3.5,0.0,20.0,80.0,21.0,0.0,20.0,1.0,152.5
+McDollops,Iced Coffee– Caramel (Medium),190.0,70.0,8.0,5.0,0.0,30.0,115.0,27.0,0.0,27.0,2.0,220.0
+McDollops,Iced Coffee– Caramel (Large),270.0,100.0,11.0,7.0,0.0,40.0,160.0,41.0,0.0,41.0,2.0,316.0
+McDollops,Iced Coffee– Hazelnut (Small),130.0,50.0,5.0,3.5,0.0,20.0,40.0,21.0,0.0,21.0,1.0,153.5
+McDollops,Iced Coffee– Hazelnut (Medium),190.0,70.0,8.0,5.0,0.0,30.0,60.0,29.0,0.0,29.0,2.0,222.0
+McDollops,Iced Coffee– Hazelnut (Large),270.0,100.0,11.0,7.0,0.0,40.0,85.0,43.0,0.0,43.0,2.0,318.0
+McDollops,Iced Coffee– Regular (Small),140.0,50.0,5.0,3.5,0.0,20.0,40.0,22.0,0.0,22.0,1.0,164.5
+McDollops,Iced Coffee– Regular (Medium),200.0,70.0,8.0,5.0,0.0,30.0,60.0,30.0,0.0,30.0,2.0,233.0
+McDollops,Iced Coffee– Regular (Large),280.0,100.0,11.0,7.0,0.0,40.0,85.0,45.0,0.0,45.0,2.0,330.0
+McDollops,Iced Coffee– Vanilla (Small),130.0,50.0,5.0,3.5,0.0,20.0,40.0,21.0,0.0,21.0,1.0,153.5
+McDollops,Iced Coffee– Vanilla (Medium),190.0,70.0,8.0,5.0,0.0,30.0,60.0,29.0,0.0,28.0,2.0,221.0
+McDollops,Iced Coffee– Vanilla (Large),270.0,100.0,11.0,7.0,0.0,40.0,80.0,43.0,0.0,43.0,2.0,318.0
+McDollops,Iced Coffee with Sugar Free Vanilla Syrup (Small),60.0,50.0,5.0,3.5,0.0,20.0,70.0,8.0,0.0,1.0,1.0,63.5
+McDollops,Iced Coffee with Sugar Free Vanilla Syrup (Medium),90.0,70.0,8.0,5.0,0.0,30.0,100.0,11.0,0.0,2.0,2.0,95.0
+McDollops,Iced Coffee with Sugar Free Vanilla Syrup (Large),120.0,100.0,11.0,7.0,0.0,40.0,140.0,16.0,0.0,2.0,2.0,127.0
+McDollops,Sweet Tea (Child),110.0,0.0,0.0,0.0,0.0,0.0,5.0,27.0,0.0,27.0,0.0,137.0
+McDollops,Sweet Tea (Large),280.0,0.0,0.0,0.0,0.0,0.0,15.0,69.0,0.0,69.0,1.0,348.0
+McDollops,Sweet Tea (Medium),180.0,0.0,0.0,0.0,0.0,0.0,10.0,45.0,0.0,45.0,1.0,224.0
+McDollops,Sweet Tea (Small),150.0,0.0,0.0,0.0,0.0,0.0,10.0,36.0,0.0,36.0,1.0,185.0
+McDollops,Nonfat Cappuccino (Small),60.0,0.0,0.0,0.0,0.0,5.0,85.0,9.0,0.0,9.0,6.0,63.0
+McDollops,Nonfat Cappuccino (Medium),80.0,0.0,0.0,0.0,0.0,5.0,110.0,12.0,0.0,12.0,8.0,84.0
+McDollops,Nonfat Cappuccino (Large),90.0,0.0,0.0,0.0,0.0,5.0,130.0,13.0,0.0,13.0,9.0,94.0
+McDollops,Nonfat Latte (Small),90.0,0.0,0.0,0.0,0.0,5.0,115.0,13.0,0.0,13.0,9.0,94.0
+McDollops,Nonfat Latte (Medium),110.0,0.0,0.0,0.0,0.0,5.0,140.0,15.0,0.0,15.0,10.0,115.0
+McDollops,Nonfat Latte (Large),120.0,0.0,0.0,0.0,0.0,5.0,160.0,18.0,0.0,18.0,12.0,126.0
+McDollops,Nonfat Caramel Cappuccino (Small),150.0,0.0,0.0,0.0,0.0,5.0,120.0,33.0,0.0,32.0,5.0,177.0
+McDollops,Nonfat Caramel Cappuccino (Medium),190.0,0.0,0.0,0.0,0.0,5.0,150.0,41.0,0.0,41.0,6.0,225.0
+McDollops,Nonfat Caramel Cappuccino (Large),230.0,0.0,0.0,0.0,0.0,5.0,180.0,49.0,0.0,49.0,7.0,272.0
+McDollops,Nonfat Caramel Latte (Small),170.0,0.0,0.0,0.0,0.0,5.0,150.0,36.0,0.0,36.0,7.0,199.0
+McDollops,Nonfat Caramel Latte (Medium),220.0,0.0,0.0,0.0,0.0,5.0,180.0,45.0,0.0,45.0,9.0,256.0
+McDollops,Nonfat Caramel Latte (Large),260.0,0.0,0.0,0.0,0.0,5.0,220.0,53.0,0.0,53.0,10.0,303.0
+McDollops,Nonfat Hazelnut Cappuccino (Small),150.0,0.0,0.0,0.0,0.0,5.0,70.0,34.0,0.0,34.0,5.0,179.0
+McDollops,Nonfat Hazelnut Cappuccino (Medium),190.0,0.0,0.0,0.0,0.0,5.0,90.0,43.0,0.0,43.0,6.0,227.0
+McDollops,Nonfat Hazelnut Cappuccino (Large),230.0,0.0,0.0,0.0,0.0,5.0,100.0,51.0,0.0,51.0,7.0,274.0
+McDollops,Nonfat Hazelnut Latte (Small),180.0,0.0,0.0,0.0,0.0,5.0,95.0,37.0,0.0,37.0,7.0,210.0
+McDollops,Nonfat Hazelnut Latte (Medium),220.0,0.0,0.0,0.0,0.0,5.0,115.0,46.0,0.0,46.0,9.0,257.0
+McDollops,Nonfat Hazelnut Latte (Large),260.0,0.0,0.0,0.0,0.0,5.0,135.0,55.0,0.0,55.0,10.0,305.0
+McDollops,Nonfat Vanilla Cappuccino (Small),150.0,0.0,0.0,0.0,0.0,5.0,70.0,34.0,0.0,34.0,5.0,179.0
+McDollops,Nonfat Vanilla Cappuccino (Medium),190.0,0.0,0.0,0.0,0.0,5.0,90.0,42.0,0.0,42.0,6.0,226.0
+McDollops,Nonfat Vanilla Cappuccino (Large),230.0,0.0,0.0,0.0,0.0,5.0,100.0,51.0,0.0,51.0,7.0,274.0
+McDollops,Nonfat Vanilla Latte (Small),180.0,0.0,0.0,0.0,0.0,5.0,95.0,37.0,0.0,37.0,7.0,210.0
+McDollops,Nonfat Vanilla Latte (Medium),220.0,0.0,0.0,0.0,0.0,5.0,115.0,46.0,0.0,46.0,9.0,257.0
+McDollops,Nonfat Vanilla Latte (Large),260.0,0.0,0.0,0.0,0.0,5.0,135.0,55.0,0.0,55.0,10.0,305.0
+McDollops,Nonfat Cappuccino with Sugar Free Vanilla Syrup (Small),50.0,0.0,0.0,0.0,0.0,5.0,100.0,15.0,0.0,8.0,5.0,53.0
+McDollops,Nonfat Cappuccino with Sugar Free Vanilla Syrup (Medium),70.0,0.0,0.0,0.0,0.0,5.0,130.0,19.0,0.0,10.0,7.0,73.0
+McDollops,Nonfat Cappuccino with Sugar Free Vanilla Syrup (Large),80.0,0.0,0.0,0.0,0.0,5.0,150.0,22.0,0.0,11.0,8.0,83.0
+McDollops,Nonfat Latte with Sugar Free Vanilla Syrup (Small),80.0,0.0,0.0,0.0,0.0,5.0,130.0,18.0,0.0,11.0,7.0,84.0
+McDollops,Nonfat Latte with Sugar Free Vanilla Syrup (Medium),90.0,0.0,0.0,0.0,0.0,5.0,160.0,22.0,0.0,13.0,9.0,94.0
+McDollops,Nonfat Latte with Sugar Free Vanilla Syrup (Large),110.0,0.0,0.0,0.0,0.0,5.0,190.0,27.0,0.0,15.0,11.0,114.0
+McDollops,Mocha with Nonfat Milk (Small),240.0,45.0,5.0,3.0,0.0,5.0,130.0,41.0,0.0,34.0,7.0,270.0
+McDollops,Mocha with Nonfat Milk (Medium),280.0,50.0,6.0,3.5,0.0,10.0,160.0,50.0,0.0,42.0,8.0,317.5
+McDollops,Mocha with Nonfat Milk (Large),330.0,50.0,6.0,3.5,0.0,10.0,190.0,58.0,0.0,50.0,10.0,373.5
+McDollops,Hot Chocolate with Nonfat Milk (Small),250.0,45.0,5.0,3.0,0.0,10.0,140.0,43.0,0.0,37.0,8.0,282.0
+McDollops,Hot Chocolate with Nonfat Milk (Medium),310.0,50.0,6.0,3.5,0.0,10.0,190.0,55.0,0.0,47.0,11.0,349.5
+McDollops,Hot Chocolate with Nonfat Milk (Large),390.0,50.0,6.0,3.5,0.0,10.0,250.0,68.0,0.0,59.0,16.0,436.5
+McDollops,Iced Nonfat Latte (Small),50.0,0.0,0.0,0.0,0.0,5.0,70.0,7.0,0.0,7.0,5.0,52.0
+McDollops,Iced Nonfat Latte (Medium),60.0,0.0,0.0,0.0,0.0,5.0,90.0,9.0,0.0,9.0,6.0,63.0
+McDollops,Iced Nonfat Latte (Large),70.0,0.0,0.0,0.0,0.0,5.0,105.0,11.0,0.0,11.0,7.0,74.0
+McDollops,Iced Nonfat Caramel Latte (Small),140.0,0.0,0.0,0.0,0.0,0.0,105.0,30.0,0.0,30.0,3.0,167.0
+McDollops,Iced Nonfat Caramel Latte (Medium),150.0,0.0,0.0,0.0,0.0,5.0,120.0,32.0,0.0,32.0,5.0,177.0
+McDollops,Iced Nonfat Caramel Latte (Large),190.0,0.0,0.0,0.0,0.0,5.0,150.0,40.0,0.0,40.0,6.0,224.0
+McDollops,Iced Nonfat Hazelnut Latte (Small),140.0,0.0,0.0,0.0,0.0,0.0,50.0,32.0,0.0,32.0,3.0,169.0
+McDollops,Iced Nonfat Hazelnut Latte (Medium),150.0,0.0,0.0,0.0,0.0,5.0,70.0,33.0,0.0,33.0,5.0,178.0
+McDollops,Iced Nonfat Hazelnut Latte (Large),190.0,0.0,0.0,0.0,0.0,5.0,80.0,42.0,0.0,42.0,6.0,226.0
+McDollops,Iced Nonfat Vanilla Latte (Small),140.0,0.0,0.0,0.0,0.0,0.0,50.0,31.0,0.0,31.0,3.0,168.0
+McDollops,Iced Nonfat Vanilla Latte (Medium),150.0,0.0,0.0,0.0,0.0,5.0,70.0,33.0,0.0,33.0,5.0,178.0
+McDollops,Iced Nonfat Vanilla Latte (Large),190.0,0.0,0.0,0.0,0.0,5.0,85.0,41.0,0.0,41.0,6.0,225.0
+McDollops,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Small),40.0,0.0,0.0,0.0,0.0,0.0,85.0,13.0,0.0,5.0,4.0,41.0
+McDollops,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Medium),50.0,0.0,0.0,0.0,0.0,5.0,100.0,14.0,0.0,6.0,5.0,51.0
+McDollops,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Large),60.0,0.0,0.0,0.0,0.0,5.0,130.0,19.0,0.0,8.0,6.0,62.0
+McDollops,Iced Mocha with Nonfat Milk (Medium),270.0,70.0,8.0,4.5,0.0,10.0,140.0,43.0,0.0,35.0,7.0,302.5
+McDollops,Iced Nonfat Caramel Mocha (Large),300.0,60.0,6.0,4.0,0.0,10.0,230.0,49.0,0.0,45.0,11.0,338.0
+McDollops,Iced Nonfat Caramel Mocha (Medium),240.0,60.0,6.0,4.0,0.0,10.0,190.0,37.0,0.0,34.0,9.0,269.0
+McDollops,Iced Nonfat Caramel Mocha (Small),200.0,50.0,6.0,4.0,0.0,10.0,140.0,29.0,0.0,26.0,6.0,224.0
+McDollops,Nonfat Caramel Mocha (Large),280.0,35.0,4.0,2.5,0.0,10.0,260.0,49.0,0.0,46.0,12.0,316.5
+McDollops,Nonfat Caramel Mocha (Medium),240.0,35.0,4.0,2.5,0.0,5.0,200.0,41.0,0.0,38.0,9.0,271.5
+McDollops,Nonfat Caramel Mocha (Small),200.0,35.0,4.0,2.5,0.0,5.0,170.0,34.0,0.0,31.0,8.0,225.5
+McDollops,Cappuccino (Small),120.0,60.0,7.0,4.0,0.0,20.0,85.0,9.0,0.0,9.0,6.0,127.0
+McDollops,Cappuccino (Medium),140.0,70.0,8.0,4.5,0.0,25.0,105.0,11.0,0.0,11.0,8.0,147.5
+McDollops,Cappuccino (Large),180.0,90.0,10.0,6.0,0.0,30.0,130.0,13.0,0.0,13.0,9.0,190.0
+McDollops,Latte (Small) ,150.0,70.0,8.0,4.5,0.0,25.0,105.0,11.0,0.0,11.0,8.0,157.5
+McDollops,Latte (Medium),180.0,90.0,10.0,6.0,0.0,30.0,130.0,13.0,0.0,13.0,10.0,189.0
+McDollops,Latte (Large),210.0,100.0,11.0,7.0,0.0,35.0,150.0,16.0,0.0,16.0,11.0,222.0
+McDollops,Caramel Cappuccino (Small),200.0,45.0,5.0,3.0,0.0,15.0,125.0,32.0,0.0,32.0,5.0,230.0
+McDollops,Caramel Cappuccino (Medium),240.0,50.0,6.0,3.5,0.0,20.0,150.0,41.0,0.0,40.0,6.0,277.5
+McDollops,Caramel Cappuccino (Large),290.0,70.0,8.0,4.5,0.0,25.0,190.0,49.0,0.0,49.0,8.0,335.5
+McDollops,Caramel Latte (Small),230.0,60.0,7.0,4.0,0.0,20.0,140.0,35.0,0.0,35.0,7.0,262.0
+McDollops,Caramel Latte (Medium),280.0,70.0,8.0,4.5,0.0,25.0,170.0,43.0,0.0,43.0,8.0,319.5
+McDollops,Caramel Latte (Large),330.0,80.0,9.0,5.0,0.0,30.0,210.0,52.0,0.0,51.0,9.0,377.0
+McDollops,Hazelnut Cappuccino (Small),200.0,45.0,5.0,3.0,0.0,15.0,70.0,34.0,0.0,34.0,5.0,232.0
+McDollops,Hazelnut Cappuccino (Medium),240.0,50.0,6.0,3.5,0.0,20.0,85.0,42.0,0.0,42.0,6.0,279.5
+McDollops,Hazelnut Cappuccino (Large),290.0,70.0,8.0,4.5,0.0,25.0,105.0,51.0,0.0,51.0,7.0,338.5
+McDollops,Hazelnut Latte (Small),230.0,60.0,7.0,4.0,0.0,20.0,90.0,36.0,0.0,36.0,7.0,263.0
+McDollops,Hazelnut Latte (Medium),280.0,70.0,8.0,4.5,0.0,25.0,110.0,45.0,0.0,45.0,8.0,321.5
+McDollops,Hazelnut Latte (Large),330.0,80.0,9.0,5.0,0.0,30.0,130.0,53.0,0.0,53.0,9.0,379.0
+McDollops,Vanilla Cappuccino (Small),200.0,45.0,5.0,3.0,0.0,15.0,70.0,34.0,0.0,34.0,5.0,232.0
+McDollops,Vanilla Cappuccino (Medium),240.0,50.0,6.0,3.5,0.0,20.0,85.0,42.0,0.0,42.0,6.0,279.5
+McDollops,Vanilla Cappuccino (Large),290.0,70.0,8.0,4.5,0.0,25.0,105.0,51.0,0.0,51.0,7.0,338.5
+McDollops,Vanilla Latte (Small),230.0,60.0,7.0,4.0,0.0,20.0,90.0,36.0,0.0,36.0,7.0,263.0
+McDollops,Vanilla Latte (Medium),280.0,70.0,8.0,4.5,0.0,25.0,110.0,44.0,0.0,44.0,8.0,320.5
+McDollops,Vanilla Latte (Large),330.0,80.0,9.0,5.0,0.0,30.0,130.0,53.0,0.0,53.0,9.0,379.0
+McDollops,Cappuccino with Sugar Free Vanilla Syrup (Small),100.0,50.0,5.0,3.0,0.0,15.0,105.0,15.0,0.0,7.0,5.0,105.0
+McDollops,Cappuccino with Sugar Free Vanilla Syrup (Medium),120.0,60.0,6.0,3.5,0.0,20.0,130.0,18.0,0.0,9.0,6.0,126.5
+McDollops,Cappuccino with Sugar Free Vanilla Syrup (Large),150.0,70.0,8.0,4.5,0.0,25.0,160.0,22.0,0.0,11.0,8.0,157.5
+McDollops,Latte with Sugar Free Vanilla Syrup (Small),130.0,60.0,7.0,4.0,0.0,20.0,125.0,17.0,0.0,10.0,7.0,137.0
+McDollops,Latte with Sugar Free Vanilla Syrup (Medium),160.0,70.0,8.0,5.0,0.0,25.0,150.0,21.0,0.0,11.0,8.0,168.0
+McDollops,Latte with Sugar Free Vanilla Syrup (Large),180.0,90.0,10.0,6.0,0.0,30.0,180.0,25.0,0.0,13.0,10.0,189.0
+McDollops,Mocha (Small),280.0,100.0,11.0,6.0,0.0,20.0,125.0,40.0,0.0,33.0,6.0,313.0
+McDollops,Mocha (Medium),330.0,110.0,12.0,7.0,0.0,25.0,150.0,48.0,0.0,41.0,7.0,371.0
+McDollops,Mocha (Large),400.0,130.0,14.0,8.0,0.5,30.0,190.0,58.0,0.0,49.0,10.0,447.0
+McDollops,Hot Chocolate (Small),300.0,110.0,12.0,7.0,0.0,25.0,135.0,41.0,0.0,35.0,8.0,334.0
+McDollops,Hot Chocolate (Medium),380.0,130.0,15.0,9.0,0.5,30.0,170.0,53.0,0.0,45.0,10.0,424.0
+McDollops,Hot Chocolate (Large),460.0,160.0,18.0,10.0,0.5,40.0,220.0,63.0,0.0,54.0,13.0,511.0
+McDollops,Iced Latte (Small),80.0,40.0,4.5,2.5,0.0,15.0,65.0,6.0,0.0,6.0,4.0,84.5
+McDollops,Iced Latte (Medium),100.0,50.0,6.0,3.5,0.0,15.0,80.0,8.0,0.0,8.0,6.0,105.5
+McDollops,Iced Latte (Large),140.0,70.0,8.0,4.5,0.0,25.0,105.0,10.0,0.0,10.0,7.0,147.5
+McDollops,Iced Caramel Latte (Small),160.0,25.0,3.0,1.5,0.0,10.0,100.0,29.0,0.0,29.0,3.0,187.5
+McDollops,Iced Caramel Latte (Medium),180.0,40.0,4.5,2.5,0.0,15.0,120.0,31.0,0.0,31.0,4.0,209.5
+McDollops,Iced Caramel Latte (Large),230.0,50.0,6.0,3.5,0.0,15.0,150.0,40.0,0.0,40.0,6.0,267.5
+McDollops,Iced Hazelnut Latte (Small),160.0,25.0,3.0,1.5,0.0,10.0,45.0,31.0,0.0,31.0,3.0,189.5
+McDollops,Iced Hazelnut Latte (Medium),180.0,40.0,4.5,2.5,0.0,15.0,65.0,33.0,0.0,33.0,4.0,211.5
+McDollops,Iced Hazelnut Latte (Large),230.0,50.0,6.0,3.5,0.0,15.0,85.0,41.0,0.0,41.0,6.0,268.5
+McDollops,Iced Vanilla Latte (Small),160.0,25.0,3.0,1.5,0.0,10.0,45.0,31.0,0.0,31.0,3.0,189.5
+McDollops,Iced Vanilla Latte (Medium),190.0,40.0,4.5,2.5,0.0,15.0,70.0,33.0,0.0,33.0,5.0,220.5
+McDollops,Iced Vanilla Latte (Large),230.0,50.0,6.0,3.5,0.0,15.0,85.0,41.0,0.0,41.0,6.0,268.5
+McDollops,Iced Latte with Sugar Free Vanilla Syrup (Small),60.0,30.0,3.0,2.0,0.0,10.0,80.0,12.0,0.0,4.0,3.0,63.0
+McDollops,Iced Latte with Sugar Free Vanilla Syrup (Medium),90.0,40.0,5.0,3.0,0.0,15.0,105.0,14.0,0.0,6.0,5.0,94.0
+McDollops,Iced Latte with Sugar Free Vanilla Syrup (Large),110.0,50.0,6.0,3.5,0.0,15.0,130.0,19.0,0.0,8.0,6.0,115.5
+McDollops,Iced Mocha (Medium),310.0,120.0,13.0,8.0,0.0,25.0,140.0,42.0,0.0,35.0,7.0,346.0
+McDollops,Caramel Mocha (Large),360.0,130.0,14.0,8.0,0.5,35.0,220.0,47.0,0.0,46.0,10.0,404.0
+McDollops,Caramel Mocha (Medium),290.0,100.0,12.0,7.0,0.0,25.0,180.0,39.0,0.0,38.0,8.0,327.0
+McDollops,Caramel Mocha (Small),250.0,90.0,11.0,6.0,0.0,25.0,150.0,33.0,0.0,31.0,7.0,280.0
+McDollops,Iced Caramel Mocha (Large),380.0,140.0,16.0,9.0,0.5,35.0,210.0,48.0,0.0,46.0,10.0,425.0
+McDollops,Iced Caramel Mocha (Medium),300.0,120.0,14.0,8.0,0.0,30.0,160.0,36.0,0.0,33.0,8.0,333.0
+McDollops,Iced Caramel Mocha (Small),240.0,100.0,12.0,7.0,0.0,25.0,130.0,29.0,0.0,26.0,6.0,267.0
+McDollops,Frappe Caramel (Small),450.0,180.0,20.0,13.0,1.0,55.0,135.0,61.0,0.0,57.0,6.0,514.0
+McDollops,Frappe Caramel (Medium),550.0,220.0,24.0,15.0,1.0,70.0,160.0,76.0,0.0,71.0,8.0,628.0
+McDollops,Frappe Caramel (Large),680.0,260.0,29.0,18.0,1.5,85.0,200.0,94.0,0.0,88.0,10.0,776.0
+McDollops,Frappe Mocha (Small),450.0,180.0,20.0,13.0,1.0,55.0,130.0,62.0,1.0,56.0,7.0,512.0
+McDollops,Frappe Mocha (Medium),560.0,210.0,24.0,15.0,1.0,65.0,160.0,78.0,1.0,70.0,8.0,637.0
+McDollops,Frappe Mocha (Large),680.0,250.0,28.0,18.0,1.0,80.0,200.0,96.0,1.0,87.0,10.0,775.0
+McDollops,Strawberry Banana Smoothie (Large),330.0,10.0,1.0,0.5,0.0,5.0,55.0,77.0,4.0,70.0,3.0,397.5
+McDollops,Strawberry Banana Smoothie (Medium),260.0,5.0,1.0,0.0,0.0,5.0,40.0,60.0,3.0,54.0,2.0,312.0
+McDollops,Strawberry Banana Smoothie (Small),210.0,5.0,0.5,0.0,0.0,5.0,35.0,49.0,2.0,44.0,2.0,252.0
+McDollops,Wild Berry Smoothie (Large),320.0,10.0,1.0,0.5,0.0,5.0,45.0,75.0,4.0,69.0,3.0,386.5
+McDollops,Wild Berry Smoothie (Medium),260.0,5.0,1.0,0.0,0.0,5.0,35.0,60.0,4.0,55.0,3.0,312.0
+McDollops,Wild Berry Smoothie (Small),210.0,5.0,0.5,0.0,0.0,5.0,30.0,48.0,3.0,44.0,2.0,252.0
+Raja Burger,Whopper® Sandwich,660.0,360.0,40.0,12.0,1.5,90.0,980.0,49.0,2.0,11.0,28.0,655.0
+Raja Burger,Whopper® Sandwich with Cheese,740.0,420.0,46.0,16.0,2.0,115.0,1340.0,50.0,2.0,11.0,32.0,735.0
+Raja Burger,Bacon & Cheese Whopper® Sandwich,790.0,460.0,51.0,17.0,2.0,125.0,1560.0,50.0,2.0,11.0,35.0,783.0
+Raja Burger,Double Whopper® Sandwich,900.0,520.0,58.0,20.0,3.0,175.0,1050.0,49.0,2.0,11.0,48.0,883.0
+Raja Burger,Double Whopper® Sandwich with Cheese,980.0,580.0,64.0,24.0,3.0,195.0,1410.0,50.0,2.0,11.0,52.0,963.0
+Raja Burger,Triple Whopper® Sandwich,1130.0,680.0,75.0,28.0,4.0,255.0,1120.0,49.0,2.0,11.0,67.0,1102.0
+Raja Burger,Triple Whopper® Sandwich with Cheese,1220.0,740.0,82.0,32.0,4.5,280.0,1470.0,50.0,2.0,11.0,71.0,1192.0
+Raja Burger,Whopper JR.® Sandwich,310.0,160.0,18.0,5.0,0.5,40.0,390.0,27.0,1.0,7.0,13.0,309.0
+Raja Burger,Bacon King Sandwich,1150.0,710.0,79.0,31.0,3.5,240.0,2150.0,49.0,2.0,10.0,61.0,1130.0
+Raja Burger,Cheddar Bacon King Sandwich,1190.0,750.0,84.0,33.0,3.5,235.0,1930.0,50.0,2.0,11.0,64.0,1170.0
+Raja Burger,Single Quarter Pound King Sandwich,580.0,260.0,29.0,13.0,1.5,105.0,1310.0,49.0,2.0,10.0,32.0,571.0
+Raja Burger,Double Quarter Pound King Sandwich,900.0,480.0,54.0,25.0,3.0,210.0,1740.0,50.0,2.0,11.0,56.0,880.0
+Raja Burger,Single Stacker King,700.0,380.0,42.0,16.0,2.0,125.0,1360.0,48.0,1.0,10.0,35.0,691.0
+Raja Burger,Double Stacker King,1050.0,610.0,68.0,28.0,3.5,235.0,1870.0,49.0,1.0,11.0,61.0,1028.0
+Raja Burger,IMPOSSIBLE Whopper® Sandwich,630.0,310.0,34.0,11.0,0.0,10.0,1080.0,58.0,4.0,12.0,25.0,628.0
+Raja Burger,Hamburger,240.0,90.0,10.0,3.5,0.5,35.0,380.0,26.0,1.0,6.0,13.0,237.0
+Raja Burger,Cheeseburger,280.0,120.0,13.0,6.0,0.5,45.0,560.0,27.0,1.0,7.0,15.0,278.0
+Raja Burger,Double Hamburger,350.0,160.0,18.0,7.0,1.0,70.0,410.0,26.0,1.0,6.0,21.0,342.0
+Raja Burger,Double Cheeseburger,390.0,190.0,21.0,9.0,1.5,85.0,590.0,27.0,1.0,7.0,23.0,383.0
+Raja Burger,Extra Long Cheeseburger,630.0,330.0,37.0,14.0,1.5,100.0,1050.0,45.0,2.0,9.0,29.0,624.0
+Raja Burger,Bacon Cheeseburger,320.0,140.0,16.0,7.0,0.5,55.0,710.0,27.0,1.0,7.0,17.0,317.0
+Raja Burger,Bacon Double Cheeseburger,420.0,210.0,24.0,10.0,1.5,90.0,740.0,27.0,1.0,7.0,25.0,412.0
+Raja Burger,Crispy Chicken Sandwich,670.0,370.0,41.0,7.0,0.0,60.0,1080.0,54.0,2.0,8.0,23.0,662.0
+Raja Burger,Spicy Crispy Chicken Sandwich,700.0,370.0,42.0,7.0,0.0,65.0,1140.0,57.0,3.0,8.0,25.0,690.0
+Raja Burger,Original Chicken Sandwich,660.0,360.0,40.0,7.0,0.0,75.0,1170.0,48.0,2.0,5.0,28.0,644.0
+Raja Burger,Bacon & Cheese Crispy Chicken Sandwich,800.0,460.0,52.0,13.0,1.0,95.0,1650.0,55.0,2.0,8.0,30.0,791.0
+Raja Burger,BBQ Bacon Crispy Chicken Sandwich,790.0,440.0,49.0,10.0,0.5,80.0,1630.0,60.0,2.0,13.0,28.0,785.0
+Raja Burger,Crispy Chicken Jr.,450.0,270.0,30.0,5.0,0.0,30.0,780.0,34.0,2.0,5.0,12.0,448.0
+Raja Burger,Spicy Crispy Chicken Jr.,390.0,190.0,21.0,3.5,0.0,30.0,740.0,37.0,2.0,6.0,12.0,388.0
+Raja Burger,Chicken Nuggets- 4pc,170.0,100.0,11.0,1.5,0.0,25.0,310.0,11.0,1.0,0.0,8.0,164.0
+Raja Burger,Chicken Nuggets- 6pc,260.0,150.0,16.0,2.5,0.0,35.0,470.0,16.0,1.0,0.0,12.0,251.0
+Raja Burger,Chicken Nuggets- 10pc,430.0,240.0,27.0,4.5,0.0,55.0,780.0,27.0,2.0,0.0,20.0,415.0
+Raja Burger,Chicken Nuggets- 20pc,860.0,490.0,54.0,9.0,0.0,115.0,1570.0,53.0,3.0,1.0,39.0,831.0
+Raja Burger,Spicy Chicken Nuggets- 4pc,210.0,130.0,15.0,3.0,0.0,20.0,570.0,11.0,2.0,0.0,8.0,205.0
+Raja Burger,Spicy Chicken Nuggets- 6pc,320.0,200.0,22.0,4.5,0.0,35.0,850.0,17.0,3.0,0.0,12.0,313.0
+Raja Burger,Spicy Chicken Nuggets- 10 pc,530.0,330.0,37.0,7.0,0.0,55.0,1420.0,28.0,4.0,1.0,20.0,518.0
+Raja Burger,Spicy Chicken Nuggets- 20 pc,1050.0,670.0,74.0,15.0,0.0,110.0,2840.0,56.0,9.0,1.0,40.0,1026.0
+Raja Burger,Chicken Fries – 9 pc.,280.0,150.0,17.0,2.5,0.0,35.0,850.0,20.0,1.0,1.0,13.0,271.0
+Raja Burger,Crispy Taco,170.0,80.0,9.0,3.0,0.0,10.0,410.0,19.0,2.0,1.0,5.0,169.0
+Raja Burger,BIG FISH Sandwich,510.0,250.0,28.0,4.5,0.0,30.0,1180.0,51.0,2.0,7.0,16.0,506.0
+Raja Burger,Garden Chicken Salad with Crispy Chicken – no dressing,440.0,220.0,25.0,7.0,0.0,75.0,930.0,31.0,3.0,4.0,25.0,426.0
+Raja Burger,Club Salad with Crispy Chicken – no dressing,540.0,300.0,33.0,10.0,0.0,95.0,1380.0,31.0,3.0,5.0,31.0,524.0
+Raja Burger,Garden Side Salad – w/o dressing,60.0,35.0,4.0,2.5,0.0,10.0,95.0,3.0,1.0,2.0,4.0,61.0
+Raja Burger,Ken’s Ranch Dressing,260.0,250.0,28.0,4.0,0.0,10.0,240.0,2.0,0.0,2.0,1.0,265.0
+Raja Burger,Ken’s Golden Italian Dressing,160.0,150.0,17.0,2.5,0.0,0.0,380.0,4.0,0.0,3.0,0.0,166.0
+Raja Burger,Ken’s Lite Honey Balsamic Vinaigrette,120.0,70.0,8.0,1.0,0.0,0.0,220.0,14.0,0.0,11.0,0.0,132.0
+Raja Burger,Buttery Garlic Croutons- Packet,60.0,20.0,2.5,0.0,0.0,10.0,180.0,9.0,0.0,1.0,1.0,60.0
+Raja Burger,Onion Rings – value,150.0,70.0,8.0,1.5,0.0,0.0,400.0,19.0,1.0,2.0,1.0,153.0
+Raja Burger,Onion Rings – small,320.0,150.0,16.0,3.0,0.0,0.0,840.0,41.0,3.0,4.0,3.0,324.0
+Raja Burger,Onion Rings – medium,410.0,190.0,21.0,3.5,0.0,0.0,1080.0,53.0,4.0,5.0,4.0,415.0
+Raja Burger,Onion Rings – large,500.0,230.0,25.0,4.5,0.0,0.0,1310.0,64.0,5.0,7.0,5.0,507.0
+Raja Burger,French Fries – value (unsalted),220.0,80.0,9.0,1.5,0.0,0.0,210.0,34.0,3.0,1.0,2.0,221.0
+Raja Burger,French Fries – small,320.0,120.0,13.0,2.0,0.0,0.0,300.0,49.0,5.0,1.0,4.0,319.0
+Raja Burger,French Fries – medium,380.0,140.0,16.0,2.0,0.0,0.0,360.0,58.0,6.0,1.0,4.0,379.0
+Raja Burger,French Fries – large,430.0,160.0,18.0,2.5,0.0,0.0,410.0,66.0,7.0,2.0,5.0,430.0
+Raja Burger,Kids Oatmeal,170.0,30.0,3.0,1.5,0.0,5.0,260.0,32.0,3.0,12.0,4.0,180.0
+Raja Burger,Chicken Nuggets- 4pc,170.0,100.0,11.0,1.5,0.0,25.0,310.0,11.0,1.0,0.0,8.0,164.0
+Raja Burger,Chicken Nuggets- 6pc,260.0,150.0,16.0,2.5,0.0,35.0,470.0,16.0,1.0,0.0,12.0,251.0
+Raja Burger,Hamburger,240.0,90.0,10.0,3.5,0.5,35.0,380.0,26.0,1.0,6.0,13.0,237.0
+Raja Burger,Cheeseburger,280.0,120.0,13.0,6.0,0.5,45.0,560.0,27.0,1.0,7.0,15.0,278.0
+Raja Burger,Mott’s® Natural Applesauce,50.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,1.0,11.0,0.0,61.0
+Raja Burger,Fat FREE Milk (8 fl oz),90.0,0.0,0.0,0.0,0.0,5.0,125.0,13.0,0.0,12.0,9.0,93.0
+Raja Burger,1% Low Fat Chocolate Milk (8 fl oz),160.0,25.0,2.5,1.5,0.0,15.0,150.0,26.0,0.0,25.0,8.0,179.0
+Raja Burger,Capri Sun® 100% Apple Juice (6 fl oz),80.0,0.0,0.0,0.0,0.0,0.0,25.0,20.0,0.0,20.0,0.0,100.0
+Raja Burger,PB&J Jamwich,300.0,140.0,16.0,3.0,0.0,0.0,290.0,33.0,4.0,11.0,11.0,303.0
+Raja Burger,Soft Serve Cone,190.0,40.0,4.5,3.0,0.0,20.0,150.0,32.0,0.0,24.0,5.0,212.0
+Raja Burger,Dutch Apple Pie,340.0,130.0,14.0,6.0,0.0,0.0,310.0,51.0,1.0,25.0,3.0,368.0
+Raja Burger,HERSHEY®’S Sundae Pie,310.0,170.0,19.0,12.0,0.0,10.0,220.0,32.0,1.0,22.0,3.0,341.0
+Raja Burger,Pie made with TWIX®,370.0,180.0,20.0,13.0,0.0,10.0,330.0,45.0,1.0,30.0,4.0,409.0
+Raja Burger,OREO® Cookie Cheesecake,350.0,170.0,18.0,8.0,0.0,35.0,310.0,41.0,1.0,25.0,6.0,377.0
+Raja Burger,Soft Serve Cone,190.0,40.0,4.5,3.0,0.0,20.0,150.0,32.0,0.0,24.0,5.0,212.0
+Raja Burger,Soft Serve Cup,170.0,40.0,4.5,3.0,0.0,20.0,150.0,28.0,0.0,24.0,5.0,192.0
+Raja Burger,HERSHEY®’s Chocolate Sundae,260.0,45.0,5.0,3.0,0.0,20.0,160.0,49.0,1.0,43.0,5.0,301.0
+Raja Burger,Caramel Sundae,240.0,50.0,5.0,3.5,0.0,20.0,210.0,42.0,0.0,33.0,5.0,272.0
+Raja Burger,Chocolate Chip Cookies (each),160.0,70.0,8.0,4.0,0.0,10.0,125.0,24.0,1.0,15.0,2.0,177.0
+Raja Burger,CROISSAN’WICH® Egg & Cheese,340.0,170.0,18.0,8.0,0.0,160.0,610.0,29.0,1.0,4.0,12.0,340.0
+Raja Burger,"CROISSAN’WICH® Sausage, Egg & Cheese",500.0,300.0,33.0,13.0,0.0,195.0,930.0,30.0,1.0,4.0,19.0,498.0
+Raja Burger,"CROISSAN’WICH® Ham, Egg & Cheese",370.0,170.0,19.0,8.0,0.0,175.0,1030.0,30.0,1.0,5.0,17.0,366.0
+Raja Burger,"CROISSAN’WICH® Bacon, Egg & Cheese",370.0,190.0,21.0,9.0,0.0,170.0,760.0,30.0,1.0,4.0,14.0,369.0
+Raja Burger,Fully Loaded CROISSAN’WICH®,610.0,360.0,40.0,17.0,0.5,225.0,1680.0,31.0,1.0,5.0,28.0,604.0
+Raja Burger,Double CROISSAN’WICH® with Sausage & Bacon,580.0,340.0,40.0,16.0,0.5,215.0,1260.0,31.0,1.0,5.0,23.0,578.0
+Raja Burger,Double CROISSAN’WICH® with Sausage,710.0,470.0,52.0,20.0,0.5,240.0,1420.0,31.0,1.0,5.0,29.0,706.0
+Raja Burger,Double CROISSAN’WICH® with Ham & Sausage,580.0,340.0,38.0,16.0,0.5,220.0,1530.0,31.0,1.0,5.0,27.0,574.0
+Raja Burger,Fully Loaded Biscuit,640.0,400.0,45.0,20.0,0.0,225.0,2190.0,31.0,1.0,4.0,28.0,636.0
+Raja Burger,"Ham, Egg, & Cheese Biscuit",400.0,210.0,24.0,12.0,0.0,175.0,1550.0,29.0,1.0,3.0,17.0,398.0
+Raja Burger,"Sausage, Egg, & Cheese Biscuit",530.0,340.0,38.0,17.0,0.0,195.0,1440.0,29.0,1.0,3.0,19.0,531.0
+Raja Burger,"Bacon, Egg & Cheese Biscuit",400.0,230.0,26.0,13.0,0.0,170.0,1270.0,29.0,1.0,3.0,13.0,403.0
+Raja Burger,Sausage Biscuit,420.0,250.0,28.0,6.0,0.0,35.0,1050.0,28.0,1.0,2.0,12.0,416.0
+Raja Burger,Breakfast Burrito Jr.,370.0,210.0,23.0,8.0,0.0,150.0,930.0,27.0,3.0,2.0,15.0,365.0
+Raja Burger,EGG-NORMOUS BURRITOΡ,780.0,380.0,42.0,15.0,0.0,355.0,1960.0,68.0,3.0,4.0,32.0,767.0
+Raja Burger,BK™ Ultimate Breakfast Platter,930.0,390.0,44.0,11.0,0.0,390.0,2230.0,110.0,4.0,40.0,24.0,957.0
+Raja Burger,NY Ultimate Platter (Regional menu item),900.0,420.0,46.0,12.0,0.0,380.0,1760.0,95.0,5.0,31.0,25.0,918.0
+Raja Burger,Pancake and Sausage platter,610.0,280.0,31.0,9.0,0.0,80.0,1010.0,72.0,1.0,30.0,12.0,637.0
+Raja Burger,Hash Browns – small,250.0,150.0,16.0,3.5,0.0,0.0,580.0,24.0,3.0,0.0,2.0,252.0
+Raja Burger,Hash Browns – medium,500.0,290.0,33.0,7.0,0.0,0.0,1140.0,48.0,7.0,0.0,4.0,503.0
+Raja Burger,Hash Browns – large,670.0,390.0,44.0,9.0,0.0,0.0,1530.0,65.0,9.0,0.0,5.0,674.0
+Raja Burger,French Toast Sticks (3 piece),230.0,100.0,11.0,2.0,0.0,0.0,260.0,29.0,1.0,8.0,3.0,237.0
+Raja Burger,French Toast Sticks (5 piece),380.0,160.0,18.0,3.0,0.0,0.0,430.0,49.0,2.0,13.0,5.0,391.0
+Raja Burger,American Cheese (slice),40.0,30.0,3.5,2.0,0.0,10.0,180.0,1.0,0.0,0.0,2.0,40.0
+Raja Burger,Ketchup (Packet),10.0,0.0,0.0,0.0,0.0,0.0,125.0,3.0,0.0,2.0,0.0,12.0
+Raja Burger,Mayonnaise (Packet),80.0,80.0,9.0,0.5,0.0,10.0,75.0,1.0,0.0,0.0,0.0,81.0
+Raja Burger,Strawberry or Grape Jam (packet),30.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,6.0,0.0,36.0
+Raja Burger,Breakfast Syrup (1 oz),120.0,0.0,0.0,0.0,0.0,0.0,15.0,30.0,0.0,18.0,0.0,138.0
+Raja Burger,Barbecue Dipping Sauce (1 oz),40.0,0.0,0.0,0.0,0.0,0.0,310.0,11.0,0.0,10.0,0.0,50.0
+Raja Burger,Ranch Dipping Sauce (1 oz),140.0,140.0,15.0,2.5,0.0,10.0,85.0,1.0,0.0,1.0,1.0,143.0
+Raja Burger,Buffalo Dipping Sauce (1 oz),80.0,70.0,8.0,1.5,0.0,5.0,360.0,2.0,0.0,1.0,0.0,83.0
+Raja Burger,Zesty Onion Ring Dipping Sauce (1 oz),150.0,140.0,15.0,2.5,0.0,20.0,240.0,3.0,0.0,0.0,0.0,153.0
+Raja Burger,Honey Mustard Dipping Sauce (1oz),90.0,60.0,6.0,1.0,0.0,10.0,180.0,8.0,0.0,7.0,0.0,98.0
+Raja Burger,Fat FREE Milk (8 fl oz),90.0,0.0,0.0,0.0,0.0,5.0,125.0,13.0,0.0,12.0,9.0,93.0
+Raja Burger,1% Low Fat Chocolate Milk (8 fl oz),160.0,25.0,2.5,1.5,0.0,15.0,150.0,26.0,0.0,25.0,8.0,179.0
+Raja Burger,Smoothie: Strawberry Banana 16 fl oz,310.0,10.0,1.0,0.0,0.0,0.0,55.0,71.0,3.0,50.0,4.0,356.0
+Raja Burger,Oreo® Shake,720.0,180.0,20.0,12.0,0.5,65.0,540.0,118.0,1.0,98.0,16.0,814.0
+Raja Burger,Chocolate Oreo® Shake,740.0,190.0,22.0,13.0,0.5,70.0,680.0,121.0,1.0,101.0,17.0,837.0
+Raja Burger,Vanilla Milk Shake,580.0,140.0,15.0,10.0,0.0,60.0,420.0,98.0,0.0,85.0,14.0,661.0
+Raja Burger,HERSHEY®’S Chocolate Milk Shake,610.0,140.0,16.0,10.0,0.0,60.0,500.0,103.0,1.0,88.0,14.0,694.0
+Raja Burger,Strawberry Milk Shake,640.0,140.0,15.0,10.0,0.0,60.0,440.0,113.0,0.0,99.0,14.0,735.0
+Raja Burger,Coca Cola classic®‡,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Raja Burger,16 fl oz,210.0,0.0,0.0,0.0,0.0,0.0,50.0,58.0,0.0,58.0,0.0,268.0
+Raja Burger,20 fl oz,270.0,0.0,0.0,0.0,0.0,0.0,60.0,73.0,0.0,73.0,0.0,343.0
+Raja Burger,29 fl oz,290.0,0.0,0.0,0.0,0.0,0.0,85.0,105.0,0.0,105.0,0.0,395.0
+Raja Burger,38 fl oz,510.0,0.0,0.0,0.0,0.0,0.0,115.0,138.0,0.0,138.0,0.0,648.0
+Raja Burger,Diet Coke®‡,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Raja Burger,16 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,20 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,85.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,29 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,38 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,160.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,Sprite®‡,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Raja Burger,16 fl oz,210.0,0.0,0.0,0.0,0.0,0.0,95.0,56.0,0.0,56.0,0.0,266.0
+Raja Burger,20 fl oz,260.0,0.0,0.0,0.0,0.0,0.0,120.0,70.0,0.0,70.0,0.0,330.0
+Raja Burger,29 fl oz,380.0,0.0,0.0,0.0,0.0,0.0,170.0,102.0,0.0,102.0,0.0,482.0
+Raja Burger,38 fl oz,500.0,0.0,0.0,0.0,0.0,0.0,230.0,133.0,0.0,133.0,0.0,633.0
+Raja Burger,Dr. Pepper®‡,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Raja Burger,16 fl oz,190.0,0.0,0.0,0.0,0.0,0.0,60.0,52.0,0.0,51.0,0.0,241.0
+Raja Burger,20 fl oz,240.0,0.0,0.0,0.0,0.0,0.0,75.0,65.0,0.0,64.0,0.0,304.0
+Raja Burger,29 fl oz,350.0,0.0,0.0,0.0,0.0,0.0,105.0,94.0,0.0,93.0,0.0,443.0
+Raja Burger,38 fl oz,450.0,0.0,0.0,0.0,0.0,0.0,140.0,124.0,0.0,121.0,0.0,571.0
+Raja Burger,Barq’s® Root Beer‡,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Raja Burger,16 fl oz,240.0,0.0,0.0,0.0,0.0,0.0,100.0,65.0,0.0,65.0,0.0,305.0
+Raja Burger,20 fl oz,300.0,0.0,0.0,0.0,0.0,0.0,120.0,81.0,0.0,81.0,0.0,381.0
+Raja Burger,29 fl oz,350.0,0.0,0.0,0.0,0.0,0.0,180.0,118.0,0.0,118.0,0.0,468.0
+Raja Burger,38 fl oz,450.0,0.0,0.0,0.0,0.0,0.0,230.0,155.0,0.0,155.0,0.0,605.0
+Raja Burger,Cherry Coke®‡,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Raja Burger,16 fl oz,220.0,0.0,0.0,0.0,0.0,0.0,55.0,61.0,0.0,61.0,0.0,281.0
+Raja Burger,20 fl oz,280.0,0.0,0.0,0.0,0.0,0.0,70.0,76.0,0.0,76.0,0.0,356.0
+Raja Burger,29 fl oz,410.0,0.0,0.0,0.0,0.0,0.0,100.0,110.0,0.0,110.0,0.0,520.0
+Raja Burger,38 fl oz,450.0,0.0,0.0,0.0,0.0,0.0,130.0,145.0,0.0,145.0,0.0,595.0
+Raja Burger,Fanta® Orange‡,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Raja Burger,16 fl oz,230.0,0.0,0.0,0.0,0.0,0.0,60.0,62.0,0.0,61.0,0.0,291.0
+Raja Burger,20 fl oz,280.0,0.0,0.0,0.0,0.0,0.0,70.0,78.0,0.0,77.0,0.0,357.0
+Raja Burger,29 fl oz,410.0,0.0,0.0,0.0,0.0,0.0,105.0,113.0,0.0,111.0,0.0,521.0
+Raja Burger,38 fl oz,530.0,0.0,0.0,0.0,0.0,0.0,135.0,148.0,0.0,146.0,0.0,676.0
+Raja Burger,Hi-C® Fruit Punch‡,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Raja Burger,16 fl oz,220.0,0.0,0.0,0.0,0.0,0.0,75.0,62.0,0.0,60.0,0.0,280.0
+Raja Burger,20 fl oz,280.0,0.0,0.0,0.0,0.0,0.0,95.0,77.0,0.0,75.0,0.0,355.0
+Raja Burger,29 fl oz,410.0,0.0,0.0,0.0,0.0,0.0,135.0,111.0,0.0,109.0,0.0,519.0
+Raja Burger,38 fl oz,450.0,0.0,0.0,0.0,0.0,0.0,180.0,146.0,0.0,143.0,0.0,593.0
+Raja Burger,MINUTE MAID® Light Lemonade,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Raja Burger,16 fl oz,10.0,0.0,0.0,0.0,0.0,0.0,60.0,3.0,0.0,0.0,0.0,0.0
+Raja Burger,20 fl oz,10.0,0.0,0.0,0.0,0.0,0.0,70.0,4.0,0.0,0.0,0.0,0.0
+Raja Burger,29 fl oz,15.0,0.0,0.0,0.0,0.0,0.0,105.0,5.0,0.0,0.0,0.0,0.0
+Raja Burger,38 fl oz,20.0,0.0,0.0,0.0,0.0,0.0,135.0,7.0,0.0,0.0,0.0,0.0
+Raja Burger,Sweet Tea,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Raja Burger,20 fl oz,120.0,0.0,0.0,0.0,0.0,0.0,0.0,35.0,0.0,35.0,0.0,155.0
+Raja Burger,29 fl oz,160.0,0.0,0.0,0.0,0.0,0.0,0.0,49.0,0.0,49.0,0.0,209.0
+Raja Burger,40 fl oz,240.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0,0.0,71.0,0.0,311.0
+Raja Burger,Unsweetened Tea,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Raja Burger,20 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,29 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,40 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,Capri Sun® 100% Apple Juice,80.0,0.0,0.0,0.0,0.0,0.0,25.0,20.0,0.0,20.0,0.0,100.0
+Raja Burger,Minute Maid® Orange Juice,140.0,0.0,0.0,0.0,0.0,0.0,20.0,33.0,0.0,30.0,2.0,168.0
+Raja Burger,Frozen Coke® – 16 oz,130.0,0.0,0.0,0.0,0.0,0.0,50.0,35.0,0.0,35.0,0.0,165.0
+Raja Burger,BK® Café Coffee- 12 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,BK® Café Coffee- 16 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,BK® Café Coffee- 20 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,BK® Café Decaf Coffee- 12 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,BK® Café Decaf Coffee- 16 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,BK® Café Decaf Coffee- 20 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Raja Burger,BK® Café Iced Vanilla Coffee- 12 fl oz,150.0,70.0,8.0,4.0,0.0,25.0,30.0,21.0,0.0,21.0,1.0,174.0
+Raja Burger,BK® Café Iced Vanilla Coffee- 16 fl oz,200.0,90.0,10.0,5.0,0.0,30.0,40.0,27.0,0.0,27.0,2.0,230.0
+Raja Burger,BK® Café Iced Vanilla Coffee- 20 fl oz,260.0,110.0,13.0,7.0,0.0,40.0,50.0,34.0,0.0,34.0,2.0,299.0
+Raja Burger,BK® Café Iced Mocha Coffee- 12 fl oz,180.0,70.0,8.0,4.0,0.0,25.0,40.0,27.0,1.0,25.0,2.0,207.0
+Raja Burger,BK® Café Iced Mocha Coffee- 16 fl oz,240.0,90.0,10.0,6.0,0.0,30.0,55.0,35.0,1.0,32.0,2.0,276.0
+Raja Burger,BK® Café Iced Mocha Coffee- 20 fl oz,300.0,120.0,13.0,7.0,0.0,40.0,70.0,45.0,2.0,41.0,3.0,345.0
+Raja Burger,BK® Café Mocha Frappe- 12 fl oz,300.0,80.0,8.0,5.0,0.0,30.0,200.0,50.0,1.0,41.0,7.0,339.0
+Raja Burger,BK® Café Mocha Frappe- 16 fl oz,400.0,90.0,10.0,7.0,0.0,40.0,270.0,68.0,1.0,58.0,9.0,456.0
+Raja Burger,BK® Café Mocha Frappe- 20 fl oz,510.0,110.0,13.0,8.0,0.0,50.0,350.0,87.0,1.0,71.0,12.0,577.0
+Raja Burger,BK® Café Caramel Frappe- 12 fl oz,300.0,80.0,8.0,5.0,0.0,35.0,210.0,50.0,0.0,41.0,7.0,339.0
+Raja Burger,BK® Café Caramel Frappe- 16 fl oz,400.0,90.0,10.0,7.0,0.0,40.0,280.0,68.0,0.0,56.0,9.0,454.0
+Raja Burger,BK® Café Caramel Frappe- 20 fl oz,500.0,110.0,12.0,8.0,0.0,50.0,350.0,86.0,0.0,71.0,11.0,568.0
+Berangin,Baconator,950.0,117.55555555555556,62.0,24.0,3.0,205.0,1630.0,40.0,2.0,8.0,59.0,923.0
+Berangin,Dave’s Double,810.0,117.55555555555556,51.0,20.0,3.0,175.0,1280.0,41.0,3.0,8.0,49.0,789.0
+Berangin,Dave’s Single,570.0,117.55555555555556,34.0,13.0,1.5,100.0,1110.0,40.0,3.0,9.0,30.0,562.0
+Berangin,Dave’s Triple,1090.0,117.55555555555556,72.0,30.0,4.0,260.0,1650.0,43.0,3.0,9.0,71.0,1058.0
+Berangin,Double Stack,390.0,117.55555555555556,21.0,9.0,1.5,90.0,740.0,26.0,1.0,6.0,25.0,380.0
+Berangin,Jr. Bacon Cheeseburger,380.0,117.55555555555556,22.0,8.0,1.0,65.0,680.0,25.0,1.0,5.0,19.0,374.0
+Berangin,Jr. Cheeseburger,280.0,117.55555555555556,13.0,6.0,1.0,50.0,660.0,26.0,1.0,6.0,16.0,276.0
+Berangin,Jr. Cheeseburger Deluxe,340.0,117.55555555555556,19.0,7.0,1.0,55.0,660.0,27.0,2.0,7.0,16.0,338.0
+Berangin,Son of Baconator,630.0,117.55555555555556,39.0,15.0,1.5,125.0,1280.0,37.0,2.0,7.0,34.0,618.0
+Berangin,3 Piece Chicken Tenders,330.0,117.55555555555556,16.0,2.5,0.0,75.0,1010.0,22.0,0.0,0.0,24.0,309.0
+Berangin,4 Piece Chicken Nuggets,170.0,117.55555555555556,11.0,2.0,0.0,35.0,340.0,10.0,0.0,0.0,9.0,163.0
+Berangin,4 Piece Chicken Tenders,430.0,117.55555555555556,21.0,3.5,0.0,100.0,1350.0,29.0,0.0,1.0,32.0,403.0
+Berangin,6 Picece Chicken Nuggets,250.0,117.55555555555556,16.0,3.5,0.0,50.0,510.0,14.0,1.0,0.0,13.0,241.0
+Berangin,6 Piece Chicken Tenders,650.0,117.55555555555556,32.0,5.0,0.0,150.0,2020.0,43.0,0.0,1.0,48.0,608.0
+Berangin,10 Piece Chicken Nuggets,420.0,117.55555555555556,27.0,5.0,0.0,80.0,850.0,24.0,1.0,0.0,22.0,403.0
+Berangin,Crispy Chicken BLT,420.0,117.55555555555556,23.0,6.0,0.0,50.0,950.0,35.0,2.0,5.0,20.0,411.0
+Berangin,Crispy Chicken Sandwich,330.0,117.55555555555556,16.0,3.0,0.0,30.0,600.0,33.0,2.0,4.0,14.0,323.0
+Berangin,Grilled Asiago Ranch Club,530.0,117.55555555555556,23.0,7.0,0.0,120.0,1220.0,36.0,3.0,6.0,43.0,500.0
+Berangin,Grilled Chicken Sandwich,370.0,117.55555555555556,10.0,2.0,0.0,90.0,830.0,38.0,3.0,8.0,34.0,346.0
+Berangin,Grilled Chicken Wrap,270.0,117.55555555555556,10.0,3.5,0.0,55.0,640.0,24.0,2.0,3.0,20.0,257.0
+Berangin,Homestyle Asiago Ranch Chicken Club,660.0,117.55555555555556,34.0,9.0,0.0,100.0,1650.0,52.0,3.0,7.0,38.0,638.0
+Berangin,Homestyle Chicken Sandwich,510.0,117.55555555555556,22.0,4.0,0.0,70.0,1150.0,51.0,3.0,6.0,28.0,492.0
+Berangin,S’Awesome Sauce,120.0,117.55555555555556,12.0,2.0,0.0,0.0,170.0,4.0,1.0,3.0,1.0,124.0
+Berangin,Spicy Asiago Ranch Club,670.0,117.55555555555556,32.0,9.0,0.0,100.0,1530.0,55.0,4.0,6.0,38.0,647.0
+Berangin,Spicy Chicken Sandwich,510.0,117.55555555555556,20.0,3.5,0.0,65.0,1030.0,54.0,4.0,6.0,29.0,491.0
+Berangin,Spicy Chicken Wrap,370.0,117.55555555555556,20.0,5.0,0.0,50.0,850.0,30.0,2.0,2.0,18.0,359.0
+Berangin,"Apple Pecan Chicken Salad, Full Size",560.0,117.55555555555556,24.0,7.0,0.0,115.0,1020.0,52.0,7.0,40.0,38.0,569.0
+Berangin,"Apple Pecan Chicken Salad, Half Size",340.0,117.55555555555556,17.0,4.0,0.0,55.0,550.0,29.0,4.0,22.0,20.0,346.0
+Berangin,"Berry Burst Chicken Salad, Full Size",460.0,117.55555555555556,17.0,4.5,0.0,105.0,1090.0,41.0,7.0,29.0,41.0,453.0
+Berangin,"Berry Burst Chicken Salad, Half Size",290.0,117.55555555555556,13.0,2.5,0.0,50.0,570.0,23.0,5.0,15.0,23.0,285.0
+Berangin,Caesar Side Salad,240.0,117.55555555555556,15.0,4.0,0.0,30.0,500.0,19.0,3.0,4.0,8.0,240.0
+Berangin,Garden Side Salad,250.0,117.55555555555556,18.0,4.0,0.0,20.0,460.0,18.0,2.0,4.0,7.0,251.0
+Berangin,"Southwest Avocado Chicken Salad, Full Size",600.0,117.55555555555556,41.0,11.0,0.0,135.0,1220.0,18.0,7.0,7.0,42.0,576.0
+Berangin,"Southwest Avocado Chicken Salad, Half Size",300.0,117.55555555555556,20.0,6.0,0.0,70.0,620.0,10.0,4.0,4.0,21.0,289.0
+Berangin,"Spicy Caesar Chicken Salad, Full Size",720.0,117.55555555555556,42.0,12.0,1.0,150.0,1680.0,44.0,8.0,6.0,42.0,696.0
+Berangin,"Spicy Caesar Chicken Salad, Half Size",410.0,117.55555555555556,23.0,6.0,0.5,75.0,930.0,30.0,5.0,4.0,23.0,397.0
+Berangin,"Taco Salad, Full Size",660.0,117.55555555555556,32.0,13.0,1.0,85.0,1820.0,63.0,10.0,18.0,32.0,659.0
+Berangin,"Taco Salad, Half Size",470.0,117.55555555555556,23.0,8.0,0.5,45.0,1320.0,49.0,7.0,12.0,19.0,471.0
+Berangin,Apple Bites,35.0,117.55555555555556,0.0,0.0,0.0,0.0,0.0,9.0,2.0,7.0,0.0,42.0
+Berangin,Baconator Fries,490.0,117.55555555555556,28.0,9.0,0.0,35.0,550.0,45.0,4.0,2.0,14.0,487.0
+Berangin,Bacon Cheese Baked Potato,440.0,117.55555555555556,14.0,6.0,0.0,35.0,550.0,64.0,7.0,4.0,17.0,433.0
+Berangin,Cheese Baked Potato,430.0,117.55555555555556,13.0,7.0,0.0,30.0,560.0,65.0,7.0,5.0,14.0,428.0
+Berangin,Chili & Cheese Baked Potato,460.0,117.55555555555556,11.0,5.0,0.0,35.0,710.0,71.0,8.0,7.0,19.0,453.0
+Berangin,"Chili, Large",250.0,117.55555555555556,7.0,3.0,0.5,50.0,1170.0,23.0,5.0,9.0,23.0,239.0
+Berangin,"Chili, Small",170.0,117.55555555555556,5.0,2.0,0.0,35.0,780.0,16.0,4.0,6.0,15.0,163.0
+Berangin,Chili Cheese Fries,500.0,117.55555555555556,25.0,8.0,0.5,35.0,710.0,53.0,6.0,4.0,16.0,496.0
+Berangin,"Natural-Cut Fries, Junior",230.0,117.55555555555556,10.0,2.0,0.0,0.0,15.0,30.0,3.0,0.0,3.0,229.0
+Berangin,"Natural-Cut Fries, Large",530.0,117.55555555555556,24.0,4.5,0.0,0.0,520.0,70.0,6.0,0.0,7.0,528.0
+Berangin,"Natural-Cut Fries, Medium",420.0,117.55555555555556,19.0,3.5,0.0,0.0,420.0,56.0,5.0,0.0,6.0,418.0
+Berangin,"Natural-Cut Fries, Small",320.0,117.55555555555556,15.0,2.5,0.0,0.0,320.0,43.0,4.0,0.0,5.0,318.0
+Berangin,Plain Baked Potato,270.0,117.55555555555556,0.0,0.0,0.0,0.0,25.0,61.0,7.0,3.0,7.0,266.0
+Berangin,Sour Cream and Chive Baked Potato,310.0,117.55555555555556,2.5,2.5,0.0,10.0,35.0,63.0,7.0,4.0,8.0,309.0
+Berangin,Summer Berry Burst Fruit Cup,20.0,117.55555555555556,0.0,0.0,0.0,0.0,0.0,5.0,1.0,3.0,0.0,23.0
+Berangin,1% Chocolate Milk,150.0,117.55555555555556,2.5,1.5,0.0,10.0,170.0,26.0,0.0,23.0,7.0,168.0
+Berangin,1% White Milk,90.0,117.55555555555556,2.0,1.5,0.0,10.0,105.0,10.0,0.0,10.0,7.0,95.0
+Berangin,"All-Natural Lemonade, Large",380.0,117.55555555555556,0.0,0.0,0.0,0.0,0.0,100.0,0.0,93.0,0.0,473.0
+Berangin,"All-Natural Lemonade, Medium",330.0,117.55555555555556,0.0,0.0,0.0,0.0,0.0,86.0,0.0,81.0,0.0,411.0
+Berangin,"All-Natural Lemonade, Small",190.0,117.55555555555556,0.0,0.0,0.0,0.0,0.0,50.0,0.0,47.0,0.0,237.0
+Berangin,"Apple Kiwi Fruit Tea, Large",330.0,117.55555555555556,0.0,0.0,0.0,0.0,60.0,83.0,0.0,80.0,0.0,410.0
+Berangin,"Apple Kiwi Fruit Tea, Medium",300.0,117.55555555555556,0.0,0.0,0.0,0.0,50.0,76.0,0.0,73.0,0.0,373.0
+Berangin,"Apple Kiwi Fruit Tea, Small",170.0,117.55555555555556,0.0,0.0,0.0,0.0,30.0,44.0,0.0,42.0,0.0,212.0
+Berangin,"Barq’s Root Beer, Large",450.0,117.55555555555556,0.0,0.0,0.0,0.0,180.0,122.0,0.0,122.0,0.0,572.0
+Berangin,"Barq’s Root Beer, Medium",360.0,117.55555555555556,0.0,0.0,0.0,0.0,150.0,98.0,0.0,98.0,0.0,458.0
+Berangin,"Barq’s Root Beer, Small",220.0,117.55555555555556,0.0,0.0,0.0,0.0,90.0,61.0,0.0,61.0,0.0,281.0
+Berangin,"Brewed Unsweetened Iced Tea, Large",5.0,117.55555555555556,0.0,0.0,0.0,0.0,25.0,2.0,0.0,0.0,0.0,5.0
+Berangin,"Brewed Unsweetened Iced Tea, Medium",0.0,117.55555555555556,0.0,0.0,0.0,0.0,15.0,1.0,0.0,0.0,0.0,0.0
+Berangin,"Brewed Unsweetened Iced Tea, Small",0.0,117.55555555555556,0.0,0.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0
+Berangin,"Caramel Iced Coffee, Medium",240.0,117.55555555555556,8.0,5.0,0.0,25.0,45.0,40.0,0.0,36.0,3.0,278.0
+Berangin,"Caramel Iced Coffee, Small",160.0,117.55555555555556,6.0,3.5,0.0,20.0,30.0,26.0,0.0,24.0,2.0,186.0
+Berangin,"Coca-Cola, Large",400.0,117.55555555555556,0.0,0.0,0.0,0.0,90.0,109.0,0.0,109.0,0.0,509.0
+Berangin,"Coca-Cola, Medium",320.0,117.55555555555556,0.0,0.0,0.0,0.0,70.0,87.0,0.0,87.0,0.0,407.0
+Berangin,"Coca-Cola, Small",200.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,54.0,0.0,54.0,0.0,254.0
+Berangin,"Coca-Cola Zero Sugar, Large",0.0,117.55555555555556,0.0,0.0,0.0,0.0,100.0,1.0,0.0,0.0,0.0,0.0
+Berangin,"Coca-Cola Zero Sugar, Medium",0.0,117.55555555555556,0.0,0.0,0.0,0.0,80.0,1.0,0.0,0.0,0.0,0.0
+Berangin,"Coca-Cola Zero Sugar, Small",0.0,117.55555555555556,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0
+Berangin,"Diet Coke, Large",0.0,117.55555555555556,0.0,0.0,0.0,0.0,125.0,1.0,0.0,0.0,0.0,0.0
+Berangin,"Diet Coke, Medium",0.0,117.55555555555556,0.0,0.0,0.0,0.0,100.0,1.0,0.0,0.0,0.0,0.0
+Berangin,"Diet Coke, Small",0.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0
+Berangin,"Dr Pepper, Large",240.0,117.55555555555556,0.0,0.0,0.0,0.0,70.0,66.0,0.0,64.0,0.0,304.0
+Berangin,"Dr Pepper, Medium",190.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,53.0,0.0,51.0,0.0,241.0
+Berangin,"Dr Pepper, Small",120.0,117.55555555555556,0.0,0.0,0.0,0.0,35.0,33.0,0.0,32.0,0.0,152.0
+Berangin,"Fanta Orange, Large",430.0,117.55555555555556,0.0,0.0,0.0,0.0,110.0,117.0,0.0,115.0,0.0,545.0
+Berangin,"Fanta Orange, Medium",340.0,117.55555555555556,0.0,0.0,0.0,0.0,85.0,94.0,0.0,92.0,0.0,432.0
+Berangin,"Fanta Orange, Small",210.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,59.0,0.0,58.0,0.0,268.0
+Berangin,"Hi-C Flashin’ Fruit Punch, Large",420.0,117.55555555555556,0.0,0.0,0.0,0.0,140.0,115.0,0.0,113.0,0.0,533.0
+Berangin,"Hi-C Flashin’ Fruit Punch, Medium",340.0,117.55555555555556,0.0,0.0,0.0,0.0,115.0,92.0,0.0,90.0,0.0,430.0
+Berangin,"Hi-C Flashin’ Fruit Punch, Small",210.0,117.55555555555556,0.0,0.0,0.0,0.0,70.0,58.0,0.0,56.0,0.0,266.0
+Berangin,"Honest Tropical Green Tea, Large",110.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,29.0,0.0,29.0,0.0,139.0
+Berangin,"Honest Tropical Green Tea, Medium",90.0,117.55555555555556,0.0,0.0,0.0,0.0,40.0,22.0,0.0,22.0,0.0,112.0
+Berangin,"Honest Tropical Green Tea, Small",60.0,117.55555555555556,0.0,0.0,0.0,0.0,25.0,14.0,0.0,14.0,0.0,74.0
+Berangin,Hot Tea,0.0,117.55555555555556,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Berangin,"Limeade, Large",460.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,117.0,0.0,111.0,0.0,571.0
+Berangin,"Limeade, Medium",380.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,98.0,0.0,93.0,0.0,473.0
+Berangin,"Limeade, Small",230.0,117.55555555555556,0.0,0.0,0.0,0.0,30.0,59.0,0.0,56.0,0.0,286.0
+Berangin,"Minute Maid Light Lemonade, Large",15.0,117.55555555555556,0.0,0.0,0.0,0.0,10.0,2.0,0.0,0.0,0.0,15.0
+Berangin,"Minute Maid Light Lemonade, Medium",10.0,117.55555555555556,0.0,0.0,0.0,0.0,10.0,1.0,0.0,0.0,0.0,10.0
+Berangin,"Minute Maid Light Lemonade, Small",5.0,117.55555555555556,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,5.0
+Berangin,"Mocha Iced Coffee, Medium",210.0,117.55555555555556,8.0,5.0,0.0,25.0,40.0,32.0,0.0,28.0,3.0,240.0
+Berangin,"Mocha Iced Coffee, Small",170.0,117.55555555555556,6.0,3.5,0.0,20.0,30.0,28.0,0.0,25.0,2.0,197.0
+Berangin,"Pear Berry Fruit Tea, Large",320.0,117.55555555555556,0.0,0.0,0.0,0.0,60.0,82.0,0.0,76.0,0.0,396.0
+Berangin,"Pear Berry Fruit Tea, Medium",300.0,117.55555555555556,0.0,0.0,0.0,0.0,50.0,76.0,0.0,70.0,0.0,370.0
+Berangin,"Pear Berry Fruit Tea, Small",170.0,117.55555555555556,0.0,0.0,0.0,0.0,30.0,44.0,0.0,40.0,0.0,210.0
+Berangin,"Skinny Vanilla Iced Coffee, Medium",100.0,117.55555555555556,8.0,5.0,0.0,25.0,45.0,14.0,0.0,0.0,3.0,102.0
+Berangin,"Skinny Vanilla Iced Coffee, Small",70.0,117.55555555555556,5.0,3.5,0.0,15.0,30.0,6.0,0.0,0.0,2.0,72.0
+Berangin,"Small Sprite, Small",200.0,117.55555555555556,0.0,0.0,0.0,0.0,90.0,53.0,0.0,53.0,0.0,253.0
+Berangin,"Sprite, Large",390.0,117.55555555555556,0.0,0.0,0.0,0.0,180.0,105.0,0.0,105.0,0.0,495.0
+Berangin,"Sprite, Medium",310.0,117.55555555555556,0.0,0.0,0.0,0.0,140.0,84.0,0.0,84.0,0.0,394.0
+Berangin,"Strawberry Lemonade, Large",480.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,121.0,0.0,114.0,0.0,594.0
+Berangin,"Strawberry Lemonade, Medium",380.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,98.0,0.0,92.0,0.0,472.0
+Berangin,"Strawberry Lemonade, Small",230.0,117.55555555555556,0.0,0.0,0.0,0.0,30.0,58.0,0.0,54.0,0.0,284.0
+Berangin,"Strawberry Sweet Tea, Large",270.0,117.55555555555556,0.0,0.0,0.0,0.0,15.0,69.0,0.0,67.0,0.0,337.0
+Berangin,"Strawberry Sweet Tea, Medium",240.0,117.55555555555556,0.0,0.0,0.0,0.0,15.0,60.0,0.0,59.0,0.0,299.0
+Berangin,"Strawberry Sweet Tea, Small",140.0,117.55555555555556,0.0,0.0,0.0,0.0,10.0,36.0,0.0,35.0,0.0,175.0
+Berangin,"Strawberry Tea, Large",90.0,117.55555555555556,0.0,0.0,0.0,0.0,20.0,22.0,0.0,20.0,0.0,110.0
+Berangin,"Strawberry Tea, Medium",60.0,117.55555555555556,0.0,0.0,0.0,0.0,15.0,16.0,0.0,14.0,0.0,74.0
+Berangin,"Strawberry Tea, Small",45.0,117.55555555555556,0.0,0.0,0.0,0.0,10.0,11.0,0.0,10.0,0.0,55.0
+Berangin,"Sweetened Iced Tea, Large",300.0,117.55555555555556,0.0,0.0,0.0,0.0,25.0,77.0,0.0,75.0,0.0,375.0
+Berangin,"Sweetened Iced Tea, Medium",220.0,117.55555555555556,0.0,0.0,0.0,0.0,20.0,58.0,0.0,56.0,0.0,276.0
+Berangin,"Sweetened Iced Tea, Small",160.0,117.55555555555556,0.0,0.0,0.0,0.0,10.0,41.0,0.0,40.0,0.0,200.0
+Berangin,"Vanilla Iced Coffee, Medium",250.0,117.55555555555556,8.0,5.0,0.0,25.0,40.0,42.0,0.0,39.0,3.0,291.0
+Berangin,"Vanilla Iced Coffee, Small",170.0,117.55555555555556,6.0,3.5,0.0,20.0,30.0,28.0,0.0,26.0,2.0,198.0
+Berangin,"Classic Chocolate Frosty, Junior",200.0,117.55555555555556,5.0,3.0,0.0,20.0,90.0,33.0,0.0,27.0,6.0,224.0
+Berangin,"Classic Chocolate Frosty, Large",590.0,117.55555555555556,15.0,10.0,0.5,60.0,260.0,99.0,0.0,81.0,17.0,664.0
+Berangin,"Classic Chocolate Frosty, Medium",470.0,117.55555555555556,12.0,8.0,0.5,50.0,210.0,79.0,0.0,65.0,13.0,530.0
+Berangin,"Classic Chocolate Frosty, Small",350.0,117.55555555555556,9.0,6.0,0.0,35.0,150.0,58.0,0.0,47.0,10.0,393.0
+Berangin,"Vanilla Frosty, Junior",190.0,117.55555555555556,5.0,3.5,0.0,25.0,90.0,32.0,0.0,27.0,5.0,216.0
+Berangin,"Vanilla Frosty, Large",570.0,117.55555555555556,15.0,10.0,0.5,70.0,260.0,94.0,0.0,78.0,15.0,643.0
+Berangin,"Vanilla Frosty, Medium",450.0,117.55555555555556,12.0,8.0,0.5,55.0,210.0,75.0,0.0,63.0,12.0,509.0
+Berangin,"Vanilla Frosty, Small",340.0,117.55555555555556,9.0,6.0,0.0,45.0,160.0,56.0,0.0,47.0,9.0,384.0
+Berangin,Chocolate Chunk Cookie,310.0,117.55555555555556,16.0,8.0,0.0,20.0,210.0,40.0,2.0,24.0,3.0,339.0
+Berangin,Double Chocolate Chunk Cookie,290.0,117.55555555555556,14.0,7.0,0.0,20.0,230.0,39.0,4.0,21.0,4.0,314.0
+Berangin,Sugar Cookie,330.0,117.55555555555556,16.0,8.0,0.0,25.0,300.0,43.0,1.0,24.0,3.0,359.0
+Berangin,Kids 2 Piece Chicken Tenders,200.0,117.55555555555556,10.0,1.5,0.0,45.0,620.0,13.0,0.0,0.0,15.0,187.0
+Berangin,Kids 4 Piece Chicken Nuggets,170.0,117.55555555555556,11.0,2.0,0.0,35.0,340.0,10.0,0.0,0.0,9.0,163.0
+Berangin,Kids Cheeseburger,280.0,117.55555555555556,13.0,6.0,0.5,50.0,540.0,25.0,1.0,5.0,15.0,276.0
+Berangin,Kids Grilled Chicken Wrap,270.0,117.55555555555556,10.0,3.5,0.0,55.0,640.0,24.0,2.0,3.0,20.0,257.0
+Berangin,Kids Hamburger,240.0,117.55555555555556,9.0,3.5,0.5,40.0,350.0,24.0,1.0,5.0,13.0,236.0
+Berangin,Artisan Egg Sandwich with Bacon,320.0,117.55555555555556,17.0,8.0,0.0,245.0,750.0,25.0,1.0,4.0,18.0,314.0
+Berangin,Artisan Egg Sandwich with Sausage,480.0,117.55555555555556,33.0,13.0,0.0,275.0,980.0,27.0,1.0,4.0,21.0,476.0
+Berangin,Bacon Breakfast Bowl,510.0,117.55555555555556,28.0,9.0,0.0,245.0,1390.0,44.0,4.0,2.0,19.0,502.0
+Berangin,Biggie Breakfast Sandwich,610.0,117.55555555555556,40.0,15.0,0.0,290.0,1400.0,37.0,2.0,7.0,27.0,605.0
+Berangin,Fresh-Baked Biscuit with Applewood Smoked Bacon,410.0,117.55555555555556,24.0,13.0,0.0,235.0,970.0,34.0,1.0,5.0,15.0,413.0
+Berangin,Fresh Baked Biscuit with Natural Sausage,590.0,117.55555555555556,41.0,19.0,0.0,270.0,1270.0,36.0,1.0,6.0,20.0,595.0
+Berangin,Gravy and Sausage Bowl,450.0,117.55555555555556,22.0,6.0,0.0,220.0,1260.0,50.0,4.0,2.0,12.0,446.0
+Berangin,Honey Butter Chicken Biscuit,500.0,117.55555555555556,26.0,12.0,0.0,50.0,1120.0,48.0,1.0,9.0,19.0,502.0
+Berangin,Sausage and Egg Burrito,360.0,117.55555555555556,20.0,8.0,0.0,210.0,920.0,29.0,1.0,2.0,17.0,353.0
+Berangin,Sausage and Gravy Biscuit,490.0,117.55555555555556,29.0,14.0,0.0,20.0,1400.0,49.0,2.0,6.0,8.0,502.0
+Berangin,Sausage Biscuit,480.0,117.55555555555556,33.0,15.0,0.0,50.0,1010.0,35.0,1.0,5.0,12.0,488.0
+Berangin,Sausage Breakfast Bowl,640.0,117.55555555555556,42.0,14.0,0.0,270.0,1540.0,46.0,4.0,3.0,21.0,636.0
+Berangin,"Seasoned Home-Style Potatoes, Large",360.0,117.55555555555556,13.0,2.5,0.0,0.0,1080.0,57.0,6.0,1.0,5.0,359.0
+Berangin,"Seasoned Home-Style Potatoes, Medium",250.0,117.55555555555556,9.0,1.5,0.0,0.0,750.0,39.0,4.0,1.0,4.0,249.0
+Berangin,"Seasoned Home-Style Potatoes, Small",230.0,117.55555555555556,8.0,1.5,0.0,0.0,680.0,35.0,4.0,0.0,3.0,229.0
+Berangin,Two Sausage and Egg Burritos,720.0,117.55555555555556,41.0,16.0,0.0,420.0,1830.0,59.0,2.0,5.0,34.0,707.0
+Berangin,Two Sausage Biscuits,960.0,117.55555555555556,65.0,31.0,0.0,95.0,2020.0,70.0,3.0,10.0,23.0,978.0
+KrispyFiestaChicken,Limited Time Cinnabon Dessert  Biscuits,290.0,117.55555555555556,13.0,7.0,0.0,40.64789991063449,580.0,40.0,2.0,17.0,4.0,310.0
+KrispyFiestaChicken,Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast,390.0,117.55555555555556,21.0,4.0,0.0,120.0,1190.0,11.0,2.0,0.0,39.0,355.0
+KrispyFiestaChicken,Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick,130.0,117.55555555555556,8.0,1.5,0.0,55.0,430.0,4.0,1.0,0.0,12.0,119.5
+KrispyFiestaChicken,Limited Time ORIGINAL RECIPE CHICKEN Chicken Thigh,280.0,117.55555555555556,19.0,4.5,0.0,100.0,910.0,8.0,1.0,0.0,19.0,265.5
+KrispyFiestaChicken,Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing,130.0,117.55555555555556,8.0,2.0,0.0,55.0,380.0,3.0,0.0,0.0,10.0,122.0
+KrispyFiestaChicken,Chicken Breast,770.0,117.55555555555556,60.0,10.0,0.0,105.0,1530.0,21.0,1.0,1.0,35.0,746.0
+KrispyFiestaChicken,Chicken Drumstick,250.0,117.55555555555556,21.0,3.5,0.0,50.0,530.0,6.0,1.0,0.0,11.0,242.5
+KrispyFiestaChicken,Chicken Thigh,500.0,117.55555555555556,40.0,7.0,0.0,100.0,970.0,11.0,1.0,1.0,22.0,486.0
+KrispyFiestaChicken,Chicken Whole Wing,290.0,117.55555555555556,25.0,4.0,0.0,45.0,520.0,6.0,1.0,1.0,10.0,285.0
+KrispyFiestaChicken,Breast,260.0,117.55555555555556,12.0,3.0,0.0,130.0,790.0,1.0,0.0,0.0,38.0,225.0
+KrispyFiestaChicken,Drumstick,100.0,117.55555555555556,6.0,1.5,0.0,55.0,260.0,0.0,0.0,0.0,11.0,90.5
+KrispyFiestaChicken,Thigh,180.0,117.55555555555556,12.0,3.5,0.0,90.0,470.0,0.0,0.0,0.0,17.0,166.5
+KrispyFiestaChicken,Whole Wing,90.0,117.55555555555556,6.0,1.5,0.0,45.0,210.0,1.0,0.0,0.0,9.0,82.5
+KrispyFiestaChicken,Breast,540.0,117.55555555555556,40.0,7.0,0.0,100.0,1390.0,14.0,2.0,1.0,31.0,517.0
+KrispyFiestaChicken,Drumstick,190.0,117.55555555555556,14.0,2.5,0.0,40.0,510.0,6.0,1.0,0.0,9.0,183.5
+KrispyFiestaChicken,Thigh,390.0,117.55555555555556,32.0,6.0,0.0,65.0,900.0,12.0,2.0,1.0,13.0,384.0
+KrispyFiestaChicken,Whole Wing,180.0,117.55555555555556,15.0,2.5,0.0,35.0,450.0,5.0,1.0,0.0,8.0,174.5
+KrispyFiestaChicken,EXTRA CRISPY  Chicken Breast,530.0,117.55555555555556,35.0,6.0,0.0,105.0,1150.0,18.0,0.0,0.0,35.0,501.0
+KrispyFiestaChicken,EXTRA CRISPY  Chicken Drumstick,170.0,117.55555555555556,12.0,2.0,0.0,50.0,390.0,5.0,0.0,0.0,10.0,162.0
+KrispyFiestaChicken,EXTRA CRISPY  Chicken Thigh,330.0,117.55555555555556,23.0,4.5,0.0,100.0,700.0,9.0,0.0,0.0,22.0,312.5
+KrispyFiestaChicken,EXTRA CRISPY  Chicken Whole Wing,170.0,117.55555555555556,13.0,2.0,0.0,45.0,340.0,5.0,0.0,0.0,10.0,162.0
+KrispyFiestaChicken,KENTUCKY GRILLED CHICKEN Breast,210.0,117.55555555555556,7.0,2.0,0.0,130.0,710.0,0.0,0.0,0.0,38.0,174.0
+KrispyFiestaChicken,KENTUCKY GRILLED CHICKEN Drumstick,80.0,117.55555555555556,4.0,1.0,0.0,55.0,220.0,0.0,0.0,0.0,11.0,70.0
+KrispyFiestaChicken,KENTUCKY GRILLED CHICKEN Thigh,150.0,117.55555555555556,9.0,3.0,0.0,90.0,420.0,0.0,0.0,0.0,17.0,136.0
+KrispyFiestaChicken,KENTUCKY GRILLED CHICKEN Whole Wing,70.0,117.55555555555556,3.0,1.0,0.0,45.0,180.0,0.0,0.0,0.0,9.0,62.0
+KrispyFiestaChicken,SPICY CRISPY CHICKEN Breast,350.0,117.55555555555556,20.0,3.5,0.0,100.0,1100.0,11.0,1.0,0.0,30.0,323.5
+KrispyFiestaChicken,SPICY CRISPY CHICKEN Drumstick,130.0,117.55555555555556,8.0,1.5,0.0,40.0,420.0,5.0,1.0,0.0,9.0,122.5
+KrispyFiestaChicken,SPICY CRISPY CHICKEN Thigh,270.0,117.55555555555556,20.0,3.5,0.0,65.0,720.0,10.0,1.0,0.0,13.0,260.5
+KrispyFiestaChicken,SPICY CRISPY CHICKEN Whole Wing,120.0,117.55555555555556,8.0,1.5,0.0,35.0,350.0,5.0,0.0,0.0,7.0,114.5
+KrispyFiestaChicken,EXTRA CRISPY  Tender (each),260.0,117.55555555555556,14.0,2.0,0.0,50.0,610.0,15.0,1.4548872180451127,0.0,19.0,243.0
+KrispyFiestaChicken,EXTRA CRISPY  Tender (each),220.0,117.55555555555556,16.0,2.5,0.0,25.0,460.0,9.0,1.4548872180451127,0.0,10.0,212.5
+KrispyFiestaChicken,KENTUCKY FRIED WINGS Buffalo,100.0,117.55555555555556,7.0,1.5,0.0,20.0,310.0,3.0,0.0,0.0,5.0,96.5
+KrispyFiestaChicken,KENTUCKY FRIED WINGS Honey BBQ,100.0,117.55555555555556,6.0,1.0,0.0,20.0,210.0,8.0,0.0,4.0,5.0,100.0
+KrispyFiestaChicken,KENTUCKY FRIED WINGS Nashville Hot,130.0,117.55555555555556,11.0,2.0,0.0,20.0,230.0,4.0,0.0,0.0,5.0,127.0
+KrispyFiestaChicken,KENTUCKY FRIED WINGS Unsauced,80.0,117.55555555555556,6.0,1.0,0.0,20.0,150.0,3.0,0.0,0.0,5.0,76.0
+KrispyFiestaChicken,POPCORN NUGGETS Kids,290.0,117.55555555555556,19.0,2.5,0.0,30.0,870.0,19.0,1.0,0.0,13.0,279.5
+KrispyFiestaChicken,POPCORN NUGGETS Large,620.0,117.55555555555556,39.0,5.0,0.0,65.0,1820.0,39.0,2.0,0.0,27.0,598.0
+KrispyFiestaChicken,BBQ Baked Beans,190.0,117.55555555555556,1.0,0.0,0.0,0.0,650.0,34.0,7.0,15.0,11.0,194.0
+KrispyFiestaChicken,Biscuit,180.0,117.55555555555556,8.0,4.5,0.0,0.0,520.0,22.0,1.0,1.0,4.0,181.5
+KrispyFiestaChicken,Coleslaw,170.0,117.55555555555556,12.0,2.0,0.0,40.64789991063449,180.0,14.0,4.0,10.0,1.0,181.0
+KrispyFiestaChicken,Corn on the Cob,70.0,117.55555555555556,0.5,0.0,0.0,0.0,0.0,17.0,2.0,3.0,2.0,71.0
+KrispyFiestaChicken,Green Beans,25.0,117.55555555555556,0.0,0.0,0.0,0.0,300.0,5.0,3.0,1.0,1.0,25.0
+KrispyFiestaChicken,KFC® Cornbread Muffin,210.0,117.55555555555556,9.0,1.5,0.0,35.0,240.0,28.0,1.4548872180451127,11.0,3.0,219.5
+KrispyFiestaChicken,Macaroni & Cheese,140.0,117.55555555555556,6.0,1.5,0.0,40.64789991063449,590.0,17.0,1.0,2.0,5.0,138.5
+KrispyFiestaChicken,Macaroni Salad,140.0,117.55555555555556,8.0,1.0,0.0,15.0,290.0,14.0,0.0,9.0,1.0,149.0
+KrispyFiestaChicken,Mashed Potatoes,110.0,117.55555555555556,3.5,0.5,0.0,0.0,330.0,17.0,1.0,0.0,2.0,108.5
+KrispyFiestaChicken,Mashed Potatoes With Gravy,130.0,117.55555555555556,4.5,1.0,0.0,0.0,520.0,20.0,1.0,0.0,3.0,128.0
+KrispyFiestaChicken,Potato Salad,340.0,117.55555555555556,28.0,4.5,0.0,25.0,290.0,19.0,2.0,3.0,2.0,345.5
+KrispyFiestaChicken,Secret Recipe Fries,320.0,117.55555555555556,15.0,2.0,0.0,0.0,1100.0,41.0,3.0,0.0,5.0,317.0
+KrispyFiestaChicken,Sweet Kernel Corn,70.0,117.55555555555556,0.5,0.0,0.0,0.0,0.0,16.0,2.0,2.0,2.0,70.0
+KrispyFiestaChicken,BBQ Baked Beans (Family),830.0,117.55555555555556,5.0,1.0,0.0,0.0,2810.0,148.0,31.0,63.0,47.0,847.0
+KrispyFiestaChicken,Coleslaw (Family),640.0,117.55555555555556,46.0,7.0,0.0,15.0,670.0,54.0,14.0,37.0,4.0,680.0
+KrispyFiestaChicken,Corn on the Cob (Family),280.0,117.55555555555556,2.0,0.0,0.0,0.0,15.0,67.0,8.0,11.0,9.0,282.0
+KrispyFiestaChicken,Green Beans (Family),80.0,117.55555555555556,0.0,0.0,0.0,0.0,930.0,15.0,9.0,3.0,4.0,79.0
+KrispyFiestaChicken,Macaroni & Cheese (Family),540.0,117.55555555555556,23.0,6.0,0.0,10.0,2220.0,66.0,5.0,8.0,18.0,536.0
+KrispyFiestaChicken,Macaroni Salad (Family),480.0,117.55555555555556,28.0,3.5,0.0,55.0,990.0,50.0,0.0,30.0,3.0,510.5
+KrispyFiestaChicken,Mashed Potatoes (Family),460.0,117.55555555555556,15.0,3.0,0.0,0.0,1410.0,72.0,6.0,0.0,9.0,454.0
+KrispyFiestaChicken,Mashed Potatoes With Gravy (Family),590.0,117.55555555555556,21.0,5.0,0.0,0.0,2590.0,88.0,6.0,1.0,12.0,584.0
+KrispyFiestaChicken,Potato Salad (Family),1200.0,117.55555555555556,98.0,16.0,0.0,80.0,1010.0,65.0,8.0,12.0,8.0,1220.0
+KrispyFiestaChicken,Secret Recipe Fries (Family),840.0,117.55555555555556,40.0,5.0,0.0,0.0,2890.0,108.0,9.0,0.0,13.0,832.0
+KrispyFiestaChicken,Sweet Kernel Corn (Family),280.0,117.55555555555556,2.5,0.0,0.0,0.0,10.0,67.0,7.0,8.0,10.0,278.0
+KrispyFiestaChicken,Chicken Littles,300.0,117.55555555555556,15.0,2.5,0.0,30.0,620.0,27.0,1.0,3.0,14.0,291.5
+KrispyFiestaChicken,Chicken Littles – Buffalo,310.0,117.55555555555556,17.0,2.5,0.0,30.0,790.0,27.0,1.0,3.0,14.0,301.5
+KrispyFiestaChicken,Chicken Littles – Honey BBQ,320.0,117.55555555555556,15.0,2.5,0.0,30.0,680.0,31.0,1.0,7.0,14.0,315.5
+KrispyFiestaChicken,Chicken Littles – Nashville Hot,340.0,117.55555555555556,19.0,3.0,0.0,30.0,680.0,27.0,1.0,3.0,14.0,332.0
+KrispyFiestaChicken,Classic Chicken Sandwich,650.0,117.55555555555556,35.0,4.5,0.0,90.0,1260.0,49.0,1.0,6.0,34.0,626.5
+KrispyFiestaChicken,Crispy Colonel’s Sandwich,470.0,117.55555555555556,24.0,3.5,0.0,60.0,1170.0,39.0,1.4548872180451127,4.0,24.0,453.5
+KrispyFiestaChicken,Crispy Colonel’s Sandwich – Buffalo,500.0,117.55555555555556,27.0,4.0,0.0,60.0,1500.0,39.0,1.4548872180451127,4.0,24.0,484.0
+KrispyFiestaChicken,Crispy Colonel’s Sandwich – Honey BBQ,510.0,117.55555555555556,25.0,3.5,0.0,60.0,1290.0,48.0,1.4548872180451127,12.0,24.0,501.5
+KrispyFiestaChicken,Crispy Colonel’s Sandwich – Nashville Hot,540.0,117.55555555555556,32.0,4.5,0.0,60.0,1290.0,40.0,1.4548872180451127,5.0,24.0,525.5
+KrispyFiestaChicken,Crispy Twister®,630.0,117.55555555555556,34.0,7.0,0.0,70.0,1260.0,53.0,4.0,3.0,28.0,612.0
+KrispyFiestaChicken,Honey BBQ Sandwich,350.0,117.55555555555556,3.5,0.5,0.0,55.0,1350.0,55.0,2.0,22.0,24.0,348.5
+KrispyFiestaChicken,Spicy Chicken Sandwich,620.0,117.55555555555556,33.0,4.0,0.0,85.0,2140.0,49.0,1.0,6.0,34.0,596.0
+KrispyFiestaChicken,Chicken Pot Pie,720.0,117.55555555555556,41.0,25.0,0.0,80.0,1750.0,60.0,7.0,5.0,26.0,724.0
+KrispyFiestaChicken,KFC® Famous Bowl,740.0,117.55555555555556,35.0,6.0,0.0,45.0,2350.0,81.0,6.0,2.0,26.0,722.0
+KrispyFiestaChicken,KFC® Famous Bowl – Snack Size,270.0,117.55555555555556,14.0,3.5,0.0,20.0,850.0,27.0,2.0,1.0,11.0,263.5
+KrispyFiestaChicken,Caesar Side Salad,40.0,117.55555555555556,2.0,1.0,0.0,5.0,90.0,2.0,1.0,1.0,3.0,39.0
+KrispyFiestaChicken,House Side Salad,15.0,117.55555555555556,0.0,0.0,0.0,0.0,10.0,3.0,2.0,2.0,1.0,16.0
+KrispyFiestaChicken,Heinz Buttermilk Dressing,160.0,117.55555555555556,17.0,2.0,0.0,10.0,220.0,1.0,0.0,1.0,0.0,163.0
+KrispyFiestaChicken,Hidden Valley The Original Ranch Fat Free Dressing,35.0,117.55555555555556,0.0,0.0,0.0,0.0,410.0,8.0,0.0,2.0,1.0,36.0
+KrispyFiestaChicken,KFC® Creamy Parmesan Caesar Dressing,260.0,117.55555555555556,26.0,5.0,0.0,15.0,540.0,4.0,0.0,2.0,2.0,265.0
+KrispyFiestaChicken,Marzetti Light Italian Dressing,15.0,117.55555555555556,0.5,0.0,0.0,0.0,510.0,2.0,0.0,1.0,0.0,16.0
+KrispyFiestaChicken,Parmesan Garlic Croutons,60.0,117.55555555555556,3.0,0.0,0.0,0.0,135.0,8.0,1.4548872180451127,0.0,2.0,58.0
+KrispyFiestaChicken,Apple Turnover,230.0,117.55555555555556,10.0,2.5,0.0,0.0,140.0,32.0,1.4548872180451127,12.0,2.0,242.5
+KrispyFiestaChicken,Café Valley Chocolate Chip Cake (1 Slice),300.0,117.55555555555556,15.0,3.0,0.0,50.0,260.0,39.0,1.0,27.0,4.0,326.0
+KrispyFiestaChicken,Café Valley Lemon Cake (1 Slice),220.0,117.55555555555556,10.0,2.0,0.0,30.0,170.0,30.0,0.0,20.0,2.0,240.0
+KrispyFiestaChicken,Café Valley Mini Chocolate Chip Cake,300.0,117.55555555555556,12.0,2.5,0.0,40.0,190.0,49.0,1.0,35.0,3.0,334.5
+KrispyFiestaChicken,Café Valley Mini Lemon Cake,300.0,117.55555555555556,13.0,2.5,0.0,50.0,230.0,43.0,0.0,31.0,3.0,330.5
+KrispyFiestaChicken,Chocolate Chip Cookie,120.0,117.55555555555556,6.0,3.0,0.0,40.64789991063449,70.0,18.0,1.0,12.0,1.0,134.0
+KrispyFiestaChicken,Oreo Cookies and Crème Pie,270.0,117.55555555555556,13.0,8.0,0.0,40.64789991063449,210.0,35.0,1.0,24.0,3.0,299.0
+KrispyFiestaChicken,Reese’s Peanut Butter Pie,300.0,117.55555555555556,17.0,9.0,0.0,40.64789991063449,270.0,33.0,1.0,22.0,5.0,326.0
+KrispyFiestaChicken,BBQ – Dipping Sauce Cup,45.0,117.55555555555556,0.0,0.0,0.0,0.0,150.0,11.0,0.0,11.0,0.0,56.0
+KrispyFiestaChicken,Colonel’s Buttery Spread,35.0,117.55555555555556,4.0,1.5,0.0,0.0,35.0,0.0,0.0,0.0,0.0,36.5
+KrispyFiestaChicken,Grape Jelly Packet,35.0,117.55555555555556,0.0,0.0,0.0,0.0,10.0,9.0,0.0,7.0,0.0,42.0
+KrispyFiestaChicken,Honey Mustard – Dipping Sauce Cup,110.0,117.55555555555556,9.0,1.5,0.0,40.64789991063449,120.0,6.0,0.0,6.0,0.0,117.5
+KrispyFiestaChicken,Honey Sauce Packet,30.0,117.55555555555556,0.0,0.0,0.0,0.0,0.0,8.0,0.0,5.0,0.0,35.0
+KrispyFiestaChicken,Ketchup,30.0,117.55555555555556,0.0,0.0,0.0,0.0,250.0,8.0,0.0,6.0,0.0,36.0
+KrispyFiestaChicken,KFC Sauce – Dipping Sauce Cup,90.0,117.55555555555556,8.0,1.5,0.0,10.0,170.0,5.0,0.0,5.0,0.0,96.5
+KrispyFiestaChicken,Lemon Juice Packet,5.0,117.55555555555556,0.0,0.0,0.0,0.0,20.0,1.0,0.0,0.0,0.0,5.0
+KrispyFiestaChicken,Ranch – Dipping Sauce Cup,130.0,117.55555555555556,14.0,2.5,0.0,10.0,240.0,2.0,0.0,1.0,0.0,133.5
+KrispyFiestaChicken,Strawberry Jam Packet,35.0,117.55555555555556,0.0,0.0,0.0,0.0,0.0,9.0,0.0,6.0,0.0,41.0
+KrispyFiestaChicken,Capri Sun® 100% Juice Fruit Punch,80.0,117.55555555555556,0.0,0.0,0.0,0.0,25.0,21.0,0.0,20.0,0.0,100.0
+KrispyFiestaChicken,Chocolate Milk 1%,150.0,117.55555555555556,2.5,1.5,0.0,10.0,170.0,26.0,0.0,23.0,7.0,167.5
+KrispyFiestaChicken,Milk 1%,90.0,117.55555555555556,2.0,1.5,0.0,10.0,105.0,10.0,0.0,10.0,7.0,94.5
+KrispyFiestaChicken,Musselman’s™ Applesauce,45.0,117.55555555555556,0.0,0.0,0.0,0.0,0.0,12.0,1.0,8.0,0.0,53.0
+KrispyFiestaChicken,7UP® (12 fl oz),140.0,117.55555555555556,0.0,0.0,0.0,0.0,50.0,35.0,0.0,35.0,0.0,175.0
+KrispyFiestaChicken,7UP® (16 fl oz),190.0,117.55555555555556,0.0,0.0,0.0,0.0,70.0,46.0,0.0,46.0,0.0,236.0
+KrispyFiestaChicken,7UP® (20 fl oz),240.0,117.55555555555556,0.0,0.0,0.0,0.0,85.0,58.0,0.0,58.0,0.0,298.0
+KrispyFiestaChicken,7UP® (30 fl oz),350.0,117.55555555555556,0.0,0.0,0.0,0.0,125.0,87.0,0.0,87.0,0.0,437.0
+KrispyFiestaChicken,Classic Lemonade (1/2 Gallon),880.0,117.55555555555556,0.0,0.0,0.0,0.0,780.0,234.0,0.0,228.0,0.0,1108.0
+KrispyFiestaChicken,Classic Lemonade (20 fl oz),140.0,117.55555555555556,0.0,0.0,0.0,0.0,130.0,39.0,0.0,38.0,0.0,178.0
+KrispyFiestaChicken,Code Red Mountain Dew® (12 fl oz),170.0,117.55555555555556,0.0,0.0,0.0,0.0,50.0,46.0,0.0,46.0,0.0,216.0
+KrispyFiestaChicken,Code Red Mountain Dew® (16 fl oz),230.0,117.55555555555556,0.0,0.0,0.0,0.0,65.0,62.0,0.0,62.0,0.0,292.0
+KrispyFiestaChicken,Code Red Mountain Dew® (20 fl oz),290.0,117.55555555555556,0.0,0.0,0.0,0.0,85.0,77.0,0.0,77.0,0.0,367.0
+KrispyFiestaChicken,Code Red Mountain Dew® (30 fl oz),430.0,117.55555555555556,0.0,0.0,0.0,0.0,125.0,116.0,0.0,115.0,0.0,545.0
+KrispyFiestaChicken,Diet Dr Pepper® (12 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,70.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Dr Pepper® (16 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,95.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Dr Pepper® (20 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Dr Pepper® (30 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,180.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Mist Twst® (12 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Mist Twst® (16 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Mist Twst® (20 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Mist Twst® (30 fl oz),5.0,117.55555555555556,0.0,0.0,0.0,0.0,95.0,0.0,0.0,0.0,0.0,5.0
+KrispyFiestaChicken,Diet Mountain Dew® (12 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,1.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Mountain Dew® (16 fl oz),5.0,117.55555555555556,0.0,0.0,0.0,0.0,75.0,1.0,0.0,0.0,0.0,5.0
+KrispyFiestaChicken,Diet Mountain Dew® (20 fl oz),10.0,117.55555555555556,0.0,0.0,0.0,0.0,90.0,1.0,0.0,1.0,0.0,11.0
+KrispyFiestaChicken,Diet Mountain Dew® (30 fl oz),10.0,117.55555555555556,0.0,0.0,0.0,0.0,140.0,1.0,0.0,1.0,0.0,11.0
+KrispyFiestaChicken,Diet Pepsi® (12 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Pepsi® (16 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Pepsi® (20 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,95.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Pepsi® (30 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,140.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Pepsi® Wild Cherry Pepsi® (12 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Pepsi® Wild Cherry Pepsi® (16 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Pepsi® Wild Cherry Pepsi® (20 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Diet Pepsi® Wild Cherry Pepsi® (30 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,95.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Dr Pepper® (12 fl oz),140.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,39.0,0.0,38.0,0.0,178.0
+KrispyFiestaChicken,Dr Pepper® (16 fl oz),190.0,117.55555555555556,0.0,0.0,0.0,0.0,60.0,52.0,0.0,51.0,0.0,241.0
+KrispyFiestaChicken,Dr Pepper® (20 fl oz),240.0,117.55555555555556,0.0,0.0,0.0,0.0,75.0,65.0,0.0,64.0,0.0,304.0
+KrispyFiestaChicken,Dr Pepper® (30 fl oz),360.0,117.55555555555556,0.0,0.0,0.0,0.0,110.0,98.0,0.0,96.0,0.0,456.0
+KrispyFiestaChicken,Lipton® Brisk® Lemon Tea (12 fl oz),80.0,117.55555555555556,0.0,0.0,0.0,0.0,40.0,22.0,0.0,22.0,0.0,102.0
+KrispyFiestaChicken,Lipton® Brisk® Lemon Tea (16 fl oz),110.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,29.0,0.0,29.0,0.0,139.0
+KrispyFiestaChicken,Lipton® Brisk® Lemon Tea (20 fl oz),140.0,117.55555555555556,0.0,0.0,0.0,0.0,70.0,36.0,0.0,36.0,0.0,176.0
+KrispyFiestaChicken,Lipton® Brisk® Lemon Tea (30 fl oz),210.0,117.55555555555556,0.0,0.0,0.0,0.0,105.0,55.0,0.0,54.0,0.0,264.0
+KrispyFiestaChicken,Lipton® Brisk® No Calorie Peach Iced Green Tea (12 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,105.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Lipton® Brisk® No Calorie Peach Iced Green Tea (16 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,140.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Lipton® Brisk® No Calorie Peach Iced Green Tea (20 fl oz),5.0,117.55555555555556,0.0,0.0,0.0,0.0,180.0,0.0,0.0,0.0,0.0,5.0
+KrispyFiestaChicken,Lipton® Brisk® No Calorie Peach Iced Green Tea (30 fl oz),10.0,117.55555555555556,0.0,0.0,0.0,0.0,270.0,0.0,0.0,0.0,0.0,10.0
+KrispyFiestaChicken,Lipton® Brisk® Raspberry Tea (12 fl oz),80.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,20.0,0.0,20.0,0.0,100.0
+KrispyFiestaChicken,Lipton® Brisk® Raspberry Tea (16 fl oz),100.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,26.0,0.0,26.0,0.0,126.0
+KrispyFiestaChicken,Lipton® Brisk® Raspberry Tea (20 fl oz),130.0,117.55555555555556,0.0,0.0,0.0,0.0,70.0,33.0,0.0,33.0,0.0,163.0
+KrispyFiestaChicken,Lipton® Brisk® Raspberry Tea (30 fl oz),190.0,117.55555555555556,0.0,0.0,0.0,0.0,110.0,49.0,0.0,49.0,0.0,239.0
+KrispyFiestaChicken,Lipton® Brisk® Sweet Iced Tea (12 fl oz),80.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,22.0,0.0,21.0,0.0,101.0
+KrispyFiestaChicken,Lipton® Brisk® Sweet Iced Tea (16 fl oz),110.0,117.55555555555556,0.0,0.0,0.0,0.0,65.0,29.0,0.0,29.0,0.0,139.0
+KrispyFiestaChicken,Lipton® Brisk® Sweet Iced Tea (20 fl oz),130.0,117.55555555555556,0.0,0.0,0.0,0.0,80.0,36.0,0.0,36.0,0.0,166.0
+KrispyFiestaChicken,Lipton® Brisk® Sweet Iced Tea (30 fl oz),200.0,117.55555555555556,0.0,0.0,0.0,0.0,120.0,54.0,0.0,54.0,0.0,254.0
+KrispyFiestaChicken,Lipton® Brisk® Unsweetened No Lemon Iced Tea (12 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Lipton® Brisk® Unsweetened No Lemon Iced Tea (16 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Lipton® Brisk® Unsweetened No Lemon Iced Tea (20 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,75.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Lipton® Brisk® Unsweetened No Lemon Iced Tea (30 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,115.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Manzanita Sol® (12 fl oz),160.0,117.55555555555556,0.0,0.0,0.0,0.0,35.0,42.0,0.0,42.0,0.0,202.0
+KrispyFiestaChicken,Manzanita Sol® (16 fl oz),210.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,57.0,0.0,57.0,0.0,267.0
+KrispyFiestaChicken,Manzanita Sol® (20 fl oz),260.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,71.0,0.0,71.0,0.0,331.0
+KrispyFiestaChicken,Manzanita Sol® (30 fl oz),400.0,117.55555555555556,0.0,0.0,0.0,0.0,80.0,106.0,0.0,106.0,0.0,506.0
+KrispyFiestaChicken,Miranda® Strawberry (12 fl oz),160.0,117.55555555555556,0.0,0.0,0.0,0.0,70.0,44.0,0.0,44.0,0.0,204.0
+KrispyFiestaChicken,Miranda® Strawberry (16 fl oz),220.0,117.55555555555556,0.0,0.0,0.0,0.0,95.0,58.0,0.0,58.0,0.0,278.0
+KrispyFiestaChicken,Miranda® Strawberry (20 fl oz),270.0,117.55555555555556,0.0,0.0,0.0,0.0,120.0,73.0,0.0,73.0,0.0,343.0
+KrispyFiestaChicken,Miranda® Strawberry (30 fl oz),410.0,117.55555555555556,0.0,0.0,0.0,0.0,180.0,109.0,0.0,109.0,0.0,519.0
+KrispyFiestaChicken,Mist Twst® (12 fl oz),150.0,117.55555555555556,0.0,0.0,0.0,0.0,35.0,41.0,0.0,41.0,0.0,191.0
+KrispyFiestaChicken,Mist Twst® (16 fl oz),200.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,54.0,0.0,54.0,0.0,254.0
+KrispyFiestaChicken,Mist Twst® (20 fl oz),260.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,68.0,0.0,68.0,0.0,328.0
+KrispyFiestaChicken,Mist Twst® (30 fl oz),380.0,117.55555555555556,0.0,0.0,0.0,0.0,80.0,101.0,0.0,101.0,0.0,481.0
+KrispyFiestaChicken,MNT DEW Sweet Lightning (20 fl oz),120.0,117.55555555555556,0.0,0.0,0.0,0.0,190.0,32.0,0.0,25.0,0.0,145.0
+KrispyFiestaChicken,Mountain Dew® (12 fl oz),160.0,117.55555555555556,0.0,0.0,0.0,0.0,50.0,44.0,0.0,44.0,0.0,204.0
+KrispyFiestaChicken,Mountain Dew® (16 fl oz),220.0,117.55555555555556,0.0,0.0,0.0,0.0,70.0,59.0,0.0,58.0,0.0,278.0
+KrispyFiestaChicken,Mountain Dew® (20 fl oz),270.0,117.55555555555556,0.0,0.0,0.0,0.0,85.0,73.0,0.0,73.0,0.0,343.0
+KrispyFiestaChicken,Mountain Dew® (30 fl oz),410.0,117.55555555555556,0.0,0.0,0.0,0.0,125.0,110.0,0.0,109.0,0.0,519.0
+KrispyFiestaChicken,Mug Root Beer® (12 fl oz),140.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,39.0,0.0,39.0,0.0,179.0
+KrispyFiestaChicken,Mug Root Beer® (16 fl oz),190.0,117.55555555555556,0.0,0.0,0.0,0.0,60.0,52.0,0.0,52.0,0.0,242.0
+KrispyFiestaChicken,Mug Root Beer® (20 fl oz),240.0,117.55555555555556,0.0,0.0,0.0,0.0,75.0,65.0,0.0,65.0,0.0,305.0
+KrispyFiestaChicken,Mug Root Beer® (30 fl oz),360.0,117.55555555555556,0.0,0.0,0.0,0.0,110.0,98.0,0.0,98.0,0.0,458.0
+KrispyFiestaChicken,Pepsi Zero Sugar® (12 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Pepsi Zero Sugar® (16 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Pepsi Zero Sugar® (20 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Pepsi Zero Sugar® (30 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,95.0,1.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Pepsi® (12 fl oz),150.0,117.55555555555556,0.0,0.0,0.0,0.0,30.0,41.0,0.0,41.0,0.0,191.0
+KrispyFiestaChicken,Pepsi® (16 fl oz),200.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,55.0,0.0,55.0,0.0,255.0
+KrispyFiestaChicken,Pepsi® (20 fl oz),250.0,117.55555555555556,0.0,0.0,0.0,0.0,55.0,69.0,0.0,69.0,0.0,319.0
+KrispyFiestaChicken,Pepsi® (30 fl oz),380.0,117.55555555555556,0.0,0.0,0.0,0.0,80.0,104.0,0.0,103.0,0.0,483.0
+KrispyFiestaChicken,Sobe Lifewater Yumberry Pomegranate (12 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Sobe Lifewater Yumberry Pomegranate (16 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Sobe Lifewater Yumberry Pomegranate (20 fl oz),0.0,117.55555555555556,0.0,0.0,0.0,0.0,80.0,0.0,0.0,0.0,0.0,0.0
+KrispyFiestaChicken,Sobe Lifewater Yumberry Pomegranate (30 fl oz),5.0,117.55555555555556,0.0,0.0,0.0,0.0,120.0,1.0,0.0,0.0,0.0,5.0
+KrispyFiestaChicken,Strawberry Lemonade (1/2 Gallon),950.0,117.55555555555556,0.0,0.0,0.0,0.0,790.0,270.0,0.0,264.0,0.0,1214.0
+KrispyFiestaChicken,Strawberry Lemonade (20 fl oz),170.0,117.55555555555556,0.0,0.0,0.0,0.0,130.0,45.0,0.0,44.0,0.0,214.0
+KrispyFiestaChicken,Tropicana® Fruit Punch (12 fl oz),170.0,117.55555555555556,0.0,0.0,0.0,0.0,35.0,45.0,0.0,45.0,0.0,215.0
+KrispyFiestaChicken,Tropicana® Fruit Punch (16 fl oz),230.0,117.55555555555556,0.0,0.0,0.0,0.0,45.0,60.0,0.0,60.0,0.0,290.0
+KrispyFiestaChicken,Tropicana® Fruit Punch (20 fl oz),280.0,117.55555555555556,0.0,0.0,0.0,0.0,60.0,75.0,0.0,75.0,0.0,355.0
+KrispyFiestaChicken,Tropicana® Fruit Punch (30 fl oz),420.0,117.55555555555556,0.0,0.0,0.0,0.0,90.0,113.0,0.0,112.0,0.0,532.0
+KrispyFiestaChicken,Tropicana® Light Lemonade (12 fl oz),5.0,117.55555555555556,0.0,0.0,0.0,0.0,140.0,0.0,0.0,0.0,0.0,5.0
+KrispyFiestaChicken,Tropicana® Light Lemonade (16 fl oz),10.0,117.55555555555556,0.0,0.0,0.0,0.0,190.0,0.0,0.0,0.0,0.0,10.0
+KrispyFiestaChicken,Tropicana® Light Lemonade (20 fl oz),10.0,117.55555555555556,0.0,0.0,0.0,0.0,240.0,0.0,0.0,0.0,0.0,10.0
+KrispyFiestaChicken,Tropicana® Light Lemonade (30 fl oz),15.0,117.55555555555556,0.0,0.0,0.0,0.0,350.0,1.0,0.0,0.0,0.0,15.0
+KrispyFiestaChicken,Tropicana® Pink Lemonade (12 fl oz),150.0,117.55555555555556,0.0,0.0,0.0,0.0,160.0,40.0,0.0,40.0,0.0,190.0
+KrispyFiestaChicken,Tropicana® Pink Lemonade (16 fl oz),210.0,117.55555555555556,0.0,0.0,0.0,0.0,210.0,53.0,0.0,53.0,0.0,263.0
+KrispyFiestaChicken,Tropicana® Pink Lemonade (20 fl oz),260.0,117.55555555555556,0.0,0.0,0.0,0.0,260.0,67.0,0.0,67.0,0.0,327.0
+KrispyFiestaChicken,Tropicana® Pink Lemonade (30 fl oz),390.0,117.55555555555556,0.0,0.0,0.0,0.0,390.0,100.0,0.0,100.0,0.0,490.0
+KrispyFiestaChicken,Tropicana® Twister® Orange (12 fl oz),170.0,117.55555555555556,0.0,0.0,0.0,0.0,35.0,46.0,0.0,46.0,0.0,216.0
+KrispyFiestaChicken,Tropicana® Twister® Orange (16 fl oz),230.0,117.55555555555556,0.0,0.0,0.0,0.0,50.0,61.0,0.0,61.0,0.0,291.0
+KrispyFiestaChicken,Tropicana® Twister® Orange (20 fl oz),290.0,117.55555555555556,0.0,0.0,0.0,0.0,60.0,76.0,0.0,76.0,0.0,366.0
+KrispyFiestaChicken,Tropicana® Twister® Orange (30 fl oz),430.0,117.55555555555556,0.0,0.0,0.0,0.0,90.0,115.0,0.0,114.0,0.0,544.0
+KrispyFiestaChicken,Wild Cherry Pepsi® (12 fl oz),160.0,117.55555555555556,0.0,0.0,0.0,0.0,30.0,42.0,0.0,42.0,0.0,202.0
+KrispyFiestaChicken,Wild Cherry Pepsi® (16 fl oz),210.0,117.55555555555556,0.0,0.0,0.0,0.0,40.0,56.0,0.0,56.0,0.0,266.0
+KrispyFiestaChicken,Wild Cherry Pepsi® (20 fl oz),260.0,117.55555555555556,0.0,0.0,0.0,0.0,50.0,70.0,0.0,70.0,0.0,330.0
+KrispyFiestaChicken,Wild Cherry Pepsi® (30 fl oz),390.0,117.55555555555556,0.0,0.0,0.0,0.0,80.0,105.0,0.0,105.0,0.0,495.0
+KrispyFiestaChicken,Country Fried Steak without Peppered White Gravy,360.0,117.55555555555556,24.0,7.0,1.0,35.0,750.0,22.0,2.0,0.0,13.0,354.0
+KrispyFiestaChicken,Country Fried Steak with Peppered White Gravy,390.0,117.55555555555556,26.0,7.0,1.0,35.0,910.0,26.0,2.0,0.0,13.0,384.0
+KrispyFiestaChicken,KFC® Gizzards,300.0,117.55555555555556,16.0,2.0,0.0,210.0,770.0,18.0,1.4548872180451127,0.0,20.0,282.0
+KrispyFiestaChicken,KFC® Livers,230.0,117.55555555555556,13.0,2.5,0.0,285.0,750.0,12.0,0.0,0.0,17.0,215.5
+Lonceng Teko,Bacon Club Chalupa,440.0,240.0,27.0,5.0,0.0,50.0,840.0,31.0,2.0,3.0,20.0,310.27054794520546
+Lonceng Teko,Blue Raspberry Freeze™ (16 oz),120.0,0.0,0.0,0.0,0.0,0.0,35.0,30.0,0.0,30.0,0.0,310.27054794520546
+Lonceng Teko,Blue Raspberry Freeze™ (20 oz),150.0,0.0,0.0,0.0,0.0,0.0,40.0,38.0,0.0,38.0,0.0,310.27054794520546
+Lonceng Teko,Loaded Nacho Taco,250.0,110.0,12.0,4.5,0.0,25.0,610.0,24.0,3.0,2.0,10.0,310.27054794520546
+Lonceng Teko,Midnight Berry Freeze™ (16 oz),140.0,0.0,0.0,0.0,0.0,0.0,35.0,35.0,0.0,34.0,0.0,310.27054794520546
+Lonceng Teko,Midnight Berry Freeze™ (20 oz),170.0,0.0,0.0,0.0,0.0,0.0,40.0,43.0,0.0,42.0,0.0,310.27054794520546
+Lonceng Teko,Nacho Fries,320.0,160.0,18.0,1.5,0.0,40.64789991063449,630.0,35.0,4.0,2.0,4.0,310.27054794520546
+Lonceng Teko,Nacho Fries BellGrande®,710.0,360.0,40.0,6.0,0.0,30.0,1440.0,73.0,10.0,4.0,13.0,310.27054794520546
+Lonceng Teko,Black Bean Chalupa – Online Exclusive,330.0,140.0,15.0,3.0,0.0,10.0,430.0,39.0,5.0,3.0,10.0,310.27054794520546
+Lonceng Teko,Black Bean Quesarito – Online Exclusive,630.0,270.0,29.0,10.0,0.0,35.0,1260.0,73.0,7.0,5.0,19.0,310.27054794520546
+Lonceng Teko,Quesarito – Online Exclusive,650.0,300.0,33.0,12.0,0.5,55.0,1390.0,67.0,6.0,5.0,22.0,310.27054794520546
+Lonceng Teko,Chalupa Supreme® – Beef,350.0,170.0,18.0,5.0,0.0,25.0,560.0,33.0,4.0,3.0,13.0,310.27054794520546
+Lonceng Teko,Chalupa Supreme® – Chicken,330.0,140.0,15.0,3.5,0.0,35.0,560.0,31.0,2.0,3.0,16.0,310.27054794520546
+Lonceng Teko,Chalupa Supreme® – Steak,330.0,140.0,16.0,4.0,0.0,30.0,530.0,32.0,2.0,3.0,15.0,310.27054794520546
+Lonceng Teko,Cheesy Gordita Crunch,500.0,250.0,28.0,10.0,0.5,55.0,850.0,41.0,5.0,4.0,20.0,310.27054794520546
+Lonceng Teko,Crunchy Taco,170.0,80.0,9.0,3.5,0.0,25.0,310.0,13.0,3.0,24.067978533094813,8.0,310.27054794520546
+Lonceng Teko,Crunchy Taco Supreme®,190.0,100.0,11.0,4.5,0.0,25.0,340.0,15.0,3.0,2.0,8.0,310.27054794520546
+Lonceng Teko,Loaded Nacho Taco (New),250.0,110.0,12.0,4.5,0.0,25.0,610.0,24.0,3.0,2.0,10.0,310.27054794520546
+Lonceng Teko,Nacho Cheese Doritos® Locos Taco,170.0,80.0,9.0,3.5,0.0,25.0,360.0,13.0,3.0,24.067978533094813,8.0,310.27054794520546
+Lonceng Teko,Nacho Cheese Doritos® Locos Taco Supreme®,190.0,100.0,11.0,4.5,0.0,30.0,380.0,15.0,3.0,2.0,8.0,310.27054794520546
+Lonceng Teko,Soft Taco – Beef,180.0,80.0,9.0,4.0,0.0,25.0,500.0,17.0,3.0,1.0,9.0,310.27054794520546
+Lonceng Teko,Soft Taco – Chicken,160.0,50.0,5.0,2.5,0.0,30.0,500.0,16.0,1.0,1.0,12.0,310.27054794520546
+Lonceng Teko,Soft Taco Supreme®,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Lonceng Teko,Soft Taco – Beef,210.0,90.0,10.0,5.0,0.0,25.0,520.0,20.0,3.0,2.0,10.0,310.27054794520546
+Lonceng Teko,Soft Taco – Chicken,180.0,60.0,7.0,3.5,0.0,35.0,520.0,18.0,2.0,2.0,13.0,310.27054794520546
+Lonceng Teko,Bean Burrito (V),350.0,80.0,9.0,3.5,0.0,5.0,1000.0,54.0,11.0,3.0,13.0,310.27054794520546
+Lonceng Teko,Beefy 5-Layer Burrito,490.0,160.0,18.0,7.0,0.0,30.0,1250.0,63.0,9.0,5.0,18.0,310.27054794520546
+Lonceng Teko,Burrito Supreme® – Beef,390.0,130.0,14.0,6.0,0.0,25.0,1110.0,51.0,9.0,4.0,16.0,310.27054794520546
+Lonceng Teko,Burrito Supreme® – Chicken,370.0,100.0,11.0,4.5,0.0,35.0,1110.0,49.0,8.0,4.0,19.0,310.27054794520546
+Lonceng Teko,Burrito Supreme® – Steak,370.0,110.0,12.0,5.0,0.0,30.0,1090.0,49.0,7.0,4.0,18.0,310.27054794520546
+Lonceng Teko,Chili Cheese Burrito (regional),370.0,150.0,17.0,8.0,0.0,35.0,970.0,40.0,4.0,2.0,16.0,310.27054794520546
+Lonceng Teko,Quesarito – Beef,650.0,300.0,33.0,12.0,0.5,55.0,1390.0,67.0,6.0,5.0,22.0,310.27054794520546
+Lonceng Teko,Quesarito – Chicken,620.0,270.0,29.0,11.0,0.0,65.0,1390.0,66.0,4.0,4.0,25.0,310.27054794520546
+Lonceng Teko,Quesarito – Steak,630.0,270.0,30.0,11.0,0.0,60.0,1370.0,66.0,4.0,4.0,24.0,310.27054794520546
+Lonceng Teko,Chips and Nacho Cheese Sauce (V),220.0,120.0,13.0,1.5,0.0,40.64789991063449,250.0,24.0,2.0,2.0,2.0,310.27054794520546
+Lonceng Teko,Nacho Fries (V) (New),320.0,160.0,18.0,1.5,0.0,40.64789991063449,630.0,35.0,4.0,2.0,4.0,310.27054794520546
+Lonceng Teko,Nacho Fries BellGrande® (New),710.0,360.0,40.0,6.0,0.0,30.0,1440.0,73.0,10.0,4.0,13.0,310.27054794520546
+Lonceng Teko,Nachos BellGrande® – Beef,740.0,340.0,38.0,7.0,0.0,25.0,1050.0,82.0,15.0,5.0,16.0,310.27054794520546
+Lonceng Teko,Nachos BellGrande® – Chicken,720.0,310.0,35.0,6.0,0.0,35.0,1050.0,81.0,14.0,5.0,20.0,310.27054794520546
+Lonceng Teko,Nachos BellGrande® – Steak,720.0,320.0,36.0,6.0,0.0,30.0,1030.0,81.0,14.0,5.0,19.0,310.27054794520546
+Lonceng Teko,Beef Quesarito,650.0,300.0,33.0,12.0,0.5,55.0,1390.0,67.0,6.0,5.0,22.0,310.27054794520546
+Lonceng Teko,Black Bean Quesarito (V),630.0,270.0,29.0,10.0,0.0,35.0,1260.0,73.0,7.0,5.0,19.0,310.27054794520546
+Lonceng Teko,Quesadilla – Cheese (V),470.0,230.0,25.0,12.0,0.5,50.0,990.0,37.0,4.0,2.0,19.0,310.27054794520546
+Lonceng Teko,Quesadilla – Chicken,510.0,240.0,26.0,12.0,0.5,75.0,1250.0,38.0,4.0,2.0,27.0,310.27054794520546
+Lonceng Teko,Quesadilla – Steak,520.0,240.0,27.0,12.0,0.5,70.0,1230.0,38.0,4.0,2.0,27.0,310.27054794520546
+Lonceng Teko,Bacon Club Chalupa – Specialties,440.0,240.0,27.0,5.0,0.0,50.0,840.0,31.0,2.0,3.0,20.0,310.27054794520546
+Lonceng Teko,Black Bean Chalupa – Specialties,330.0,140.0,15.0,3.0,0.0,10.0,430.0,39.0,5.0,3.0,10.0,310.27054794520546
+Lonceng Teko,Black Bean Crunchwrap Supreme – Specialties,510.0,160.0,17.0,4.5,0.0,5.0,1080.0,77.0,8.0,6.0,13.0,310.27054794520546
+Lonceng Teko,Black Bean Quesarito – Specialties,630.0,270.0,29.0,10.0,0.0,35.0,1260.0,73.0,7.0,5.0,19.0,310.27054794520546
+Lonceng Teko,Chalupa Supreme® – Specialties,350.0,170.0,18.0,5.0,0.0,25.0,560.0,33.0,4.0,3.0,13.0,310.27054794520546
+Lonceng Teko,Cheesy Gordita Crunch – Specialties,500.0,250.0,28.0,10.0,0.5,55.0,850.0,41.0,5.0,4.0,20.0,310.27054794520546
+Lonceng Teko,Cheesy Roll Up – Specialties,180.0,80.0,9.0,5.0,0.0,20.0,430.0,15.0,2.0,24.067978533094813,9.0,310.27054794520546
+Lonceng Teko,Crunchwrap Supreme® – Specialties,530.0,190.0,21.0,6.0,0.0,25.0,1200.0,71.0,6.0,6.0,16.0,310.27054794520546
+Lonceng Teko,Crunchy Taco – Specialties,170.0,80.0,9.0,3.5,0.0,25.0,310.0,13.0,3.0,24.067978533094813,8.0,310.27054794520546
+Lonceng Teko,Nacho Cheese Doritos® Locos Taco – Specialties,170.0,80.0,9.0,3.5,0.0,25.0,360.0,13.0,3.0,24.067978533094813,8.0,310.27054794520546
+Lonceng Teko,Nachos BellGrande® – Specialties,740.0,340.0,38.0,7.0,0.0,25.0,1050.0,82.0,15.0,5.0,16.0,310.27054794520546
+Lonceng Teko,Power Menu Bowl – Specialties,470.0,170.0,19.0,6.0,0.0,70.0,1200.0,50.0,7.0,2.0,26.0,310.27054794520546
+Lonceng Teko,Quesadilla – Specialties,510.0,240.0,26.0,12.0,0.5,75.0,1250.0,38.0,4.0,2.0,27.0,310.27054794520546
+Lonceng Teko,Quesarito – Specialties,650.0,300.0,33.0,12.0,0.5,55.0,1390.0,67.0,6.0,5.0,22.0,310.27054794520546
+Lonceng Teko,Soft Taco – Specialties,180.0,80.0,9.0,4.0,0.0,25.0,500.0,17.0,3.0,1.0,9.0,310.27054794520546
+Lonceng Teko,Soft Taco Supreme – Specialties,210.0,90.0,10.0,5.0,0.0,25.0,520.0,20.0,3.0,2.0,10.0,310.27054794520546
+Lonceng Teko,Veggie Power Menu Bowl – Specialties,430.0,160.0,17.0,5.0,0.0,20.0,810.0,57.0,10.0,2.0,12.0,310.27054794520546
+Lonceng Teko,Black Beans & Rice (V),170.0,30.0,3.5,0.0,0.0,0.0,320.0,31.0,4.0,0.0,4.0,310.27054794520546
+Lonceng Teko,Black Beans (V),50.0,10.0,1.0,0.0,0.0,0.0,135.0,8.0,3.0,0.0,2.0,310.27054794520546
+Lonceng Teko,Cinnabon® Delights™ (2 Pk) (V),160.0,80.0,9.0,2.0,0.0,5.0,80.0,17.0,0.0,10.0,2.0,310.27054794520546
+Lonceng Teko,Cinnabon® Delights™ (12 Pk – Serves 4) (V),930.0,480.0,53.0,13.0,2.0,40.0,480.0,104.0,3.0,59.0,9.0,310.27054794520546
+Lonceng Teko,Cinnamon Twists (V),170.0,50.0,6.0,0.0,0.0,0.0,210.0,27.0,1.4548872180451127,13.0,1.0,310.27054794520546
+Lonceng Teko,Diablo Sauce Packet (V),0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,310.27054794520546
+Lonceng Teko,Fire Sauce Packet (V),0.0,0.0,0.0,0.0,0.0,0.0,55.0,0.0,0.0,0.0,0.0,310.27054794520546
+Lonceng Teko,Hot Sauce Packet (V),0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,310.27054794520546
+Lonceng Teko,Mild Sauce Packet (V),0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,0.0,0.0,310.27054794520546
+Lonceng Teko,Blue Raspberry Freeze™ (16 oz) (New),120.0,0.0,0.0,0.0,0.0,0.0,35.0,30.0,0.0,30.0,0.0,310.27054794520546
+Lonceng Teko,Blue Raspberry Freeze™ (20 oz) (New),150.0,0.0,0.0,0.0,0.0,0.0,40.0,38.0,0.0,38.0,0.0,310.27054794520546
+Lonceng Teko,Dragon Fruit Freeze (16 oz),190.0,0.0,0.0,0.0,0.0,0.0,50.0,49.0,0.0,47.0,0.0,310.27054794520546
+Lonceng Teko,Dragon Fruit Freeze (20 oz),230.0,0.0,0.0,0.0,0.0,0.0,60.0,59.0,0.0,57.0,0.0,310.27054794520546
+Lonceng Teko,Lowfat Milk – CA (Regional),100.0,20.0,2.0,1.5,0.0,10.0,130.0,13.0,0.0,12.0,9.0,310.27054794520546
+Lonceng Teko,Lowfat Milk – Federal (Regional),80.0,20.0,2.0,1.5,0.0,10.0,100.0,10.0,0.0,9.0,7.0,310.27054794520546
+Lonceng Teko,Midnight Berry Freeze™ (16 oz) (New),140.0,0.0,0.0,0.0,0.0,0.0,35.0,35.0,0.0,34.0,0.0,310.27054794520546
+Lonceng Teko,Midnight Berry Freeze™ (20 oz) (New),170.0,0.0,0.0,0.0,0.0,0.0,40.0,43.0,0.0,42.0,0.0,310.27054794520546
+Lonceng Teko,Mtn Dew® Baja Blast Freeze™ (16 oz),150.0,0.0,0.0,0.0,0.0,0.0,45.0,41.0,0.0,41.0,0.0,310.27054794520546
+Lonceng Teko,Mtn Dew® Baja Blast Freeze™ (20 oz),190.0,0.0,0.0,0.0,0.0,0.0,55.0,51.0,0.0,51.0,0.0,310.27054794520546
+Lonceng Teko,Orange Juice,140.0,0.0,0.0,0.0,0.0,0.0,20.0,33.0,1.4548872180451127,28.0,2.0,310.27054794520546
+Lonceng Teko,Premium Hot Coffee,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,310.27054794520546
+Lonceng Teko,Regular Iced Coffee,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,310.27054794520546
+Lonceng Teko,Water,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,310.27054794520546
+Lonceng Teko,Wild Strawberry Freeze™ (16 oz),150.0,0.0,0.0,0.0,0.0,0.0,40.0,41.0,0.0,41.0,0.0,310.27054794520546
+Lonceng Teko,Wild Strawberry Freeze™ (20 oz),190.0,0.0,0.0,0.0,0.0,0.0,55.0,51.0,0.0,51.0,0.0,310.27054794520546
+Lonceng Teko,Beef Burrito – Value Menu,430.0,170.0,19.0,5.0,0.0,20.0,970.0,51.0,4.0,3.0,12.0,310.27054794520546
+Lonceng Teko,Cheesy Bean & Rice Burrito – Value Menu,420.0,140.0,16.0,4.0,0.0,40.64789991063449,880.0,56.0,7.0,3.0,10.0,310.27054794520546
+Lonceng Teko,Cheesy Roll Up – Value Menu,180.0,80.0,9.0,5.0,0.0,20.0,430.0,15.0,2.0,24.067978533094813,9.0,310.27054794520546
+Lonceng Teko,Chicken Chipotle Melt – Value Menu,190.0,80.0,9.0,3.0,0.0,35.0,530.0,15.0,1.0,24.067978533094813,12.0,310.27054794520546
+Lonceng Teko,Chips and Nacho Cheese Sauce – Value Menu,220.0,120.0,13.0,1.5,0.0,40.64789991063449,250.0,24.0,2.0,2.0,2.0,310.27054794520546
+Lonceng Teko,Cinnamon Twists – Value Menu,170.0,50.0,6.0,0.0,0.0,0.0,210.0,27.0,1.4548872180451127,13.0,1.0,310.27054794520546
+Lonceng Teko,Loaded Nacho Taco – Value Menu,250.0,110.0,12.0,4.5,0.0,25.0,610.0,24.0,3.0,2.0,10.0,310.27054794520546
+Lonceng Teko,Bean Burrito,350.0,80.0,9.0,3.5,0.0,5.0,1000.0,54.0,11.0,3.0,13.0,310.27054794520546
+Lonceng Teko,Black Bean Chalupa,330.0,140.0,15.0,3.0,0.0,10.0,430.0,39.0,5.0,3.0,10.0,310.27054794520546
+Lonceng Teko,Black Bean Crunchwrap Supreme,510.0,160.0,17.0,4.5,0.0,5.0,1080.0,77.0,8.0,6.0,13.0,310.27054794520546
+Lonceng Teko,Black Bean Quesarito,630.0,270.0,29.0,10.0,0.0,35.0,1260.0,73.0,7.0,5.0,19.0,310.27054794520546
+Lonceng Teko,Black Beans & Rice,170.0,30.0,3.5,0.0,0.0,0.0,320.0,31.0,4.0,0.0,4.0,310.27054794520546
+Lonceng Teko,Cheese Quesadilla,470.0,230.0,25.0,12.0,0.5,50.0,990.0,37.0,4.0,2.0,19.0,310.27054794520546
+Lonceng Teko,Cheesy Bean & Rice Burrito,420.0,140.0,16.0,4.0,0.0,40.64789991063449,880.0,56.0,7.0,3.0,10.0,310.27054794520546
+Lonceng Teko,Cheesy Roll Up,180.0,80.0,9.0,5.0,0.0,20.0,430.0,15.0,2.0,24.067978533094813,9.0,310.27054794520546
+Lonceng Teko,Chips and Nacho Cheese Sauce,220.0,120.0,13.0,1.5,0.0,40.64789991063449,250.0,24.0,2.0,2.0,2.0,310.27054794520546
+Lonceng Teko,Cinnabon® Delights™ (2 Pack),160.0,80.0,9.0,2.0,0.0,5.0,80.0,17.0,0.0,10.0,2.0,310.27054794520546
+Lonceng Teko,Cinnabon® Delights™ (12 Pack – Serves 4),930.0,480.0,53.0,13.0,2.0,40.0,480.0,104.0,3.0,59.0,9.0,310.27054794520546
+Lonceng Teko,Cinnamon Twists,170.0,50.0,6.0,0.0,0.0,0.0,210.0,27.0,1.4548872180451127,13.0,1.0,310.27054794520546
+Lonceng Teko,Hash Brown,160.0,100.0,12.0,1.0,0.0,0.0,270.0,13.0,2.0,0.0,1.0,310.27054794520546
+Lonceng Teko,Power Menu Bowl – Veggie,430.0,160.0,17.0,5.0,0.0,20.0,810.0,57.0,10.0,2.0,12.0,310.27054794520546
+Lonceng Teko,Power Menu Bowl – Chicken,470.0,170.0,19.0,6.0,0.0,70.0,1200.0,50.0,7.0,2.0,26.0,310.27054794520546
+Lonceng Teko,Power Menu Bowl – Steak,480.0,180.0,20.0,7.0,0.0,60.0,1150.0,51.0,7.0,2.0,25.0,310.27054794520546
+Lonceng Teko,Power Menu Bowl – Veggie (V),430.0,160.0,17.0,5.0,0.0,20.0,810.0,57.0,10.0,2.0,12.0,310.27054794520546
+Lonceng Teko,Breakfast Crunchwrap – Bacon,670.0,370.0,41.0,12.0,0.0,140.0,1270.0,50.0,4.0,3.0,21.0,310.27054794520546
+Lonceng Teko,Breakfast Crunchwrap – Sausage,720.0,430.0,47.0,15.0,0.0,145.0,1210.0,51.0,4.0,3.0,21.0,310.27054794520546
+Lonceng Teko,Breakfast Crunchwrap – Steak,660.0,350.0,38.0,12.0,0.0,145.0,1300.0,51.0,4.0,3.0,24.0,310.27054794520546
+Lonceng Teko,Breakfast Salsa Packet (V),0.0,0.0,0.0,0.0,0.0,0.0,50.0,38.94619666048237,0.0,0.0,0.0,310.27054794520546
+Lonceng Teko,Cheesy Toasted Breakfast Burrito – Bacon,350.0,150.0,16.0,4.5,0.0,115.0,870.0,36.0,2.0,3.0,13.0,310.27054794520546
+Lonceng Teko,Cheesy Toasted Breakfast Burrito – Fiesta Potato (V),340.0,130.0,14.0,3.5,0.0,100.0,750.0,43.0,3.0,3.0,10.0,310.27054794520546
+Lonceng Teko,Cheesy Toasted Breakfast Burrito – Sausage,340.0,160.0,17.0,5.0,0.0,110.0,730.0,36.0,2.0,3.0,11.0,310.27054794520546
+Lonceng Teko,Cinnabon® Delights™ (2 Pack) (V),160.0,80.0,9.0,2.0,0.0,5.0,80.0,17.0,0.0,10.0,2.0,310.27054794520546
+Lonceng Teko,Cinnabon® Delights™ (12 Pack – Serves 4) (V),930.0,480.0,53.0,13.0,2.0,40.0,480.0,104.0,3.0,59.0,9.0,310.27054794520546
+Lonceng Teko,Grande Toasted Breakfast Burrito – Bacon,560.0,270.0,30.0,10.0,0.0,230.0,1290.0,49.0,4.0,3.0,24.0,310.27054794520546
+Lonceng Teko,Grande Toasted Breakfast Burrito – Sausage,560.0,280.0,31.0,10.0,0.0,230.0,1150.0,49.0,4.0,3.0,22.0,310.27054794520546
+Lonceng Teko,Grande Toasted Breakfast Burrito – Steak,560.0,250.0,28.0,9.0,0.0,240.0,1310.0,50.0,4.0,3.0,27.0,310.27054794520546
+Lonceng Teko,Hash Brown (V),160.0,100.0,12.0,1.0,0.0,0.0,270.0,13.0,2.0,0.0,1.0,310.27054794520546
+Lonceng Teko,Hash Brown Toasted Breakfast Burrito – Bacon,570.0,300.0,33.0,10.0,0.0,135.0,1270.0,49.0,4.0,2.0,21.0,310.27054794520546
+Lonceng Teko,Hash Brown Toasted Breakfast Burrito – Sausage,570.0,300.0,34.0,10.0,0.0,130.0,1130.0,49.0,4.0,2.0,18.0,310.27054794520546
+Lonceng Teko,Hash Brown Toasted Breakfast Burrito – Steak,570.0,270.0,30.0,9.0,0.0,140.0,1290.0,50.0,4.0,2.0,24.0,310.27054794520546
+Lonceng Teko,7-Up (16 fl oz),190.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,70.0,46.0,38.94619666048237,1.4548872180451127,46.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Brisk® Mango Iced Tea (16 fl oz),100.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,50.0,26.0,38.94619666048237,1.4548872180451127,26.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Brisk® Unsweetened No Lemon Iced Tea (16 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,60.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Diet Dr Pepper® (16 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,95.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Diet Mtn Dew® (16 fl oz),5.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,75.0,1.0,38.94619666048237,1.4548872180451127,1.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Diet Pepsi® (16 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,75.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Dr Pepper® (16 fl oz),190.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,60.0,52.0,38.94619666048237,1.4548872180451127,51.0,9.43466172381835,310.27054794520546
+Lonceng Teko,G2 – Fruit Punch (16 fl oz),30.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,140.0,7.0,38.94619666048237,1.4548872180451127,6.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® (16 fl oz),220.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,70.0,59.0,38.94619666048237,1.4548872180451127,58.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® Baja Blast™ (16 fl oz),220.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,65.0,59.0,38.94619666048237,1.4548872180451127,59.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® Baja Blast Zero Sugar (16 fl oz),5.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,70.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® Kickstart™ Orange Citrus (16 fl oz),70.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,75.0,18.0,38.94619666048237,1.4548872180451127,18.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mug® Root Beer (16 fl oz),190.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,60.0,52.0,38.94619666048237,1.4548872180451127,52.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Pepsi® (16 fl oz),200.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,45.0,55.0,38.94619666048237,1.4548872180451127,55.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Pepsi® Wild Cherry (16 fl oz),210.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.0,56.0,38.94619666048237,1.4548872180451127,56.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Pepsi® Zero Sugar (16 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,85.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Sierra Mist® (16 fl oz),200.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,45.0,54.0,38.94619666048237,1.4548872180451127,54.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Tropicana® Pink Lemonade (16 fl oz),210.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,210.0,53.0,38.94619666048237,1.4548872180451127,53.0,9.43466172381835,310.27054794520546
+Lonceng Teko,7-Up (20 fl oz),240.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,85.0,58.0,38.94619666048237,1.4548872180451127,58.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Brisk® Mango Iced Tea (20 fl oz),120.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,60.0,32.0,38.94619666048237,1.4548872180451127,32.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Brisk® Unsweetened No Lemon Iced Tea (20 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,75.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Diet Dr Pepper® (20 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,120.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Diet Mtn Dew® (20 fl oz),10.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,90.0,1.0,38.94619666048237,1.4548872180451127,1.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Diet Pepsi® (20 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,95.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Dr Pepper® (20 fl oz),240.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,75.0,65.0,38.94619666048237,1.4548872180451127,64.0,9.43466172381835,310.27054794520546
+Lonceng Teko,G2 – Fruit Punch (20 fl oz),35.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,180.0,9.0,38.94619666048237,1.4548872180451127,8.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® (20 fl oz),270.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,85.0,73.0,38.94619666048237,1.4548872180451127,73.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® Baja Blast™ (20 fl oz),280.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,80.0,74.0,38.94619666048237,1.4548872180451127,73.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® Baja Blast Zero Sugar (20 fl oz),10.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,85.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® Kickstart™ Orange Citrus (20 fl oz),90.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,90.0,23.0,38.94619666048237,1.4548872180451127,22.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mug® Root Beer (20 fl oz),240.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,75.0,65.0,38.94619666048237,1.4548872180451127,65.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Pepsi® (20 fl oz),250.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,55.0,69.0,38.94619666048237,1.4548872180451127,69.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Pepsi® Wild Cherry (20 fl oz),260.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,50.0,70.0,38.94619666048237,1.4548872180451127,70.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Pepsi® Zero Sugar (20 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,105.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Sierra Mist® (20 fl oz),260.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,55.0,68.0,38.94619666048237,1.4548872180451127,68.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Tropicana® Pink Lemonade (20 fl oz),260.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,260.0,67.0,38.94619666048237,1.4548872180451127,67.0,9.43466172381835,310.27054794520546
+Lonceng Teko, ,287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Lonceng Teko,FOUNTAIN BEVERAGES (30 OZ),287.3565754633716,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,40.64789991063449,427.7226148409894,38.94619666048237,1.4548872180451127,24.067978533094813,9.43466172381835,310.27054794520546
+Lonceng Teko,7-Up (30 fl oz),350.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,125.0,87.0,38.94619666048237,1.4548872180451127,87.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Brisk® Mango Iced Tea (30 fl oz),180.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,90.0,48.0,38.94619666048237,1.4548872180451127,48.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Brisk® Unsweetened No Lemon Iced Tea (30 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,115.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Diet Dr Pepper® (30 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,180.0,1.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Diet Mtn Dew® (30 fl oz),10.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,140.0,1.0,38.94619666048237,1.4548872180451127,1.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Diet Pepsi® (30 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,140.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Dr Pepper® (30 fl oz),360.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,110.0,98.0,38.94619666048237,1.4548872180451127,96.0,9.43466172381835,310.27054794520546
+Lonceng Teko,G2 – Fruit Punch (30 fl oz),50.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,270.0,13.0,38.94619666048237,1.4548872180451127,12.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® (30 fl oz),410.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,125.0,110.0,38.94619666048237,1.4548872180451127,109.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® Baja Blast™ (30 fl oz),420.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,120.0,110.0,38.94619666048237,1.4548872180451127,110.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® Baja Blast Zero Sugar (30 fl oz),15.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,125.0,0.0,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mtn Dew® Kickstart™ Orange Citrus (30 fl oz),130.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,140.0,34.0,38.94619666048237,1.4548872180451127,33.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Mug® Root Beer (30 fl oz),360.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,110.0,98.0,38.94619666048237,1.4548872180451127,98.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Pepsi® (30 fl oz),380.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,80.0,104.0,38.94619666048237,1.4548872180451127,103.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Pepsi® Wild Cherry (30 fl oz),390.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,80.0,105.0,38.94619666048237,1.4548872180451127,105.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Pepsi® Zero Sugar (30 fl oz),0.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,160.0,427.7226148409894,38.94619666048237,1.4548872180451127,0.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Sierra Mist® (30 fl oz),380.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,80.0,101.0,38.94619666048237,1.4548872180451127,101.0,9.43466172381835,310.27054794520546
+Lonceng Teko,Tropicana® Pink Lemonade (30 fl oz),390.0,117.55555555555556,11.682576459684894,4.066790352504638,0.14087117701575533,390.0,100.0,38.94619666048237,1.4548872180451127,100.0,9.43466172381835,310.27054794520546
+Pizza Topi,Detroit Double Cheesy Pizza Slice,280.0,117.55555555555556,12.0,6.0,0.0,30.0,560.0,31.0,2.0,2.0,13.0,310.27054794520546
+Pizza Topi,Detroit Double Pepperoni Pizza Slice,330.0,117.55555555555556,17.0,7.0,0.0,40.0,720.0,30.0,2.0,2.0,14.0,310.27054794520546
+Pizza Topi,Detroit Meaty Pizza Slice,320.0,117.55555555555556,16.0,6.0,0.0,35.0,640.0,31.0,2.0,2.0,14.0,310.27054794520546
+Pizza Topi,Detroit Supremo Pizza Slice,290.0,117.55555555555556,13.0,6.0,0.0,30.0,570.0,31.0,2.0,2.0,13.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Backyard BBQ Chicken Personal Pan,180.0,117.55555555555556,6.0,2.0,0.0,15.0,370.0,25.0,1.0,8.0,8.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Backyard BBQ Chicken Medium,270.0,117.55555555555556,10.0,4.0,0.0,25.0,450.0,33.0,2.0,6.0,11.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Backyard BBQ Chicken Large,380.0,117.55555555555556,16.0,6.0,0.0,35.0,650.0,43.0,2.0,7.0,16.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Beyond Meat® Pepperoni Medium,240.0,117.55555555555556,10.0,4.5,0.0,15.0,470.0,29.0,2.0,1.0,10.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Beyond Meat® Pepperoni Large,350.0,117.55555555555556,16.0,6.0,0.0,25.0,680.0,38.0,3.0,2.0,14.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Buffalo Chicken Personal Pan,160.0,117.55555555555556,5.0,2.0,0.0,15.0,570.0,22.0,1.0,2.0,7.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Buffalo Chicken Medium,240.0,117.55555555555556,9.0,3.5,0.0,20.0,680.0,31.0,2.0,2.0,11.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Buffalo Chicken Large,350.0,117.55555555555556,14.0,5.0,0.0,30.0,850.0,40.0,2.0,2.0,15.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Cheese Personal Pan,150.0,117.55555555555556,6.0,2.5,0.0,15.0,310.0,17.0,1.0,2.0,7.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Cheese Medium,250.0,117.55555555555556,10.0,4.5,0.0,25.0,450.0,28.0,2.0,1.0,11.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Cheese Large,360.0,117.55555555555556,17.0,7.0,0.0,35.0,660.0,37.0,2.0,2.0,16.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Chicken Bacon Parmesan Personal Pan,180.0,117.55555555555556,8.0,3.0,0.0,20.0,350.0,17.0,1.0,2.0,9.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Chicken Bacon Parmesan Medium,270.0,117.55555555555556,13.0,4.5,0.0,30.0,470.0,27.0,2.0,1.0,12.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Chicken Bacon Parmesan Large,390.0,117.55555555555556,20.0,7.0,0.0,40.0,680.0,35.0,2.0,2.0,18.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Hawaiian Chicken Personal Pan,150.0,117.55555555555556,5.0,2.0,0.0,15.0,330.0,18.0,1.0,3.0,8.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Hawaiian Chicken Medium,240.0,117.55555555555556,9.0,3.5,0.0,20.0,480.0,29.0,2.0,2.0,12.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Hawaiian Chicken Large,350.0,117.55555555555556,15.0,5.0,0.0,30.0,690.0,38.0,2.0,3.0,17.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Meat Lover’s® Personal Pan,210.0,117.55555555555556,12.0,4.5,0.0,25.0,460.0,18.0,1.0,2.0,9.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Meat Lover’s® Medium,320.0,117.55555555555556,17.0,6.0,0.0,35.0,640.0,28.0,2.0,1.0,13.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Meat Lover’s® Large,470.0,117.55555555555556,27.0,10.0,0.0,50.0,940.0,37.0,2.0,2.0,19.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Pepperoni Personal Pan,150.0,117.55555555555556,7.0,2.5,0.0,15.0,310.0,17.0,1.0,2.0,6.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Pepperoni Medium,250.0,117.55555555555556,11.0,4.5,0.0,25.0,470.0,28.0,2.0,1.0,10.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Pepperoni Large,370.0,117.55555555555556,18.0,6.0,0.0,35.0,680.0,36.0,2.0,2.0,15.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Pepperoni Lover’s® Personal Pan,180.0,117.55555555555556,9.0,3.5,0.0,20.0,370.0,17.0,1.0,2.0,8.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Pepperoni Lover’s® Medium,300.0,117.55555555555556,15.0,6.0,0.0,35.0,580.0,28.0,2.0,1.0,13.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Pepperoni Lover’s® Large,440.0,117.55555555555556,24.0,9.0,0.5,50.0,850.0,37.0,3.0,2.0,19.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Supreme Personal Pan,170.0,117.55555555555556,8.0,3.0,0.0,15.0,360.0,18.0,1.0,2.0,7.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Supreme Medium,270.0,117.55555555555556,13.0,5.0,0.0,25.0,500.0,29.0,2.0,2.0,11.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Supreme Large,390.0,117.55555555555556,20.0,7.0,0.0,40.0,740.0,37.0,2.0,2.0,16.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Ultimate Cheese Lover’s® Personal Pan,170.0,117.55555555555556,8.0,3.5,0.0,15.0,330.0,17.0,1.0,2.0,8.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Ultimate Cheese Lover’s® Medium,270.0,117.55555555555556,13.0,5.0,0.0,25.0,470.0,27.0,2.0,1.0,12.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Ultimate Cheese Lover’s® Large,390.0,117.55555555555556,20.0,8.0,0.0,40.0,670.0,36.0,2.0,2.0,17.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Veggie Lover’s® Personal Pan,140.0,117.55555555555556,5.0,2.0,0.0,10.0,290.0,18.0,1.0,2.0,6.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Veggie Lover’s® Medium,230.0,117.55555555555556,9.0,3.5,0.0,15.0,420.0,29.0,2.0,2.0,9.0,310.27054794520546
+Pizza Topi,Pan Pizza Slices Veggie Lover’s® Large,330.0,117.55555555555556,15.0,5.0,0.0,25.0,620.0,38.0,3.0,3.0,14.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Backyard BBQ Chicken Small,140.0,117.55555555555556,4.0,2.0,0.0,15.0,250.0,20.0,1.0,4.0,6.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Backyard BBQ Chicken Medium,220.0,117.55555555555556,7.0,3.0,0.0,20.0,390.0,31.0,2.0,6.0,10.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Backyard BBQ Chicken Large,300.0,117.55555555555556,10.0,4.5,0.0,30.0,530.0,40.0,2.0,7.0,14.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Beyond Meat® Pepperoni Medium,200.0,117.55555555555556,7.0,3.5,0.0,15.0,410.0,26.0,2.0,1.0,9.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Beyond Meat® Pepperoni Large,280.0,117.55555555555556,10.0,5.0,0.0,20.0,560.0,35.0,3.0,2.0,12.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices  Buffalo Chicken Small,130.0,117.55555555555556,3.5,1.5,0.0,10.0,380.0,19.0,1.4548872180451127,24.067978533094813,6.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices  Buffalo Chicken Medium,200.0,117.55555555555556,5.0,2.5,0.0,20.0,560.0,28.0,2.0,1.0,9.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices  Buffalo Chicken Large,270.0,117.55555555555556,8.0,4.0,0.0,30.0,740.0,37.0,2.0,2.0,13.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Cheese Small,130.0,117.55555555555556,4.5,2.0,0.0,10.0,250.0,17.0,1.0,24.067978533094813,6.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Cheese Medium,210.0,117.55555555555556,8.0,3.5,0.0,20.0,390.0,26.0,2.0,1.0,10.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Cheese Large,290.0,117.55555555555556,10.0,5.0,0.0,30.0,540.0,34.0,3.0,2.0,13.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Chicken Bacon Parmesan Small,150.0,117.55555555555556,6.0,2.5,0.0,15.0,270.0,16.0,1.0,24.067978533094813,7.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Chicken Bacon Parmesan Medium,230.0,117.55555555555556,9.0,4.0,0.0,25.0,410.0,25.0,2.0,1.0,11.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Chicken Bacon Parmesan Large,310.0,117.55555555555556,13.0,5.0,0.0,35.0,560.0,33.0,2.0,1.0,16.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Hawaiian Chicken Small,130.0,117.55555555555556,4.0,1.5,0.0,10.0,270.0,17.0,1.0,1.0,7.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Hawaiian Chicken Medium,210.0,117.55555555555556,6.0,3.0,0.0,20.0,420.0,27.0,2.0,2.0,10.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Hawaiian Chicken Large,280.0,117.55555555555556,9.0,4.0,0.0,30.0,580.0,36.0,3.0,3.0,15.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Meat Lover’s® Small,180.0,117.55555555555556,9.0,3.5,0.0,20.0,370.0,17.0,1.0,24.067978533094813,7.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Meat Lover’s® Medium,290.0,117.55555555555556,15.0,6.0,0.0,30.0,590.0,26.0,2.0,1.0,12.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Meat Lover’s® Large,390.0,117.55555555555556,21.0,8.0,0.0,45.0,830.0,34.0,3.0,2.0,17.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Pepperoni Small,130.0,117.55555555555556,5.0,2.0,0.0,10.0,260.0,16.0,1.0,24.067978533094813,6.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Pepperoni Medium,220.0,117.55555555555556,9.0,4.0,0.0,20.0,420.0,25.0,2.0,1.0,9.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Pepperoni Large,300.0,117.55555555555556,13.0,6.0,0.0,30.0,590.0,34.0,3.0,2.0,13.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Pepperoni Lover’s® Small,160.0,117.55555555555556,7.0,3.0,0.0,20.0,310.0,17.0,1.0,24.067978533094813,7.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Pepperoni Lover’s® Medium,270.0,117.55555555555556,13.0,6.0,0.0,35.0,530.0,26.0,2.0,1.0,12.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Pepperoni Lover’s® Large,370.0,117.55555555555556,18.0,8.0,0.0,50.0,740.0,35.0,3.0,2.0,17.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Supreme Small,150.0,117.55555555555556,6.0,2.5,0.0,15.0,280.0,17.0,1.0,1.0,6.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Supreme Medium,240.0,117.55555555555556,10.0,4.0,0.0,25.0,450.0,26.0,2.0,2.0,10.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Supreme Large,320.0,117.55555555555556,14.0,6.0,0.0,35.0,630.0,35.0,3.0,2.0,14.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Ultimate Cheese Lover’s® Small,150.0,117.55555555555556,6.0,2.5,0.0,15.0,250.0,16.0,1.0,24.067978533094813,6.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Ultimate Cheese Lover’s® Medium,230.0,117.55555555555556,10.0,4.5,0.0,25.0,390.0,25.0,2.0,1.0,11.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Ultimate Cheese Lover’s® Large,310.0,117.55555555555556,13.0,6.0,0.0,35.0,540.0,33.0,2.0,1.0,15.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Veggie Lover’s® Small,120.0,117.55555555555556,4.0,1.5,0.0,10.0,230.0,17.0,1.0,1.0,5.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Veggie Lover’s® Medium,200.0,117.55555555555556,6.0,2.5,0.0,15.0,370.0,27.0,2.0,2.0,8.0,310.27054794520546
+Pizza Topi,Hand Tossed Slices Veggie Lover’s® Large,260.0,117.55555555555556,9.0,4.0,0.0,20.0,510.0,36.0,3.0,3.0,11.0,310.27054794520546
