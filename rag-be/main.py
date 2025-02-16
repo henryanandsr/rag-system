@@ -10,6 +10,7 @@ from pathlib import Path
 import pandas as pd
 from fastapi import FastAPI
 from pydantic import BaseModel
+import uvicorn
 
 app = FastAPI()
 
@@ -53,3 +54,7 @@ class Query(BaseModel):
 def ask_question(query: Query):
     ans = rag_answer(client, model, index, chunks, query.question)
     return {"answer": ans}
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run(app, host="0.0.0.0", port=port)
