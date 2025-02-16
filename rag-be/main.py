@@ -13,7 +13,7 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
-vector_store_path = "../doc/vector_store.index"
+vector_store_path = "doc/vector_store.index"
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Initialize Groq client
@@ -22,11 +22,11 @@ load_dotenv(dotenv_path)
 client = groq.Client(api_key=os.environ["GROQ_API_KEY"])
 
 # Load PDF and preprocess
-pdf_text = extract_text_from_pdf("../doc/makanan-sehat.pdf")
+pdf_text = extract_text_from_pdf("doc/makanan-sehat.pdf")
 pdf_chunks = chunk_text(pdf_text)
 
 # Load CSV Files
-df = pd.read_csv("../doc/fast-food.csv")
+df = pd.read_csv("doc/fast-food.csv")
 csv_chunks = chunk_per_row(df)
 
 # Combine Chunks Files
@@ -43,7 +43,7 @@ else:
     dimension = chunk_embeddings.shape[1]
     index = faiss.IndexFlatL2(dimension)
     index.add(np.array(chunk_embeddings))
-    faiss.write_index(index, "../doc/vector_store.index")
+    faiss.write_index(index, "doc/vector_store.index")
 
 
 class Query(BaseModel):
