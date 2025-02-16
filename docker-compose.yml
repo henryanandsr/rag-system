@@ -1,0 +1,26 @@
+version: "3.13"
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    ports:
+      - "8000:80"
+    environment:
+      - GROQ_API_KEY=${GROQ_API_KEY}
+    volumes:
+      - ./src:/code/app
+    restart: always
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    ports:
+      - "7860:7860"
+    depends_on:
+      - backend
+    volumes:
+      - ./rag-fe:/app
+    restart: always
