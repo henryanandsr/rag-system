@@ -8,8 +8,12 @@ import os
 from dotenv import load_dotenv
 from pathlib import Path
 import pandas as pd
+from fastapi import FastAPI
+from pydantic import BaseModel
 
-vector_store_path = "./doc/vector_store.index"
+app = FastAPI()
+
+vector_store_path = "../doc/vector_store.index"
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Initialize Groq client
@@ -18,11 +22,11 @@ load_dotenv(dotenv_path)
 client = groq.Client(api_key=os.environ["GROQ_API_KEY"])
 
 # Load PDF and preprocess
-pdf_text = extract_text_from_pdf("doc/makanan-sehat.pdf")
+pdf_text = extract_text_from_pdf("../doc/makanan-sehat.pdf")
 pdf_chunks = chunk_text(pdf_text)
 
 # Load CSV Files
-df = pd.read_csv("doc/fast-food.csv")
+df = pd.read_csv("../doc/fast-food.csv")
 csv_chunks = chunk_per_row(df)
 
 # Combine Chunks Files
@@ -39,12 +43,13 @@ else:
     dimension = chunk_embeddings.shape[1]
     index = faiss.IndexFlatL2(dimension)
     index.add(np.array(chunk_embeddings))
-    faiss.write_index(index, "./doc/vector_store.index")
+    faiss.write_index(index, "../doc/vector_store.index")
 
-# Interactive loop
-while True:
-    q = input("Ask a question (or type 'exit' to quit): ")
-    if q.lower() == "exit":
-        break
-    ans = rag_answer(client,model,index, chunks, q)
-    print("Answer:", ans)
+
+class Query(BaseModel):
+    question: str
+
+@app.post("/ask")
+def ask_question(query: Query):
+    ans = rag_answer(client, model, index, chunks, query.question)
+    return {"answer": ans}
