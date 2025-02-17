@@ -1,0 +1,112 @@
+Question,RAG_Answer,Answer,Cosine_Similarity,ROUGE-1,ROUGE-2,ROUGE-L
+Apa yang dimaksud dengan fast food?,Makanan cepat saji.,"Fast food adalah makanan yang kaya akan lemak tidak sehat, garam, dan tambahan lainnya yang kurang baik untuk kesehatan.",0.4602464437484741,0.0,0.0,0.0
+Berapa kalori yang dimiliki oleh egg mcmuffin mcdollops?,300.0,Saya tidak tahu jumlah kalori yang dimiliki oleh egg McMuffin McDonald's karena informasi tersebut tidak tercantum dalam dokumen yang diberikan.,0.05362699180841446,0.0,0.0,0.0
+Apa saja jenis superfood?,"Berikut adalah beberapa jenis superfood yang disebutkan dalam teks:
+
+1. Buah-buahan superfood:
+ - Blueberry
+ - Alpukat
+ - Buah delima
+ - Acai berry
+
+2. Sayuran superfood:
+ - Bayam
+ - Brokoli
+ - Kale
+ - Rumput laut
+
+3. Biji-bijian dan kacang-kacangan superfood:
+ - Chia seed
+ - Quinoa
+ - Almond
+ - Walnut
+
+4. Makanan laut superfood:
+ - Salmon
+ - Sarden
+ - Kerang
+
+5. Rempah-rempah dan herbal superfood:
+ - Kunyit
+ - Jahe
+ - Kayu manis
+ - Bawang putih","Berikut adalah beberapa jenis superfood yang disebutkan dalam teks:
+
+1. Buah-buahan:
+ * Blueberries
+ * Avocados
+ * Pomegranates
+2. Sayuran:
+ * Spinach
+ * Kale
+ * Brokoli
+3. Biji-bijian dan kacang-kacangan:
+ * Chia
+ * Almond
+4. Lemak sehat:
+ * Salmon
+ * Minyak zaitun (olive oil)",0.8831532597541809,0.4819277060066774,0.19999999527933895,0.45783132046450864
+Bagaimana perbandingan realfood dan makanan instan?,"Berikut adalah perbandingan antara real food dan makanan instan berdasarkan teks yang disediakan:
+
+ **Pengaruh terhadap Kesehatan:**
+
+ * Makanan Instan: Meningkatkan risiko obesitas, penyakit jantung, dan diabetes.
+ * Realfood: Menjaga kesehatan tubuh dan mengurangi risiko penyakit kronis.
+
+ **Sumber Energi:**
+
+ * Makanan Instan: Sumber kalori kosong yang tidak memberikan energi berkelanjutan.
+ * Realfood: Memberikan energi yang stabil dan tahan lama.
+
+ **Efek terhadap Sistem Pencernaan:**
+
+ * Makanan Instan: Dapat menyebabkan gangguan pencernaan akibat rendahnya serat.
+ * Realfood: Menjaga kesehatan pencernaan dengan kandungan serat alami.
+
+Dengan demikian, dapat dilihat bahwa real food memiliki banyak kelebihan dibandingkan dengan makanan instan, baik dari segi kesehatan, sumber energi, dan efek terhadap sistem pencernaan.","Dasar makanan instan menilai tinggi gizi dan menawarkan manfaat kesehatan yang lebih, sedangkan real food menawarkan variasi nutrisi dan variasi hidup yang lebih seimbang. Real food memungkinkan kita untuk memilih mana rasa dan sumber protein yang lebih seimbang dibandingkan dengan kalori dan gula yang terkandung dalam makanan instan. Makanan instan juga memiliki level proses yang lebih tinggi yaitu penggunaan penyedap, warna, dan tekstur bahan pangan yang dapat mempengaruhi keseimbangan manfaat kesehatan individu.",0.7823106646537781,0.22222221740362824,0.03703703220850543,0.19047618565759653
+Apa jenis makanan yang cocok untuk olahraga?,"Menurut konteks yang diberikan, jenis makanan yang cocok untuk olahraga terdiri dari:
+
+- Karbohidrat kompleks: Oatmeal, roti gandum, nasi merah, atau quinoa.
+- Protein berkualitas: Telur rebus, yogurt Yunani, atau kacang-kacangan.
+- Lemak sehat: Alpukat, selai kacang alami, atau biji chia.
+- Pisang atau kurma yang kaya akan gula alami.
+- Minuman isotonik untuk menggantikan elektrolit yang hilang.
+- Snack protein seperti protein bar rendah gula.
+- Protein tinggi: Dada ayam panggang, ikan, atau tahu.
+- Karbohidrat sehat: Kentang manis, nasi merah, atau pasta gandum.
+- Lemak sehat: Kacang-kacangan, minyak zaitun, atau alpukat.
+- Minuman pemulihan: Susu coklat rendah lemak atau smoothie protein.
+
+Namun perlu diingat bahwa pilihan makanan yang cocok untuk olahraga dapat bervariasi tergantung pada jenis olahraga, intensitas, dan durasi latihan. Oleh karena itu, penting untuk mempelajari kebutuhan gizi yang spesifik untuk aktivitas fisik yang akan dilakukan.","Pada bagian ""Eksersi & Nutrisi Sinergi"", informasi mengenai jenis makanan yang cocok untuk olahraga disebutkan sebagai berikut:
+
+- Pre-workout: Carbs + protein (oatmeal, eggs, nuts)
+- Selama workout (workout): Hydration + light snacks (bananas, electrolytes)
+- Post-workout: Protein-rich foods (chicken, fish, tofu) untuk pemulihan otot.
+
+Namun, ini merupakan contoh makanan yang cocok untuk olahraga, bukan daftar makanan lengkap untuk olahraga. Sebagai tambahan, saran lain untuk olahraga adalah menggunakan makanan ringan yang rendah kalori dan tinggi karbohidrat kompleks, serta minuman yang dapat membantu menjaga cairan tubuh.",0.6996452808380127,0.1454545405884299,0.048543684591856436,0.12121211634600572
+Bagaimana cara mengatasi emotional eating?,"Mengatasi emotional eating memerlukan strategi yang komprehensif. Berikut beberapa cara yang dapat dilakukan:
+
+1. **Mengenali pemicu emosi**: Catat kapan dan dalam kondisi apa Anda cenderung makan secara emosional. Identifikasi pola tertentu, misalnya saat merasa stres, bosan, atau kesepian.
+2. **Mengembangkan strategi alternatif untuk mengatasi emosi**: Latihan Relaksasi, menulis jurnal, melakukan aktivitas yang menyenangkan seperti berjalan-jalan, membaca buku, atau mendengarkan musik dapat menjadi pengalihan yang sehat.
+3. **Makan dengan kesadaran (Mindful Eating)**: Perhatikan sinyal lapar dan kenyang dari tubuh. Hindari makan sambil menonton TV atau bermain gadget, yang dapat menyebabkan makan berlebihan. Kunyah makanan dengan perlahan dan nikmati setiap suapan.
+4. **Menyusun pola makan yang sehat dan teratur**: Konsumsi makanan kaya serat, protein, dan lemak sehat untuk menjaga kadar gula darah stabil. Jangan melewatkan makan, karena rasa lapar berlebihan dapat memicu emotional eating.
+5. **Membangun kebiasaan positif**: Luangkan waktu untuk berolahraga secara teratur untuk membantu mengelola stres dan meningkatkan suasana hati. Tidur yang cukup setiap malam untuk mengatur hormon lapar dan kenyang.
+6. **Menghindari makanan pemicu**: Jika Anda cenderung makan berlebihan saat ada makanan tertentu di sekitar, hindari menyimpannya di rumah. Gantilah camilan tidak sehat dengan alternatif yang lebih sehat.
+7. **Mencari dukungan**: Bergabung dengan komunitas atau kelompok dukungan yang memiliki tujuan serupa dalam mengatasi emotional eating. Konsultasi dengan ahli gizi atau psikolog dapat membantu mengembangkan strategi yang lebih personal.
+8. **Menerapkan teknik distraksi**: Saat keinginan untuk makan secara emosional muncul, lakukan aktivitas lain yang dapat mengalihkan perhatian, seperti berjalan-jalan, menelepon teman, atau melakukan hobi favorit.
+
+Dengan menyesuaikan gaya hidup dan menerapkan strategi yang tepat, Anda dapat mengurangi kebiasaan emotional eating dan memiliki pola makan yang lebih sehat.","Cara mengatasi emotional eating adalah dengan mengidentifikasi triggers emosi dan menggantinya dengan kebiasaan sehat seperti olahraga, jurnal, dan makan sadar.",0.6915184855461121,0.10362694131386078,0.015151513815714078,0.09326424701334267
+Apa itu diet mediterania?,"Diet Mediterania adalah pola makan yang berfokus pada konsumsi makanan alami seperti buah, sayur, biji-bijian, kacang-kacangan, ikan, dan minyak zaitun. Pola makan ini juga mengurangi konsumsi daging merah dan makanan olahan. Manfaat dari diet ini adalah menurunkan risiko penyakit jantung dan stroke, mengontrol berat badan, mengurangi peradangan dalam tubuh, meningkatkan kesehatan otak, dan mencegah penurunan kognitif.","Diet mediterania adalah suatu pendekatan makanan yang menitikberatkan pada makanan yang berasal dari per惌an, minyak zaitun, dan protein yang seimbang.",0.8024088740348816,0.24999999609863285,0.0,0.21874999609863285
+Gejala apa yang muncul karena alergi makanan?,"Gejala alergi makanan antara lain: Ruam kulit atau gatal-gatal, pembengkakan di wajah, bibir, atau lidah, mual dan muntah, kesulitan bernapas, dan anafilaksis (reaksi alergi berat yang mengancam nyawa).",Saya tidak tahu.,0.45318320393562317,0.0,0.0,0.0
+Apa tujuan zat aditif pada makanan?,"Zat aditif pada makanan memiliki beberapa tujuan, antara lain:
+
+- Menjaga kualitas dan keamanan pangan
+- Meningkatkan rasa dan aroma makanan
+- Meningkatkan kelembutan dan tekstur makanan
+- Membantu dalam proses pengolahan makanan
+- Menghindari kerusakan pada makanan yang disimpan dalam jangka waktu lama
+
+Namun, penting untuk diingat bahwa penggunaan zat aditif harus diawasi dengan baik untuk mencegah reaksi alergi dan intoleransi, serta dampak negatif bagi kesehatan.",Saya tidak tahu.,0.36796894669532776,0.0,0.0,0.0
+Apa standar label makanan di Indonesia?,Saya tidak tahu tentang standar label makanan di Indonesia.,Saya tidak tahu. Informasi yang diberikan tidak menyebutkan tentang standar label makanan di Indonesia.,0.9634668231010437,0.8181818133471075,0.6666666619501135,0.8181818133471075
+Apa makanan dari raja burger yang paling tinggi kalori?,Saya tidak tahu tentang informasi raja burger dan makanannya dalam konteks pertanyaan Anda.,Saya tidak tahu.,0.7349031567573547,0.374999996953125,0.2857142832653061,0.374999996953125
+Berapa total lemak tak jenuh yang dimiliki Blue Raspberry Freeze?,"Saya tidak tahu bahwa dari informasi yang ada tentang Blue Raspberry Freeze, nilai untuk Total Lemak dan semua jenis lemaknya kesemuanya dimulai sejak angka 0.",Saya tidak tahu informasi tentang Blue Raspberry Freeze dan total lemak tak jenuh yang dimilikinya.,0.9213237762451172,0.4499999953125,0.2105263111357342,0.3999999953125

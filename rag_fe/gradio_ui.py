@@ -1,7 +1,7 @@
 import gradio as gr
 import requests
 
-API_URL = "http://backend:80"
+API_URL = "https://rag-system-production.up.railway.app"
 
 def ask_question(question):
     try:

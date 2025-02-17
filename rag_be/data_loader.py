@@ -1,6 +1,5 @@
 import PyPDF2
 import faiss
-
 # Extract text from PDF
 def extract_text_from_pdf(file_path):
     with open(file_path, "rb") as file:
